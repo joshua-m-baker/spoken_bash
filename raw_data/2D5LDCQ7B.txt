@@ -1,0 +1,32 @@
+> grep alias ~/.bashrc
+grep space alias space tilde slash dot bash R C
+> battery-life
+battery dash life
+> yay -Syyu
+yay dash capital s y y u
+> cd ..
+c d space dot dot
+> ls
+l s
+> pacman -S gnupg
+pacman space dash s gnu p g
+> man bash
+man space bash
+> ls /run/user/1000/gvfs/
+ls space slash run slash user slash one thousand slash g v f s slash
+> cat foo.txt
+cat space foo dot t x t
+> sudo find / | grep SAMSUNG
+sudo space find space slash pipe grep samsung all caps
+> sudo trash -f foo.m4a
+sudo space trash dash f space foo dot m 4 a
+> sudo pacman -S mediainfo
+sudo space pacman dash s space mediainfo
+> mv journal.txt journal/
+m v space journal dot txt space journal slash
+> ls /run/user/
+l s slash run slash user
+> history | sort -R | head -20 | cut -f3 -d' '
+history pipe sort dash capital r pipe head dash twenty pipe cut dash f 3 space dash d single quote space single quote
+> uuidgen
+u u i d gen

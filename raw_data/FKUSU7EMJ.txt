@@ -1,0 +1,163 @@
+battery 	battery
+cat .ssh/config	cat dot s s h slash config
+cat .ssh/config 	cat dot s s h slash config
+cat .ssh/known_hosts	cat dot s s h slash known underscore hosts
+cat > tmp	cat into temp
+cd	c d
+cd -	c d hyphen
+cd ..	c d dot dot
+cd dev-python/vtk	c d dev python slash vtk
+cd field-lt/	c d field hyphen ell tee
+cd gmni/	c d g m n i slash
+cd hfst	c d h f s t
+cd ../hse	c d dot dot slash h s e
+cd ../hse/	c d dot dot slash h s e slash
+cd hse/	c d h s e slash
+cd l	c d l
+cd letters/	c d letters slash
+cd lexd/	c d lex d slash
+cd lexd-paper/	c d lex d hyphen paper slash
+cd ling	c d ling
+cd ling/	c d ling slash
+cd ling/field-lt/	c d ling slash field dash l t slash
+cd slides/	c d slides slash
+cd src/	c d source slash
+cd src/hfst/	c d source slash h f s t slash
+cd talks/	c d talks slash
+cd talks/l	c d talks slash l
+cd /var/cache/portage/repos/gentoo/	c d slash var slash cache slash portage slash repos slash gentoo slash
+cd ~/work/	c d home slash work slash
+cd work/	c d work slash
+cd work/hse/	c d work slash hse slash
+cd work/ling/field-lt/slides/	c d work slash ling slash field hyphen l t slash slides slash
+cd work/ling/lexd/	c d work slash ling slash lex d
+cd work/xri/	c d work slash x r i slash
+./configure 	period slash configure
+cp 01-morphology.pdf{,.bak}	c p zero one hyphen morphology dot pdf open brace comma dot bak close brace
+cp ../../hse/rec.tex ./	c p dot dot slash dot dot slash h s e slash rec dot tex space dot slash
+curl 'http://hkps.pool.sks-keyservers.net/pks/lookup?op=hget&search=035FA090231CF5E80B207EECE31154A9'	curl open quote h t t p colon slash slash h k p s dot pool dot s k s hyphen keyservers dot net slash p k s slash lookup question mark op equals h get and search equals 0 3 5 F A 0 9 0 2 3 1 C F 5 E 8 0 B 2 0 7 E E C E 3 1 1 5 4 A 9 close quote
+curl http://hkps.pool.sks-keyservers.net/pks/lookup?op=hget&search=035FA090231CF5E80B207EECE31154A9	curl h t t p colon slash slash h k p s dot pool dot s k s hyphen keyservers dot net slash p k s slash lookup question mark op equals h get and search equals 0 3 5 F A 0 9 0 2 3 1 C F 5 E 8 0 B 2 0 7 E E C E 3 1 1 5 4 A 9
+curl 'http://hkps.pool.sks-keyservers.net/pks/lookup?op=hget&search=035FA090231CF5E80B207EECE31154A9' | gpg --list-packets	curl open quote h t t p colon slash slash h k p s dot pool dot s k s hyphen keyservers dot net slash p k s slash lookup question mark op equals h get and search equals 0 3 5 F A 0 9 0 2 3 1 C F 5 E 8 0 B 2 0 7 E E C E 3 1 1 5 4 A 9 close quote pipe into g p g dash dash list dash packets
+curl https://dpaste.org/j1kM.txt	curl h t t p s colon slash slash d paste dot org slash j 1 k M dot t x t
+d	d
+echo $DISPLAY	echo display
+echo пьет | aspell -a -l ru	echo пьет pipe aspell dash a dash l ru
+feh	feh
+feh test.jpg	feh test dot j p g
+fg	f g
+gimp	gimp
+git add notes/*.md	git add notes slash star dot m d
+git add -u .	git add dash u dot
+git clone --depth=1 https://github.com/hfst/hfst	git clone dash dash depth equals 1 h t t p s colon slash slash github dot com slash h f s t slash h f s t
+git clone https://git.sr.ht/~sircmpwn/gmni	git clone h t t p s colon slash slash git dot sir dot hat slash tilde slash sir comp win slash g m n i
+git commit -m "move notes into subdir"	git commit dash m quote move notes into subdir quote
+git status	git status
+./gmni gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi	period slash g m n i gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi
+./gmni gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi 	period slash g m n i gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi
+./gmni gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi -j	period slash g m n i gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi dash j
+./gmni gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi -j trust	period slash g m n i gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi dash j trust
+./gmni --help	period slash g m n i dash dash help
+./gmni -j gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi 	period slash g m n i dash j gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi
+./gmni -j once gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi 	period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi
+./gmni -j once gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi  | autoformat | less	period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi pipe into autoformat pipe less
+./gmni -j once gemini://drewdevault.com/ 2>/dev/null  | autoformat | head	period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe into autoformat pipe head
+./gmni -j once gemini://drewdevault.com/ 2>/dev/null  | autoformat | head -n20	period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe into autoformat pipe head dash n 20
+./gmni -j once gemini://drewdevault.com/ 2>/dev/null  | fmt | head	period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe into format pipe head
+./gmni -j once gemini://drewdevault.com/  | autoformat | head	period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe into autoformat pipe head
+./gmni -j once gemini://drewdevault.com/  | autoformat | less	period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe into autoformat pipe less
+./gmni -j once gemini://drewdevault.com/  | fmt	period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe into format
+./gmni -j once gemini://drewdevault.com/  | fmt | head	period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe into format pipe head
+./gmni -j once gemini://drewdevault.com/  | head	period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe head
+./gmni -j once gemini://drewdevault.com/  | less	period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe less
+./gmni -j trust gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi 	period slash g m n i dash j trust gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi
+history | cut -c8-	history pipe cut dash c 8 dash
+history | cut -c8- | sort -u | vipe > annot	history pipe cut dash c 8 dash pipe sort dash u pipe vipe into annot
+history | cut -c8- | sort -u | wc -l	history pipe cut dash c 8 dash pipe sort dash u pipe w c dash l
+history | cut -f2	history pipe cut dash f 2
+history | sort -R | head -n20	history or sort dash R or head dash n 20
+lexd test.lexd | hfst-txt2fst | hfst-fst2strings	lex d test dot lex d or h f s t text 2 f s t or h f s t f s t 2 strings
+lexd test.lexd | lt-expand 	lex d test dot lex d or l t expand
+lexd test.lexd | lt-expand -	lex d test dot lex d or l t expand dash
+lexd test.lexd | lt-expand /dev/stdin	lex d test dot lex d or l t expand slash dev slash s t d in
+ln -s ~/work/hse hse	l n dash s home slash work slash hse hse
+ls	l s
+ls -l	l s dash l
+ls -lh	l s dash l h
+ls -lh 01-morphology.	l s dash l h 0 1 dash morphology dot
+ls -lh 01-morphology.pdf 	l s dash l h 0 1 dash morphology dot p d f
+ls /usr/share/zoneinfo/	l s slash usr slash share slash zone info slash
+ls /usr/share/zoneinfo/America/	l s slash usr slash share slash zone info slash America slash
+ls /usr/share/zoneinfo/US	l s slash usr slash share slash zone info slash U S
+ls /var/db/pkg/media-gfx/	l s slash var slash db slash p k g slash media dash graphics slash
+lualatex 01-morphology.tex 	lua latex 0 1 dash morphology dot tex
+maim --help	m a i m dash dash help
+make	make
+man doc/gmni.1 	man doc slash g m n i dot 1
+man feh	man feh
+man gm	man g m
+man gm-crop	man g m crop
+man lt-comp	man l t comp
+man lt-proc	man l t proc
+man maim	man m a i m
+man perlre	man perl r e
+mkdir letters	make dir letters
+mkdir lexd	make dir lex d
+mkdir notes	make dir notes
+mkdir slides	make dir slides
+mkdir talks	make dir talks
+mv * notes/	move star notes slash
+mv rec.tex teaching.tex	move rec dot tex teaching dot tex
+perldoc autoformat	perl doc auto format
+perldoc Text::Autoformat	perl doc text colon colon auto format
+ssh dev.apertium.org 	s s h dev dot apertium dot org
+ssh xri 	s s h x r i
+TZ=US/Eastern date	T Z equals U S slash Eastern date
+TZ=US/Eastern date '+%z'	T Z equals U S slash Eastern date plus percent z
+TZ=US/Pacific date	T Z equals U S slash Pacific date
+TZ=US/Pacific date '+%z'	T Z equals U S slash Pacific date plus percent z
+TZ=US/Seattle date	T Z equals U S slash Seattle date
+vim $(which autoformat)	vim dollar open which auto format
+vim 01-morphology.tex	vim 0 1 morphology dot tex
+vim 01-morphology.tex 	vim 0 1 morphology dot tex
+vim abstract	vim abstract
+vim main.tex 	vim main dot tex
+vim rec.tex	vim rec dot tex
+vim rec.tex 	vim rec dot tex
+vim teaching.tex 	vim teaching dot tex
+vim tur.lexd	vim tur dot lex d
+vnm	v n m
+w3m duckduckgo.com/?q=costco+israel	w 3 m duck duck go dot com slash q equals costco plus israel
+w3m duckduckgo.com/?q=HIP_HCC_LIBRARIES	w 3 m duck duck go dot com slash q equals hip underscore h c c underscore libraries
+w3m duckduckgo.com/?q=scil	w 3 m duck duck go dot com slash q equals s c i l
+w3m duckduckgo.com/?q=slrn	w 3 m duck duck go dot com slash q equals s l r n
+w3m en.wikipedia.org/wiki/ablaut	w 3 m en dot wikipedia dot org slash wiki slash ablaut
+w3m en.wikipedia.org/wiki/generative_grammar	w 3 m en dot wikipedia dot org slash wiki slash generative underscore grammar
+w3m en.wikipedia.org/wiki/Keanu_Reeves	w 3 m en dot wikipedia dot org slash wiki slash keanu underscore reeves
+w3m en.wikipedia.org/wiki/Tree_transducer	w 3 m en dot wikipedia dot org slash wiki slash tree underscore transducer
+w3m github.com/apertium/lexd	w 3 m github dot com slash apertium slash lex d
+w3m https://arstechnica.com	w 3 m h t t p s colon slash slash ars technica dot com
+w3m https://bpa.st/FJ4Q	w 3 m h t t p s colon slash slash bpay dot s t slash f j 4 q
+w3m https://bsd.ac/hmspgij	w 3 m h t t p s colon slash slash b s d dot a c slash h m s p g i j
+w3m https://dev.gentoo.org/~mgorny/python-guide/distutils.html#conditional-distutils-setuptools-use-in-packages	w 3 m h t t p s colon slash slash dev dot gentoo dot org slash tilde m gorny slash python dash guide slash dist utils dot h t m l pound conditional dash distutils dash setup tools dash use dash in dash packages
+w3m https://dpaste.org/j1kM	w 3 m h t t p s colon slash slash d paste dot org slash j 1 k m
+w3m https://en.wiktionary.org/wiki/Seppo#English	w 3 m h t t p s colon slash slash en dot wiktionary dot org slash wiki slash Seppo pound English
+w3m https://forums.gentoo.org/viewtopic-t-1119790.html	w 3 m h t t p s colon slash slash forums dot gentoo dot org slash view topic dash t dash 1 1 1 9 7 9 0 dot h t m l
+w3m https://my.replika.ai/	w 3 m h t t p s colon slash slash my dot replika dot a i slash
+w3m https://public-inbox.org/meta/87v9m0l8t1.fsf@vuxu.org/	w 3 m h t t p s colon slash slash public dash inbox dot org slash meta slash 8 7 v 9 m 0 l 8 t 1 dot f s f at vushu dot org slash
+w3m lwn.net	w 3 m l w n dot net
+w3m news.ycombinator.com	w 3 m news dot y combinator dot com
+w3m news.ycombinator.net	w 3 m news dot y combinator dot net
+w3m wiki.apertium.org/wiki/	w 3 m wiki dot apertium dot org slash wiki slash
+w3m wiki.gentoo.org/wiki/PAM	w 3 m wiki dot gentoo dot org slash wiki slash pam
+w3m ycombinator.net	w 3 m y combinator dot net
+wgetpaste	w get paste
+wgetpaste test.lexd	w get paste test dot lex d
+wgetpaste ~/work/ling/lexd/talk-abstract 	w get paste home slash work slash ling slash lex d slash talk dash abstract
+xelatex 01-morphology.tex 	xelatex 0 1 dash morphology dot tex
+xelatex teaching.tex	xelatex teaching dot tex
+zathura 01-morphology.pdf 	zathura 0 1 dash morphology dot p d f
+zathura ~/alltt.pdf 	zathura home slash all t t dot p d f
+zathura Dunn-GrammarOfChukchi-1999	zathura Dunn dash Grammar Of Chukchi dash 19 99
+zathura ~/Dunn-GrammarOfChukchi-1999.pdf 	zathura home slash Dunn dash Grammar Of Chukchi dash 19 99 dot p d f
+zathura Dunn-GrammarOfChukchi-1999.pdf 	zathura Dunn dash Grammar Of Chukchi dash 19 99 dot p d f
+zathura ~/work/ling/lexd/lexd-paper/main.pdf 	zathura home slash work slash ling slash lex d slash lex d dash paper slash main dot p d f

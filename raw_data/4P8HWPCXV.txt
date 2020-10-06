@@ -1,0 +1,56 @@
+## cp update.bash output-of-apertium-kaz-morph.bash
+c p space update dot bash space output hyphen of hyphen apertium hyphen kaz hyphen morph dot bash
+
+## man sed
+man space sed
+
+## cd 1Working/10Thesis/
+c d space number one capitalise working slash number ten capitalise thesis slash
+
+## git push origin master
+git space push space origin space master
+
+## git pull
+git space pull
+
+## cat -s output-of-apertium-kaz-morph.rkt > /tmp/morph
+cat space option s space output hyphen of hyphen apertium hyphen kaz hyphen morph dot r k t space pipe to space slash tmp slash morph
+
+## bash loop-morph.bash
+bash space loop hyphen morph dot bash
+
+## git push origin master
+git space push space origin space master
+
+## make
+make
+
+## git commit -m "будем посмотреть, whether this one works"
+git space commit option m quote будем посмотреть comma whether this one works unquote
+
+## git add docs/index.scrbl docs/index.html
+git space add space docs slash index dot s c r b l space docs slash index dot h t m l
+
+## less output-of-apertium-kaz-morph.rkt
+less space output hyphen of hyphen apertium hyphen kaz hyphen morph dot rkt
+
+## pwd
+p w d
+
+## cd 1Working/2Selimcan.org/
+c d space number one capitalise working slash number two capitalise s e l i m c a n dot org slash
+
+## sudo apt-get autoremove
+sudo space apt hyphen get space autoremove
+
+## DOCSFOR=TARUEN make docs
+begin uppercase docs for equals t a r u e n end uppercase space make space docs
+
+## df -h /
+d f option h slash
+
+## grep -P "SELECT|REMOVE" ~/1Working/apertium-kaz/apertium-kaz.kaz.rlx
+grep option uppercase p space quote begin uppercase select symbol bar remove end uppercase unquote space tilde slash number one capitalise working slash apertium hyphen kaz slash apertium hyphen kaz dot kaz dot r l x
+
+## cp ~/1Working/1Taruen.com/Makefile.am 
+c p space tilde slash number one capitalise working slash number one capitalise taruen dot com slash capitalise makefile dot a m

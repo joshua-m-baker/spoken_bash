@@ -1,0 +1,47 @@
+# cat ~/scripts/list | grep Barcelona
+cat tilde forward slash scripts slash list pipe grep Barcelona
+
+# ping 8.8.8.8
+ping eight dot eight dot eight dot eight
+
+# git commit -a -m "add langs"
+git commit ei emm add langs
+
+# cat emnlp2020.tex
+cat ee emm enn ell pee twenty twenty dot tech
+
+# cat *.conllu | grep '^[0-9]' | wc -l
+cat star dot conll you pipe grep hat brackets zero to nine pipe double you see hyphen ell
+
+# cat .git/config | grep url
+cat dot git forward slash config grep you are ell
+
+# ssh ftyers@cl.indiana.edu
+ess ess aitch eff tyers at see ell dot indiana dot edu
+
+# for i in *.pdf; do pdftotext $i - ; done
+for i in star dot pdf do pdftotext dollar i hyphen done
+
+# ls -lsrth /tmp
+ell ess hyphen ell ess are tee aitch slash temp
+
+# git clone git@github.com:/apertium/apertium-ewo
+git clone git at github dot com slash apertium slash apertium hyphen ee double you oh
+
+# find . -name '*.pdf'
+find dot hyphen name star dot pdf
+
+# ps axu | grep opencon
+pee ess ei eks you grep opencon
+
+# cp /tmp/home.png assets/
+see pee slash temp slash home dot pee enn gee space assets forward slash
+
+# git pull
+git pull
+
+# git push
+git push
+
+# sudo kill -9 29049
+sudo kill hyphen nine two nine zero four nine

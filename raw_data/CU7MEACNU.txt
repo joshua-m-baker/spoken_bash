@@ -1,0 +1,36 @@
+ 1367  ./dix.sh 
+dot slash dix dot S H
+ 1103  cd ../../..
+C D dot dot slash dot dot slash dot dot
+ 1016  for f in *.png; do convert $f "$f.jpg"; done
+for F in star dot P N G semicolon do convert dollar F quote dollar F dot J P G quote semicolon done
+ 1442  sudo apt-get install lmodern
+sudo apt get install lmodern
+ 1909  cat Downloads/PNAW/en-clean.txt | head -n 5000 | sed 's/^/ * /g' | sed 's/$/ #/g' > madios/eng-corpus-short.txt
+cat downloads slash P N A W / E N dash clean dot T X T pipe head dash N five thousand pipe sed quote s slash caret slash space start space slash G quote pipe sed quote S slash dollar slash space pound slash G quote into M A D I O S slash eng dash corpus dash short dot T X T
+ 1293  cd parsing
+C D parsing
+ 1808  ./madios test/corpus.txt 0.9 0.01 5 0.65
+dot slash M A D I O S test slash corpus dot T X T zero point nine zero point zero one five zero point six five
+ 1311  grep -o "<head>.*</head>" dix_clean.xml | sed -E 's/<.?head>//g' > heads.txt
+grep dash O quote less than head greater than dot start less than slash head greater than quote dix underscore clean dot X M L pipe sed dash capital E quote S slash less than dot question mark head greater than slash slash G quote into heads dot T X T
+ 1017  sudo apt-get install culmus xfonts-efont-unicode xfonts-efont-unicode-ib xfonts-intl-european msttcorefonts
+sudo apt get install culmus X fonts dash E font dash unicode X fonts dash E font dash unicode dash I B X fonts dash I N T L dash european M S T T core fonts
+ 1752  echo "ei fod o wedi dod" | apertium -d . cym-morph
+echo quote ei fod o wedi dod quote pipe apertium dash d dot cym dash morph
+ 1417  make
+make
+ 1622  echo "roedd y dyn yn gwerthu pethau rhad" | apertium -d . cym-eng_rtx-transfer
+echo quote roedd y dyn yn gwerthu pethau rhad quote pipe apertium dash D dot cym dash eng underscore R T X dash transfer
+ 1667  make
+make
+ 1220  cd apertium-init/
+C D apertium init
+ 1440  sudo tlmgr install collection-fontsrecommended
+sudo T L M G R install collection dash fonts recommended
+ 1492  git commit -m "rename"
+git commit M rename
+ 1099  ./tally.py 
+dot slash tally dot P Y
+ 1735  echo "has" | apertium -d . eng-morph
+echo quote has quote pipe apertium dash D dot eng dash morph

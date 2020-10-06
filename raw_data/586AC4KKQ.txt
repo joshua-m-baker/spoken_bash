@@ -1,0 +1,39 @@
+# make install DESTDIR=/tmp/hubba
+make install destdir temp hubba
+
+# find /usr/local/ -type f -mtime -1
+find user local dash type f dash mtime minus one
+find user local type f mtime minus one
+
+# git diff -wb 60ed0d913a1c42403b58e593f9830695e83f19d7 bible.uzb.txt
+git diff dash w b six zero e d tab bible dot u z b dot t x t
+
+# grep -rl GENERIC_MAJOR_VERSION * | xargs -rn1 perl -pe 's/GENERIC_MAJOR_VERSION/VERSION_MAJOR/g;' -i
+grep dash r l all upper generic major version star piped to x args dash r n one perl dash p e substituting every generic major version with version major dash i
+
+# autoreconf -fvi && ./configure && make -j4 && make install V=1 VERBOSE=1
+autoreconf dash f v i and and dot slash configure and and make dash j four and and make install v one verbose one
+
+# svn up ~/langtech/*
+s v n up tilde langtech star
+
+# svn diff
+s v n diff
+
+# git diff
+git diff
+
+# ../../regtest/regtest.pl -r
+dot dot slash dot dot slash regtest regtest dash r
+
+# mkdir -pv .github/workflows
+makedir dash p v dot github workflows
+
+# time make -j4 2>&1 | tee build.log
+time make dash j four redirect error to out piped to tee build dot log
+
+# find . -type f -name '#*#' -exec rm -v '{}' \;
+find dot dash type f dash name hash star hash dash exec rm dash v quoted curly brackets backslash semicolon
+
+# cg3 --grammar-only --show-unused-sets -g dancg.kal 2>&1 | less
+c g three grammar only show unused sets grammar dan c g dot kal redirect error to out piped to less

@@ -1,0 +1,246 @@
+grep alias ~/.bashrc
+battery-life
+yay -Syyu
+cd ..
+cd ..
+ls
+ls
+pacman -S gnupg
+man bash
+ls /run/user/1000/gvfs/
+cat foo.txt
+sudo find / | grep SAMSUNG
+sudo trash -f foo.m4a
+sudo pacman -S mediainfo
+mv journal.txt journal/
+ls /run/user/
+history | sort -R | head -20 | cut -f3 -d' '
+uuidgen
+cp update.bash output-of-apertium-kaz-morph.bash
+man sed
+cd 1Working/10Thesis/
+git push origin master
+git push origin master
+git pull
+git pull
+cat -s output-of-apertium-kaz-morph.rkt > /tmp/morph
+bash loop-morph.bash
+make
+make
+make
+make
+git commit -m "будем посмотреть, whether this one works"
+git add docs/index.scrbl docs/index.html
+less output-of-apertium-kaz-morph.rkt
+pwd
+cd 1Working/2Selimcan.org/
+sudo apt-get autoremove
+DOCSFOR=TARUEN make docs
+df -h /
+grep -P "SELECT|REMOVE" ~/1Working/apertium-kaz/apertium-kaz.kaz.rlx
+cp ~/1Working/1Taruen.com/Makefile.am
+make install DESTDIR=/tmp/hubba
+find /usr/local/ -type f -mtime -1
+find /usr/local/ -type f -mtime -1
+git diff -wb 60ed0d913a1c42403b58e593f9830695e83f19d7 bible.uzb.txt
+grep -rl GENERIC_MAJOR_VERSION * | xargs -rn1 perl -pe 's/GENERIC_MAJOR_VERSION/VERSION_MAJOR/g;' -i
+autoreconf -fvi && ./configure && make -j4 && make install V=1 VERBOSE=1
+svn up ~/langtech/*
+svn diff
+git diff
+../../regtest/regtest.pl -r
+mkdir -pv .github/workflows
+time make -j4 2>&1 | tee build.log
+find . -type f -name '#*#' -exec rm -v '{}' \;
+cg3 --grammar-only --show-unused-sets -g dancg.kal 2>&1 | less
+./dix.sh
+cd ../../..
+for f in *.png; do convert $f "$f.jpg"; done
+sudo apt-get install lmodern
+cat Downloads/PNAW/en-clean.txt | head -n 5000 | sed 's/^/ * /g' | sed 's/$/ #/g' > madios/eng-corpus-short.txt
+cd parsing
+./madios test/corpus.txt 0.9 0.01 5 0.65
+grep -o "<head>.*</head>" dix_clean.xml | sed -E 's/<.?head>//g' > heads.txt
+sudo apt-get install culmus xfonts-efont-unicode xfonts-efont-unicode-ib xfonts-intl-european msttcorefonts
+echo "ei fod o wedi dod" | apertium -d . cym-morph
+echo "roedd y dyn yn gwerthu pethau rhad" | apertium -d . cym-eng_rtx-transfer
+cd apertium-init/
+sudo tlmgr install collection-fontsrecommended
+git commit -m "rename"
+./tally.py
+echo "has" | apertium -d . eng-morph
+cat ~/scripts/list | grep Barcelona
+ping 8.8.8.8
+git commit -a -m "add langs"
+cat emnlp2020.tex
+cat *.conllu | grep '^[0-9]' | wc -l
+cat .git/config | grep url
+ssh ftyers@cl.indiana.edu
+for i in *.pdf; do pdftotext $i - ; done
+ls -lsrth /tmp
+git clone git@github.com:/apertium/apertium-ewo
+find . -name '*.pdf'
+ps axu | grep opencon
+cp /tmp/home.png assets/
+git push
+sudo kill -9 29049
+battery 
+cat .ssh/config
+cat .ssh/config 
+cat .ssh/known_hosts
+cat > tmp
+cd
+cd -
+cd dev-python/vtk
+cd field-lt/
+cd gmni/
+cd hfst
+cd ../hse
+cd ../hse/
+cd hse/
+cd l
+cd letters/
+cd lexd/
+cd lexd-paper/
+cd ling
+cd ling/
+cd ling/field-lt/
+cd slides/
+cd src/
+cd src/hfst/
+cd talks/
+cd talks/l
+cd /var/cache/portage/repos/gentoo/
+cd ~/work/
+cd work/
+cd work/hse/
+cd work/ling/field-lt/slides/
+cd work/ling/lexd/
+cd work/xri/
+./configure 
+cp 01-morphology.pdf{,.bak}
+cp ../../hse/rec.tex ./
+curl 'http://hkps.pool.sks-keyservers.net/pks/lookup?op=hget&search=035FA090231CF5E80B207EECE31154A9'
+curl http://hkps.pool.sks-keyservers.net/pks/lookup?op=hget&search=035FA090231CF5E80B207EECE31154A9
+curl 'http://hkps.pool.sks-keyservers.net/pks/lookup?op=hget&search=035FA090231CF5E80B207EECE31154A9' | gpg --list-packets
+curl https://dpaste.org/j1kM.txt
+d
+echo $DISPLAY
+echo пьет | aspell -a -l ru
+feh
+feh test.jpg
+fg
+gimp
+git add notes/*.md
+git add -u .
+git clone --depth=1 https://github.com/hfst/hfst
+git clone https://git.sr.ht/~sircmpwn/gmni
+git commit -m "move notes into subdir"
+git status
+./gmni gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi
+./gmni gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi 
+./gmni gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi -j
+./gmni gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi -j trust
+./gmni --help
+./gmni -j gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi 
+./gmni -j once gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi 
+./gmni -j once gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi  | autoformat | less
+./gmni -j once gemini://drewdevault.com/ 2>/dev/null  | autoformat | head
+./gmni -j once gemini://drewdevault.com/ 2>/dev/null  | autoformat | head -n20
+./gmni -j once gemini://drewdevault.com/ 2>/dev/null  | fmt | head
+./gmni -j once gemini://drewdevault.com/  | autoformat | head
+./gmni -j once gemini://drewdevault.com/  | autoformat | less
+./gmni -j once gemini://drewdevault.com/  | fmt
+./gmni -j once gemini://drewdevault.com/  | fmt | head
+./gmni -j once gemini://drewdevault.com/  | head
+./gmni -j once gemini://drewdevault.com/  | less
+./gmni -j trust gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi 
+history | cut -c8-
+history | cut -c8- | sort -u | vipe > annot
+history | cut -c8- | sort -u | wc -l
+history | cut -f2
+history | sort -R | head -n20
+lexd test.lexd | hfst-txt2fst | hfst-fst2strings
+lexd test.lexd | lt-expand 
+lexd test.lexd | lt-expand -
+lexd test.lexd | lt-expand /dev/stdin
+ln -s ~/work/hse hse
+ls -l
+ls -lh
+ls -lh 01-morphology.
+ls -lh 01-morphology.pdf 
+ls /usr/share/zoneinfo/
+ls /usr/share/zoneinfo/America/
+ls /usr/share/zoneinfo/US
+ls /var/db/pkg/media-gfx/
+lualatex 01-morphology.tex 
+maim --help
+man doc/gmni.1 
+man feh
+man gm
+man gm-crop
+man lt-comp
+man lt-proc
+man maim
+man perlre
+mkdir letters
+mkdir lexd
+mkdir notes
+mkdir slides
+mkdir talks
+mv * notes/
+mv rec.tex teaching.tex
+perldoc autoformat
+perldoc Text::Autoformat
+ssh dev.apertium.org 
+ssh xri 
+TZ=US/Eastern date
+TZ=US/Eastern date '+%z'
+TZ=US/Pacific date
+TZ=US/Pacific date '+%z'
+TZ=US/Seattle date
+vim $(which autoformat)
+vim 01-morphology.tex
+vim 01-morphology.tex 
+vim abstract
+vim main.tex 
+vim rec.tex
+vim rec.tex 
+vim teaching.tex 
+vim tur.lexd
+vnm
+w3m duckduckgo.com/?q=costco+israel
+w3m duckduckgo.com/?q=HIP_HCC_LIBRARIES
+w3m duckduckgo.com/?q=scil
+w3m duckduckgo.com/?q=slrn
+w3m en.wikipedia.org/wiki/ablaut
+w3m en.wikipedia.org/wiki/generative_grammar
+w3m en.wikipedia.org/wiki/Keanu_Reeves
+w3m en.wikipedia.org/wiki/Tree_transducer
+w3m github.com/apertium/lexd
+w3m https://arstechnica.com
+w3m https://bpa.st/FJ4Q
+w3m https://bsd.ac/hmspgij
+w3m https://dev.gentoo.org/~mgorny/python-guide/distutils.html#conditional-distutils-setuptools-use-in-packages
+w3m https://dpaste.org/j1kM
+w3m https://en.wiktionary.org/wiki/Seppo#English
+w3m https://forums.gentoo.org/viewtopic-t-1119790.html
+w3m https://my.replika.ai/
+w3m https://public-inbox.org/meta/87v9m0l8t1.fsf@vuxu.org/
+w3m lwn.net
+w3m news.ycombinator.com
+w3m news.ycombinator.net
+w3m wiki.apertium.org/wiki/
+w3m wiki.gentoo.org/wiki/PAM
+w3m ycombinator.net
+wgetpaste
+wgetpaste test.lexd
+wgetpaste ~/work/ling/lexd/talk-abstract 
+xelatex 01-morphology.tex 
+xelatex teaching.tex
+zathura 01-morphology.pdf 
+zathura ~/alltt.pdf 
+zathura Dunn-GrammarOfChukchi-1999
+zathura ~/Dunn-GrammarOfChukchi-1999.pdf 
+zathura Dunn-GrammarOfChukchi-1999.pdf 
+zathura ~/work/ling/lexd/lexd-paper/main.pdf 

@@ -1,0 +1,246 @@
+grep space alias space tilde slash dot bash R C
+battery dash life
+yay dash capital s y y u
+c d space dot dot
+c d dot dot
+l s
+l s
+pacman space dash s gnu p g
+man space bash
+ls space slash run slash user slash one thousand slash g v f s slash
+cat space foo dot t x t
+sudo space find space slash pipe grep samsung all caps
+sudo space trash dash f space foo dot m 4 a
+sudo space pacman dash s space mediainfo
+m v space journal dot txt space journal slash
+l s slash run slash user
+history pipe sort dash capital r pipe head dash twenty pipe cut dash f 3 space dash d single quote space single quote
+u u i d gen
+c p space update dot bash space output hyphen of hyphen apertium hyphen kaz hyphen morph dot bash
+man space sed
+c d space number one capitalise working slash number ten capitalise thesis slash
+git space push space origin space master
+git space push space origin space master
+git space pull
+git pull
+cat space option s space output hyphen of hyphen apertium hyphen kaz hyphen morph dot r k t space pipe to space slash tmp slash morph
+bash space loop hyphen morph dot bash
+make
+make
+make
+make
+git space commit option m quote будем посмотреть comma whether this one works unquote
+git space add space docs slash index dot s c r b l space docs slash index dot h t m l
+less space output hyphen of hyphen apertium hyphen kaz hyphen morph dot rkt
+p w d
+c d space number one capitalise working slash number two capitalise s e l i m c a n dot org slash
+sudo space apt hyphen get space autoremove
+begin uppercase docs for equals t a r u e n end uppercase space make space docs
+d f option h slash
+grep option uppercase p space quote begin uppercase select symbol bar remove end uppercase unquote space tilde slash number one capitalise working slash apertium hyphen kaz slash apertium hyphen kaz dot kaz dot r l x
+c p space tilde slash number one capitalise working slash number one capitalise taruen dot com slash capitalise makefile dot a m
+make install destdir temp hubba
+find user local dash type f dash mtime minus one
+find user local type f mtime minus one
+git diff dash w b six zero e d tab bible dot u z b dot t x t
+grep dash r l all upper generic major version star piped to x args dash r n one perl dash p e substituting every generic major version with version major dash i
+autoreconf dash f v i and and dot slash configure and and make dash j four and and make install v one verbose one
+s v n up tilde langtech star
+s v n diff
+git diff
+dot dot slash dot dot slash regtest regtest dash r
+makedir dash p v dot github workflows
+time make dash j four redirect error to out piped to tee build dot log
+find dot dash type f dash name hash star hash dash exec rm dash v quoted curly brackets backslash semicolon
+c g three grammar only show unused sets grammar dan c g dot kal redirect error to out piped to less
+dot slash dix dot S H
+C D dot dot slash dot dot slash dot dot
+for F in star dot P N G semicolon do convert dollar F quote dollar F dot J P G quote semicolon done
+sudo apt get install lmodern
+cat downloads slash P N A W / E N dash clean dot T X T pipe head dash N five thousand pipe sed quote s slash caret slash space start space slash G quote pipe sed quote S slash dollar slash space pound slash G quote into M A D I O S slash eng dash corpus dash short dot T X T
+C D parsing
+dot slash M A D I O S test slash corpus dot T X T zero point nine zero point zero one five zero point six five
+grep dash O quote less than head greater than dot start less than slash head greater than quote dix underscore clean dot X M L pipe sed dash capital E quote S slash less than dot question mark head greater than slash slash G quote into heads dot T X T
+sudo apt get install culmus X fonts dash E font dash unicode X fonts dash E font dash unicode dash I B X fonts dash I N T L dash european M S T T core fonts
+echo quote ei fod o wedi dod quote pipe apertium dash d dot cym dash morph
+echo quote roedd y dyn yn gwerthu pethau rhad quote pipe apertium dash D dot cym dash eng underscore R T X dash transfer
+C D apertium init
+sudo T L M G R install collection dash fonts recommended
+git commit M rename
+dot slash tally dot P Y
+echo quote has quote pipe apertium dash D dot eng dash morph
+cat tilde forward slash scripts slash list pipe grep Barcelona
+ping eight dot eight dot eight dot eight
+git commit ei emm add langs
+cat ee emm enn ell pee twenty twenty dot tech
+cat star dot conll you pipe grep hat brackets zero to nine pipe double you see hyphen ell
+cat dot git forward slash config grep you are ell
+ess ess aitch eff tyers at see ell dot indiana dot edu
+for i in star dot pdf do pdftotext dollar i hyphen done
+ell ess hyphen ell ess are tee aitch slash temp
+git clone git at github dot com slash apertium slash apertium hyphen ee double you oh
+find dot hyphen name star dot pdf
+pee ess ei eks you grep opencon
+see pee slash temp slash home dot pee enn gee space assets forward slash
+git push
+sudo kill hyphen nine two nine zero four nine
+battery
+cat dot s s h slash config
+cat dot s s h slash config
+cat dot s s h slash known underscore hosts
+cat into temp
+c d
+c d hyphen
+c d dev python slash vtk
+c d field hyphen ell tee
+c d g m n i slash
+c d h f s t
+c d dot dot slash h s e
+c d dot dot slash h s e slash
+c d h s e slash
+c d l
+c d letters slash
+c d lex d slash
+c d lex d hyphen paper slash
+c d ling
+c d ling slash
+c d ling slash field dash l t slash
+c d slides slash
+c d source slash
+c d source slash h f s t slash
+c d talks slash
+c d talks slash l
+c d slash var slash cache slash portage slash repos slash gentoo slash
+c d home slash work slash
+c d work slash
+c d work slash hse slash
+c d work slash ling slash field hyphen l t slash slides slash
+c d work slash ling slash lex d
+c d work slash x r i slash
+period slash configure
+c p zero one hyphen morphology dot pdf open brace comma dot bak close brace
+c p dot dot slash dot dot slash h s e slash rec dot tex space dot slash
+curl open quote h t t p colon slash slash h k p s dot pool dot s k s hyphen keyservers dot net slash p k s slash lookup question mark op equals h get and search equals 0 3 5 F A 0 9 0 2 3 1 C F 5 E 8 0 B 2 0 7 E E C E 3 1 1 5 4 A 9 close quote
+curl h t t p colon slash slash h k p s dot pool dot s k s hyphen keyservers dot net slash p k s slash lookup question mark op equals h get and search equals 0 3 5 F A 0 9 0 2 3 1 C F 5 E 8 0 B 2 0 7 E E C E 3 1 1 5 4 A 9
+curl open quote h t t p colon slash slash h k p s dot pool dot s k s hyphen keyservers dot net slash p k s slash lookup question mark op equals h get and search equals 0 3 5 F A 0 9 0 2 3 1 C F 5 E 8 0 B 2 0 7 E E C E 3 1 1 5 4 A 9 close quote pipe into g p g dash dash list dash packets
+curl h t t p s colon slash slash d paste dot org slash j 1 k M dot t x t
+d
+echo display
+echo пьет pipe aspell dash a dash l ru
+feh
+feh test dot j p g
+f g
+gimp
+git add notes slash star dot m d
+git add dash u dot
+git clone dash dash depth equals 1 h t t p s colon slash slash github dot com slash h f s t slash h f s t
+git clone h t t p s colon slash slash git dot sir dot hat slash tilde slash sir comp win slash g m n i
+git commit dash m quote move notes into subdir quote
+git status
+period slash g m n i gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi
+period slash g m n i gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi
+period slash g m n i gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi dash j
+period slash g m n i gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi dash j trust
+period slash g m n i dash dash help
+period slash g m n i dash j gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi
+period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi
+period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi pipe into autoformat pipe less
+period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe into autoformat pipe head
+period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe into autoformat pipe head dash n 20
+period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe into format pipe head
+period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe into autoformat pipe head
+period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe into autoformat pipe less
+period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe into format
+period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe into format pipe head
+period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe head
+period slash g m n i dash j once gemini colon slash slash drew devault dot com slash 2 into slash dev slash null pipe less
+period slash g m n i dash j trust gemini colon slash slash drew devault dot com slash 2020 slash 0 9 slash 27 slash Gemini dash and dash Hugo dot gmi
+history pipe cut dash c 8 dash
+history pipe cut dash c 8 dash pipe sort dash u pipe vipe into annot
+history pipe cut dash c 8 dash pipe sort dash u pipe w c dash l
+history pipe cut dash f 2
+history or sort dash R or head dash n 20
+lex d test dot lex d or h f s t text 2 f s t or h f s t f s t 2 strings
+lex d test dot lex d or l t expand
+lex d test dot lex d or l t expand dash
+lex d test dot lex d or l t expand slash dev slash s t d in
+l n dash s home slash work slash hse hse
+l s dash l
+l s dash l h
+l s dash l h 0 1 dash morphology dot
+l s dash l h 0 1 dash morphology dot p d f
+l s slash usr slash share slash zone info slash
+l s slash usr slash share slash zone info slash America slash
+l s slash usr slash share slash zone info slash U S
+l s slash var slash db slash p k g slash media dash graphics slash
+lua latex 0 1 dash morphology dot tex
+m a i m dash dash help
+man doc slash g m n i dot 1
+man feh
+man g m
+man g m crop
+man l t comp
+man l t proc
+man m a i m
+man perl r e
+make dir letters
+make dir lex d
+make dir notes
+make dir slides
+make dir talks
+move star notes slash
+move rec dot tex teaching dot tex
+perl doc auto format
+perl doc text colon colon auto format
+s s h dev dot apertium dot org
+s s h x r i
+T Z equals U S slash Eastern date
+T Z equals U S slash Eastern date plus percent z
+T Z equals U S slash Pacific date
+T Z equals U S slash Pacific date plus percent z
+T Z equals U S slash Seattle date
+vim dollar open which auto format
+vim 0 1 morphology dot tex
+vim 0 1 morphology dot tex
+vim abstract
+vim main dot tex
+vim rec dot tex
+vim rec dot tex
+vim teaching dot tex
+vim tur dot lex d
+v n m
+w 3 m duck duck go dot com slash q equals costco plus israel
+w 3 m duck duck go dot com slash q equals hip underscore h c c underscore libraries
+w 3 m duck duck go dot com slash q equals s c i l
+w 3 m duck duck go dot com slash q equals s l r n
+w 3 m en dot wikipedia dot org slash wiki slash ablaut
+w 3 m en dot wikipedia dot org slash wiki slash generative underscore grammar
+w 3 m en dot wikipedia dot org slash wiki slash keanu underscore reeves
+w 3 m en dot wikipedia dot org slash wiki slash tree underscore transducer
+w 3 m github dot com slash apertium slash lex d
+w 3 m h t t p s colon slash slash ars technica dot com
+w 3 m h t t p s colon slash slash bpay dot s t slash f j 4 q
+w 3 m h t t p s colon slash slash b s d dot a c slash h m s p g i j
+w 3 m h t t p s colon slash slash dev dot gentoo dot org slash tilde m gorny slash python dash guide slash dist utils dot h t m l pound conditional dash distutils dash setup tools dash use dash in dash packages
+w 3 m h t t p s colon slash slash d paste dot org slash j 1 k m
+w 3 m h t t p s colon slash slash en dot wiktionary dot org slash wiki slash Seppo pound English
+w 3 m h t t p s colon slash slash forums dot gentoo dot org slash view topic dash t dash 1 1 1 9 7 9 0 dot h t m l
+w 3 m h t t p s colon slash slash my dot replika dot a i slash
+w 3 m h t t p s colon slash slash public dash inbox dot org slash meta slash 8 7 v 9 m 0 l 8 t 1 dot f s f at vushu dot org slash
+w 3 m l w n dot net
+w 3 m news dot y combinator dot com
+w 3 m news dot y combinator dot net
+w 3 m wiki dot apertium dot org slash wiki slash
+w 3 m wiki dot gentoo dot org slash wiki slash pam
+w 3 m y combinator dot net
+w get paste
+w get paste test dot lex d
+w get paste home slash work slash ling slash lex d slash talk dash abstract
+xelatex 0 1 dash morphology dot tex
+xelatex teaching dot tex
+zathura 0 1 dash morphology dot p d f
+zathura home slash all t t dot p d f
+zathura Dunn dash Grammar Of Chukchi dash 19 99
+zathura home slash Dunn dash Grammar Of Chukchi dash 19 99 dot p d f
+zathura Dunn dash Grammar Of Chukchi dash 19 99 dot p d f
+zathura home slash work slash ling slash lex d slash lex d dash paper slash main dot p d f
