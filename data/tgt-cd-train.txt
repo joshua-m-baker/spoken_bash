@@ -1,3 +1,255 @@
+cd ..
+cd ..
+cd ..
+cd ..
+cd python_environments/
+cd python_environments/
+cd python_environments/
+cd python_environments/
+cd python_environments/
+cd python_environments/
+cd python_environments/
+cd python_environments/
+cd python_environments/
+cd python_environments/
+cd python_environments/
+cd python_environments/
+cd python_environments/
+cd python_environments/
+cd python_environments/
+cd python_environments/
+cd distribution/
+cd distribution/
+cd distribution/
+cd distribution/
+cd distribution/
+cd distribution/
+cd distribution/
+cd distribution/
+cd Desktop/
+cd Desktop/
+cd Desktop/
+cd Desktop/
+cd Desktop/
+cd Desktop/
+cd Desktop/
+cd Desktop/
+cd C343brjoande/
+cd C343brjoande/
+cd C343brjoande/
+cd C343brjoande/
+cd C343brjoande/
+cd C343brjoande/
+cd C343brjoande/
+cd C343brjoande/
+cd ../../../
+cd ../../../
+cd ../../../
+cd ../../../
+cd ../../../
+cd ../../../
+cd ../../../
+cd ../../../
+cd MooreBonds/MooreBonds/MooreBonds/
+cd MooreBonds/MooreBonds/MooreBonds/
+cd MooreBonds/MooreBonds/MooreBonds/
+cd MooreBonds/MooreBonds/MooreBonds/
+cd MooreBonds/MooreBonds/MooreBonds/
+cd MooreBonds/MooreBonds/MooreBonds/
+cd MooreBonds/MooreBonds/MooreBonds/
+cd MooreBonds/MooreBonds/MooreBonds/
+cd ../
+cd ../
+cd ../
+cd ../
+cd ../
+cd ../
+cd ../
+cd ../
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd moorebondsve-heroku/
+cd MooreBonds/MooreBonds/MOo
+cd MooreBonds/MooreBonds/MOo
+cd MooreBonds/MooreBonds/MOo
+cd MooreBonds/MooreBonds/MOo
+cd MooreBonds/MooreBonds/MOo
+cd MooreBonds/MooreBonds/MOo
+cd MooreBonds/MooreBonds/MOo
+cd MooreBonds/MooreBonds/MOo
+cd ../../
+cd ../../
+cd ../../
+cd ../../
+cd ../../
+cd ../../
+cd ../../
+cd ../../
+cd MooreBonds/MooreBonds/
+cd MooreBonds/MooreBonds/
+cd MooreBonds/MooreBonds/
+cd MooreBonds/MooreBonds/
+cd MooreBonds/MooreBonds/
+cd MooreBonds/MooreBonds/
+cd MooreBonds/MooreBonds/
+cd MooreBonds/MooreBonds/
+cd .git
+cd .git
+cd .git
+cd .git
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd myjailhelp-heroku-live/
+cd test-app/
+cd test-app/
+cd test-app/
+cd test-app/
+cd test-app/
+cd test-app/
+cd test-app/
+cd test-app/
+cd test-app/
+cd test-app/
+cd test-app/
+cd test-app/
+cd test-app/
+cd test-app/
+cd test-app/
+cd test-app/
+cd src
+cd src
+cd src
+cd src
+cd lab03
+cd lab03
+cd lab03
+cd lab03
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd python_environments/mappedout/
+cd mappedout-live/
+cd mappedout-live/
+cd mappedout-live/
+cd mappedout-live/
+cd mappedout-live/
+cd mappedout-live/
+cd mappedout-live/
+cd mappedout-live/
+cd mappedout-live/
+cd mappedout-live/
+cd mappedout-live/
+cd mappedout-live/
+cd mappedout-live/
+cd mappedout-live/
+cd mappedout-live/
+cd mappedout-live/
+cd app
+cd app
+cd app
+cd app
+cd Desktop/C343brjoande/
+cd Desktop/C343brjoande/
+cd Desktop/C343brjoande/
+cd Desktop/C343brjoande/
+cd Desktop/C343brjoande/
+cd Desktop/C343brjoande/
+cd Desktop/C343brjoande/
+cd Desktop/C343brjoande/
+cd jsProjects/
+cd jsProjects/
+cd jsProjects/
+cd jsProjects/
+cd jsProjects/
+cd jsProjects/
+cd jsProjects/
+cd jsProjects/
+cd responsiveEmail/
+cd responsiveEmail/
+cd responsiveEmail/
+cd responsiveEmail/
+cd responsiveEmail/
+cd responsiveEmail/
+cd responsiveEmail/
+cd responsiveEmail/
+cd ps
+cd ps
+cd ps
+cd ps
+cd ps06
+cd ps06
+cd ps06
+cd ps06
+cd ps05
+cd ps05
+cd ps05
+cd ps05
+cd ProblemSet05/
+cd ProblemSet05/
+cd ProblemSet05/
+cd ProblemSet05/
+cd ProblemSet05/
+cd ProblemSet05/
+cd ProblemSet05/
+cd ProblemSet05/
+cd src/
+cd src/
+cd src/
+cd src/
+cd src/
+cd src/
+cd src/
+cd src/
+cd ps04
+cd ps04
+cd ps04
+cd ps04
+cd ProblemSet04/
+cd ProblemSet04/
+cd ProblemSet04/
+cd ProblemSet04/
+cd ProblemSet04/
+cd ProblemSet04/
+cd ProblemSet04/
+cd ProblemSet04/
 cd Documents/IU/B351
 cd Documents/IU/B351
 cd Documents/IU/B351
@@ -90,120 +342,276 @@ cd Documents/IU/chmalex-chmalex
 cd Documents/IU/chmalex-chmalex
 cd Documents/IU/chmalex-chmalex
 cd Documents/IU/chmalex-chmalex
-cd dev/django_examples/
-cd dev/django_examples/
-cd dev/django_examples/
-cd dev/django_examples/
-cd dev/django_examples/
-cd dev/django_examples/
-cd dev/django_examples/
-cd dev/django_examples/
-cd dev/django_examples/
-cd dev/django_examples/
-cd dev/django_examples/
-cd dev/django_examples/
-cd dev/django_examples/
-cd dev/django_examples/
-cd dev/django_examples/
-cd dev/django_examples/
-cd taiga-back/
-cd taiga-back/
-cd taiga-back/
-cd taiga-back/
-cd taiga-back/
-cd taiga-back/
-cd taiga-back/
-cd taiga-back/
-cd taiga-back/
-cd taiga-back/
-cd taiga-back/
-cd taiga-back/
-cd taiga-back/
-cd taiga-back/
-cd taiga-back/
-cd taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd dev/django_examples/taiga-back/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd ../django-realworld-example-app/
-cd rentnoww-server/
-cd rentnoww-server/
-cd rentnoww-server/
-cd rentnoww-server/
-cd rentnoww-server/
-cd rentnoww-server/
-cd rentnoww-server/
-cd rentnoww-server/
-cd rentnoww-server/
-cd rentnoww-server/
-cd rentnoww-server/
-cd rentnoww-server/
-cd rentnoww-server/
-cd rentnoww-server/
-cd rentnoww-server/
-cd rentnoww-server/
-cd client/
-cd client/
-cd client/
-cd client/
-cd client/
-cd client/
-cd client/
-cd client/
-cd linguistics/
-cd linguistics/
-cd linguistics/
-cd linguistics/
-cd linguistics/
-cd linguistics/
-cd linguistics/
-cd linguistics/
+cd desktop
+cd desktop
+cd desktop
+cd desktop
+cd fall2020
+cd fall2020
+cd fall2020
+cd fall2020
+cd school
+cd school
+cd school
+cd school
+cd b351
+cd b351
+cd b351
+cd b351
+cd fall-2020
+cd fall-2020
+cd fall-2020
+cd fall-2020
+cd fall-2020
+cd fall-2020
+cd fall-2020
+cd fall-2020
+cd c200utils
+cd c200utils
+cd c200utils
+cd c200utils
+cd school]
+cd school]
+cd school]
+cd school]
+cd teaching
+cd teaching
+cd teaching
+cd teaching
+cd labs
+cd labs
+cd labs
+cd labs
+cd lab2
+cd lab2
+cd lab2
+cd lab2
+cd fall20200
+cd fall20200
+cd fall20200
+cd fall20200
+cd b461
+cd b461
+cd b461
+cd b461
+cd assingment2
+cd assingment2
+cd assingment2
+cd assingment2
+cd a2
+cd a2
+cd a2
+cd a2
+cd desktop/fall2020/b461
+cd desktop/fall2020/b461
+cd desktop/fall2020/b461
+cd desktop/fall2020/b461
+cd desktop/fall2020/b461
+cd desktop/fall2020/b461
+cd desktop/fall2020/b461
+cd desktop/fall2020/b461
+cd logistics
+cd logistics
+cd logistics
+cd logistics
+cd pairsassingment
+cd pairsassingment
+cd pairsassingment
+cd pairsassingment
+cd pairsassignments
+cd pairsassignments
+cd pairsassignments
+cd pairsassignments
+cd pairsassingments
+cd pairsassingments
+cd pairsassingments
+cd pairsassingments
+cd lab3
+cd lab3
+cd lab3
+cd lab3
+cd deskto
+cd deskto
+cd deskto
+cd deskto
+cd logistic
+cd logistic
+cd logistic
+cd logistic
+cd baseballanalytics
+cd baseballanalytics
+cd baseballanalytics
+cd baseballanalytics
 cd
 cd
+cd njmobley
+cd njmobley
+cd njmobley
+cd njmobley
+cd lab4
+cd lab4
+cd lab4
+cd lab4
+cd assignments
+cd assignments
+cd assignments
+cd assignments
+cd assignment3
+cd assignment3
+cd assignment3
+cd assignment3
+cd a3
+cd a3
+cd a3
+cd a3
+cd Fall-2020
+cd Fall-2020
+cd Fall-2020
+cd Fall-2020
+cd Fall-2020
+cd Fall-2020
+cd Fall-2020
+cd Fall-2020
+cd njmobley/
+cd njmobley/
+cd njmobley/
+cd njmobley/
+cd njmobley/
+cd njmobley/
+cd njmobley/
+cd njmobley/
+cd laboratory
+cd laboratory
+cd laboratory
+cd laboratory
+cd Lab5
+cd Lab5
+cd Lab5
+cd Lab5
+cd assingments
+cd assingments
+cd assingments
+cd assingments
+cd assingment5
+cd assingment5
+cd assingment5
+cd assingment5
+cd assignment5
+cd assignment5
+cd assignment5
+cd assignment5
+cd dev/django_examples/
+cd dev/django_examples/
+cd dev/django_examples/
+cd dev/django_examples/
+cd dev/django_examples/
+cd dev/django_examples/
+cd dev/django_examples/
+cd dev/django_examples/
+cd dev/django_examples/
+cd dev/django_examples/
+cd dev/django_examples/
+cd dev/django_examples/
+cd dev/django_examples/
+cd dev/django_examples/
+cd dev/django_examples/
+cd dev/django_examples/
+cd taiga-back/
+cd taiga-back/
+cd taiga-back/
+cd taiga-back/
+cd taiga-back/
+cd taiga-back/
+cd taiga-back/
+cd taiga-back/
+cd taiga-back/
+cd taiga-back/
+cd taiga-back/
+cd taiga-back/
+cd taiga-back/
+cd taiga-back/
+cd taiga-back/
+cd taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd dev/django_examples/taiga-back/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd ../django-realworld-example-app/
+cd rentnoww-server/
+cd rentnoww-server/
+cd rentnoww-server/
+cd rentnoww-server/
+cd rentnoww-server/
+cd rentnoww-server/
+cd rentnoww-server/
+cd rentnoww-server/
+cd rentnoww-server/
+cd rentnoww-server/
+cd rentnoww-server/
+cd rentnoww-server/
+cd rentnoww-server/
+cd rentnoww-server/
+cd rentnoww-server/
+cd rentnoww-server/
+cd client/
+cd client/
+cd client/
+cd client/
+cd client/
+cd client/
+cd client/
+cd client/
+cd linguistics/
+cd linguistics/
+cd linguistics/
+cd linguistics/
+cd linguistics/
+cd linguistics/
+cd linguistics/
+cd linguistics/
 cd dev
 cd dev
 cd dev
@@ -256,10 +664,6 @@ cd homework/
 cd homework/
 cd homework/
 cd homework/
-cd a3
-cd a3
-cd a3
-cd a3
 cd Documents/music/homework/a3/
 cd Documents/music/homework/a3/
 cd Documents/music/homework/a3/
@@ -296,10 +700,6 @@ cd Laboratory/
 cd Laboratory/
 cd Laboratory/
 cd Laboratory/
-cd ..
-cd ..
-cd ..
-cd ..
 cd ../server/
 cd ../server/
 cd ../server/
@@ -452,10 +852,6 @@ cd ~/Documents/music/homework/
 cd ~/Documents/music/homework/
 cd ~/Documents/music/homework/
 cd ~/Documents/music/homework/
-cd a2
-cd a2
-cd a2
-cd a2
 cd ../a
 cd ../a
 cd ../a
@@ -760,70 +1156,38 @@ cd raw_data/
 cd raw_data/
 cd raw_data/
 cd raw_data/
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
-grep "cd" history_nick.txt > cds2.txt
+grep cd history_nick.txt
+grep cd history_nick.txt
+grep cd history_nick.txt
+grep cd history_nick.txt
+grep cd history_nick.txt
+grep cd history_nick.txt
+grep cd history_nick.txt
+grep cd history_nick.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
+grep cd history_nick.txt > cds2.txt
 cd Documents/se/Assignment3/
 cd Documents/se/Assignment3/
 cd Documents/se/Assignment3/
@@ -880,366 +1244,110 @@ cd ~/dev/spoken_bash/
 cd ~/dev/spoken_bash/
 cd ~/dev/spoken_bash/
 cd ~/dev/spoken_bash/
-history | grep 'cd'
-history | grep 'cd'
-history | grep 'cd'
-history | grep 'cd'
-history | grep 'cd'
-history | grep 'cd'
-history | grep 'cd'
-history | grep 'cd'
-history | grep 'cd'
-history | grep 'cd'
-history | grep 'cd'
-history | grep 'cd'
-history | grep 'cd'
-history | grep 'cd'
-history | grep 'cd'
-history | grep 'cd'
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep -c "cd"
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd" > cds.txt
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -r "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -e "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-history | grep -E "cd|git|grep"
-cd desktop
-cd desktop
-cd desktop
-cd desktop
-cd fall2020
-cd fall2020
-cd fall2020
-cd fall2020
-cd school
-cd school
-cd school
-cd school
-cd b351
-cd b351
-cd b351
-cd b351
-cd fall-2020
-cd fall-2020
-cd fall-2020
-cd fall-2020
-cd fall-2020
-cd fall-2020
-cd fall-2020
-cd fall-2020
-cd c200utils
-cd c200utils
-cd c200utils
-cd c200utils
-cd school]
-cd school]
-cd school]
-cd school]
-cd teaching
-cd teaching
-cd teaching
-cd teaching
-cd labs
-cd labs
-cd labs
-cd labs
-cd lab2
-cd lab2
-cd lab2
-cd lab2
-cd fall20200
-cd fall20200
-cd fall20200
-cd fall20200
-cd b461
-cd b461
-cd b461
-cd b461
-cd assingment2
-cd assingment2
-cd assingment2
-cd assingment2
-cd b35`
-cd b35`
-cd b35`
-cd b35`
-cd desktop/fall2020/b461
-cd desktop/fall2020/b461
-cd desktop/fall2020/b461
-cd desktop/fall2020/b461
-cd desktop/fall2020/b461
-cd desktop/fall2020/b461
-cd desktop/fall2020/b461
-cd desktop/fall2020/b461
-cd logistics
-cd logistics
-cd logistics
-cd logistics
-cd pairsassingment
-cd pairsassingment
-cd pairsassingment
-cd pairsassingment
-cd pairsassignments
-cd pairsassignments
-cd pairsassignments
-cd pairsassignments
-cd pairsassingments
-cd pairsassingments
-cd pairsassingments
-cd pairsassingments
-cd lab3
-cd lab3
-cd lab3
-cd lab3
-cd deskto
-cd deskto
-cd deskto
-cd deskto
-cd logistic
-cd logistic
-cd logistic
-cd logistic
-cd baseballanalytics
-cd baseballanalytics
-cd baseballanalytics
-cd baseballanalytics
-cd njmobley
-cd njmobley
-cd njmobley
-cd njmobley
-cd lab4
-cd lab4
-cd lab4
-cd lab4
-cd assignments
-cd assignments
-cd assignments
-cd assignments
-cd assignment3
-cd assignment3
-cd assignment3
-cd assignment3
-cd Fall-2020
-cd Fall-2020
-cd Fall-2020
-cd Fall-2020
-cd Fall-2020
-cd Fall-2020
-cd Fall-2020
-cd Fall-2020
-cd njmobley/
-cd njmobley/
-cd njmobley/
-cd njmobley/
-cd njmobley/
-cd njmobley/
-cd njmobley/
-cd njmobley/
-cd laboratory
-cd laboratory
-cd laboratory
-cd laboratory
-cd Lab5
-cd Lab5
-cd Lab5
-cd Lab5
-cd assingments
-cd assingments
-cd assingments
-cd assingments
-cd assingment5
-cd assingment5
-cd assingment5
-cd assingment5
-cd assignment5
-cd assignment5
-cd assignment5
-cd assignment5
+history | grep cd
+history | grep cd
+history | grep cd
+history | grep cd
+history | grep cd
+history | grep cd
+history | grep cd
+history | grep cd
+history | grep -c cd
+history | grep -c cd
+history | grep -c cd
+history | grep -c cd
+history | grep -c cd
+history | grep -c cd
+history | grep -c cd
+history | grep -c cd
+history | grep -c cd
+history | grep -c cd
+history | grep -c cd
+history | grep -c cd
+history | grep -c cd
+history | grep -c cd
+history | grep -c cd
+history | grep -c cd
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd > cds.txt
+history | grep cd|git|grep
+history | grep cd|git|grep
+history | grep cd|git|grep
+history | grep cd|git|grep
+history | grep cd|git|grep
+history | grep cd|git|grep
+history | grep cd|git|grep
+history | grep cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -r cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -e cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
+history | grep -E cd|git|grep
 cd /tmp
 cd /tmp
 cd /tmp
@@ -1432,22 +1540,70 @@ cd ~/.cache/akonadi_i
 cd ~/.cache/akonadi_i
 cd ~/.cache/akonadi_i
 cd ~/.cache/akonadi_i
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
+cd .ow_wine/drive_c/Program Files (x86)/Battle.net/
 cd Overwatch/
 cd Overwatch/
 cd Overwatch/
@@ -1516,22 +1672,70 @@ cd colors/konsole/
 cd colors/konsole/
 cd colors/konsole/
 cd colors/konsole/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
-cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
+cd .ow_wine/drive_c/Program Files (x86)/Overwatch/
 cd Battle.net/
 cd Battle.net/
 cd Battle.net/
@@ -1928,14 +2132,6 @@ cd e399_p7/
 cd e399_p7/
 cd e399_p7/
 cd e399_p7/
-cd src/
-cd src/
-cd src/
-cd src/
-cd src/
-cd src/
-cd src/
-cd src/
 cd tester/
 cd tester/
 cd tester/
@@ -2052,54 +2248,54 @@ cd /home/sub/3Nextcloud/lts/office_2010_pro-plus/
 cd /home/sub/3Nextcloud/lts/office_2010_pro-plus/
 cd /home/sub/3Nextcloud/lts/office_2010_pro-plus/
 cd /home/sub/3Nextcloud/lts/office_2010_pro-plus/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
-cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
+cd ~/.wine_msoffice/drive_c/Program Files/Microsoft Office/
 cd Office14/
 cd Office14/
 cd Office14/
@@ -2120,14 +2316,14 @@ cd wine
 cd wine
 cd wine
 cd wine
-cd Microsoft\ Office/
-cd Microsoft\ Office/
-cd Microsoft\ Office/
-cd Microsoft\ Office/
-cd Microsoft\ Office/
-cd Microsoft\ Office/
-cd Microsoft\ Office/
-cd Microsoft\ Office/
+cd Microsoft Office/
+cd Microsoft Office/
+cd Microsoft Office/
+cd Microsoft Office/
+cd Microsoft Office/
+cd Microsoft Office/
+cd Microsoft Office/
+cd Microsoft Office/
 cd 3Nextcloud/lts/office_2010_pro-plus/
 cd 3Nextcloud/lts/office_2010_pro-plus/
 cd 3Nextcloud/lts/office_2010_pro-plus/
@@ -2340,14 +2536,14 @@ cd ../../..
 cd ../../..
 cd ../../..
 cd ../../..
-cd Program\ Files/windows\ nt/accessories/
-cd Program\ Files/windows\ nt/accessories/
-cd Program\ Files/windows\ nt/accessories/
-cd Program\ Files/windows\ nt/accessories/
-cd Program\ Files/windows\ nt/accessories/
-cd Program\ Files/windows\ nt/accessories/
-cd Program\ Files/windows\ nt/accessories/
-cd Program\ Files/windows\ nt/accessories/
+cd Program Files/windows nt/accessories/
+cd Program Files/windows nt/accessories/
+cd Program Files/windows nt/accessories/
+cd Program Files/windows nt/accessories/
+cd Program Files/windows nt/accessories/
+cd Program Files/windows nt/accessories/
+cd Program Files/windows nt/accessories/
+cd Program Files/windows nt/accessories/
 cd school/re/
 cd school/re/
 cd school/re/
@@ -2404,10 +2600,6 @@ cd lab/
 cd lab/
 cd lab/
 cd lab/
-cd lab03
-cd lab03
-cd lab03
-cd lab03
 cd ~/school/cg_unity/
 cd ~/school/cg_unity/
 cd ~/school/cg_unity/
@@ -2952,14 +3144,14 @@ cd hw02/
 cd hw02/
 cd hw02/
 cd hw02/
-cd .steam/steam/steamapps/common/dota\ 2\ beta/game/core/config/
-cd .steam/steam/steamapps/common/dota\ 2\ beta/game/core/config/
-cd .steam/steam/steamapps/common/dota\ 2\ beta/game/core/config/
-cd .steam/steam/steamapps/common/dota\ 2\ beta/game/core/config/
-cd .steam/steam/steamapps/common/dota\ 2\ beta/game/core/config/
-cd .steam/steam/steamapps/common/dota\ 2\ beta/game/core/config/
-cd .steam/steam/steamapps/common/dota\ 2\ beta/game/core/config/
-cd .steam/steam/steamapps/common/dota\ 2\ beta/game/core/config/
+cd .steam/steam/steamapps/common/dota 2 beta/game/core/config/
+cd .steam/steam/steamapps/common/dota 2 beta/game/core/config/
+cd .steam/steam/steamapps/common/dota 2 beta/game/core/config/
+cd .steam/steam/steamapps/common/dota 2 beta/game/core/config/
+cd .steam/steam/steamapps/common/dota 2 beta/game/core/config/
+cd .steam/steam/steamapps/common/dota 2 beta/game/core/config/
+cd .steam/steam/steamapps/common/dota 2 beta/game/core/config/
+cd .steam/steam/steamapps/common/dota 2 beta/game/core/config/
 cd ../cfg
 cd ../cfg
 cd ../cfg
@@ -2968,14 +3160,6 @@ cd ../cfg
 cd ../cfg
 cd ../cfg
 cd ../cfg
-cd ../
-cd ../
-cd ../
-cd ../
-cd ../
-cd ../
-cd ../
-cd ../
 cd ../dota/
 cd ../dota/
 cd ../dota/
@@ -4104,198 +4288,486 @@ cd ~/.local/share/applications/wine/
 cd ~/.local/share/applications/wine/
 cd ~/.local/share/applications/wine/
 cd ~/.local/share/applications/wine/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
-cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins Creed III Remastered/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
+cd ~/.ac-iv_wine/drive_c/Program Files (x86)/Assassins Creed IV Black Flag/
 cd a6
 cd a6
 cd a6
@@ -4552,14 +5024,14 @@ cd ~/.acs_wine/drive_c/ac/
 cd ~/.acs_wine/drive_c/ac/
 cd ~/.acs_wine/drive_c/ac/
 cd ~/.acs_wine/drive_c/ac/
-cd Assassins\ Creed\ Syndicate/
-cd Assassins\ Creed\ Syndicate/
-cd Assassins\ Creed\ Syndicate/
-cd Assassins\ Creed\ Syndicate/
-cd Assassins\ Creed\ Syndicate/
-cd Assassins\ Creed\ Syndicate/
-cd Assassins\ Creed\ Syndicate/
-cd Assassins\ Creed\ Syndicate/
+cd Assassins Creed Syndicate/
+cd Assassins Creed Syndicate/
+cd Assassins Creed Syndicate/
+cd Assassins Creed Syndicate/
+cd Assassins Creed Syndicate/
+cd Assassins Creed Syndicate/
+cd Assassins Creed Syndicate/
+cd Assassins Creed Syndicate/
 cd games/ac-i
 cd games/ac-i
 cd games/ac-i
@@ -4716,46 +5188,62 @@ cd ESP8266/
 cd ESP8266/
 cd ESP8266/
 cd ESP8266/
-cd Examples/10.\ First\ web\ server/
-cd Examples/10.\ First\ web\ server/
-cd Examples/10.\ First\ web\ server/
-cd Examples/10.\ First\ web\ server/
-cd Examples/10.\ First\ web\ server/
-cd Examples/10.\ First\ web\ server/
-cd Examples/10.\ First\ web\ server/
-cd Examples/10.\ First\ web\ server/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
-cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
+cd Examples/10. First web server/
+cd Examples/10. First web server/
+cd Examples/10. First web server/
+cd Examples/10. First web server/
+cd Examples/10. First web server/
+cd Examples/10. First web server/
+cd Examples/10. First web server/
+cd Examples/10. First web server/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
+cd ../A Beginner's Guide to the ESP8266 - article/
 cd tools/
 cd tools/
 cd tools/

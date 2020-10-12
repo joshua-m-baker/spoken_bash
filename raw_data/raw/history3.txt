@@ -1,0 +1,500 @@
+    2  git remote -v
+    3  git remote add submission https://github.iu.edu/csci-b351-fa20/njmobley-submission.git
+    4  git remote -v
+    5  code
+    6  git add .
+    7  git commit -m "Initial configuration"
+    8  git push submission master
+    9  psql
+   10  cd desktop
+   11  git clone https://github.com/njmobley/Fall2020.git
+   12  git clone https://github.com/njmobley/Fall2020.git
+   13  cd fall2020
+   14  git status
+   15  git add .
+   16  git stauts
+   17  git status
+   18  git push
+   19  git status
+   20  git commit -m "Added stuff to repo"
+   21  git push
+   22  git add .
+   23  git status
+   24  git commit -m "removed b351"
+   25  git status
+   26  git status
+   27  git add .
+   28  git commit -m "removed M380"
+   29  git push
+   30  git rm
+   31  cd school
+   32  cd desktop
+   33  cd school
+   34  git clone https://github.com/njmobley/Fall2020.git
+   35  /c/Users/nmobl/Desktop/B461 /c/Users/nmobl/Desktop/logistics /c/Users/nmobl/Desktop/Q296 /c/Users/nmobl/Desktop/S42
+   36  cd fall2020
+   37  git status
+   38  git add .
+   39  git commit -m "added school stuff"
+   40  git push
+   41  cd desktop
+   42  ls
+   43  cd b351
+   44  git pull distribution
+   45  code 
+   46  git clone https://github.iu.edu/CSCI-C200-Support/Fall-2020.git
+   47  cd desktop
+   48  cd fall-2020
+   49  git status
+   50  git add .
+   51  git commit -m "Added the Pairs Assingments for the semester"
+   52  git push
+   53  cd desktop
+   54  cd school
+   55  ls
+   56  cd c200utils
+   57  code .
+   58  cd desktop
+   59  ls
+   60  cd school]
+   61  cd school
+   62  ls
+   63  cd fall2020
+   64  cd teaching
+   65  cd ..
+   66  git clone https://github.iu.edu/CSCI-C200-Support/c200utils.git
+   67  cd desktop
+   68  git clone https://github.iu.edu/CSCI-C200-Support/Fall-2020.git
+   69  cd fall-2020
+   70  git status
+   71  git pull
+   72  ls
+   73  cd labs
+   74  ls
+   75  cd lab2
+   76  code .
+   77  cd desktop
+   78  cd fall-2020
+   79  cd labs
+   80  cd lab2
+   81  ls
+   82  . code
+   83  cd desktop
+   84  cd fall2020
+   85  ls
+   86  cd school
+   87  cd fall20200
+   88  cd fall2020
+   89  ls
+   90  cd b461
+   91  ls
+   92  cd assingment2
+   93  code .
+   94  code .
+   95  cd desktop
+   96  ls
+   97  b351
+   98  cd b35`
+   99  1
+  100  :
+  101  :q
+  102  `
+  103  cd b351
+  104  ls
+  105  cd a2
+  106  git status
+  107  git push submission
+  108  git push submission master
+  109  git add .
+  110  git commit -m "just hoping that this updates"
+  111  git push submission master
+  112  code .
+  113  git add .
+  114  git commit -m "added solveBoard returns false"
+  115  git push submission master
+  116  cd desktop/fall2020/b461
+  117  cd desktop
+  118  cd fall2020
+  119  cd school
+  120  cd fall2020
+  121  cd b461
+  122  ls
+  123  cd assingment2
+  124  code .
+  125  cd ..
+  126  cd ..
+  127  ls
+  128  cd logistics
+  129  ls
+  130  cd teaching
+  131  ls
+  132  code .
+  133  cd ..
+  134   cd ..
+  135  cd ..
+  136  cd ..
+  137  ls
+  138  cd fall-2020
+  139  ls
+  140  git status
+  141  git add PairsAssignments/.
+  142  git add PairsAssingments/
+  143  git status
+  144  git commit -m "Made lab assingments look how larry wanted"
+  145  git pull
+  146  git push
+  147  git status
+  148  git add .
+  149  git status
+  150  git commit -m "Added auditor to his lab section"
+  151  git push
+  152  cd desktop
+  153  cd fall-2020
+  154  cd pairsassingment
+  155  ls
+  156  pairsassignments
+  157  cd pairsassignments
+  158  cd pairsassingments
+  159  git status
+  160  git add .
+  161  git commit -m "Edited homework pairs to show username so students will always be able to email"
+  162  git push
+  163  cd desktop
+  164  ls
+  165  cd school
+  166  cd fall2020
+  167  cd b461
+  168  code .
+  169  cd desktop
+  170  cd school
+  171  cd fall2020
+  172  code .
+  173  cd desktop
+  174  cd school
+  175  cd fall2020
+  176  code .
+  177  cd desktop
+  178  ls
+  179  cd fall-2020
+  180  git pull
+  181  ls
+  182  cd labs
+  183  ls
+  184  cd lab3
+  185  ls
+  186  code .
+  187  git status
+  188  git add .
+  189  git commit -m "grammar revisions"
+  190  git push
+  191  cd desktop
+  192  ls
+  193  cd fall-2020
+  194  ls
+  195  cd ..
+  196  cd school
+  197  cd fall2020
+  198  ls
+  199  code .
+  200  cd desktop
+  201  cd school
+  202  ls
+  203  cd fall2020
+  204  ls
+  205  cd b461
+  206  ls
+  207  code .
+  208  cd desktop
+  209  cd school
+  210  ls
+  211  cd fall2020
+  212  cd ..
+  213  cd ..
+  214  ls
+  215  cd b351
+  216  code .
+  217  cd desktop
+  218  ls
+  219  cd school
+  220  ls
+  221  cd fall2020
+  222  ls
+  223  code .
+  224  cd desktop
+  225  cd school
+  226  ls
+  227  fall2020
+  228  cd fall2020
+  229  ls
+  230  cd b461
+  231  ls
+  232  code .
+  233  cd deskto
+  234  cd desktop
+  235  cd school
+  236  cd fall2020
+  237  ls
+  238  cd b461
+  239  code .
+  240  cd desktop
+  241  code .
+  242  cd desktop
+  243  ls
+  244  code .
+  245  cd desktop
+  246  ls
+  247  cd school
+  248  cd c200utils
+  249  ls
+  250  code .
+  251  cd desktop
+  252  cd school
+  253  ls
+  254  py -m pip install -e c200utils
+  255  py c200utils/scripts/pairs_nick.py
+  256  ls
+  257  cd fall2020
+  258  ls
+  259  cd teaching
+  260  cd logistic
+  261  cd logistics
+  262  ls
+  263  cd teaching
+  264  ls
+  265  code .
+  266  cd ..
+  267  cd ..
+  268  cd ..
+  269  cd ..
+  270  cd fall-2020
+  271  git status
+  272  git add .
+  273  git commit -m "Updated Homework pairs with current roster"
+  274  git push
+  275  git pull
+  276  git status
+  277  git push
+  278  cd desktop
+  279  ls
+  280  cd school
+  281  ls
+  282  cd baseballanalytics
+  283  code .
+  284  ls
+  285  cd ..
+  286  ls
+  287  cd fall2020
+  288  code .
+  289  cd desktop
+  290  cd 
+  291  cd desktop
+  292  ls
+  293  cd fall-2020
+  294  git pull
+  295  ls
+  296  cd 
+  297  cd desktop
+  298  git clone https://github.iu.edu/CSCI-C200-Fall-2020/njmobley.git
+  299  ls
+  300  cd njmobley
+  301  code .
+  302  cd desktop
+  303  cd fall-2020
+  304  cd labs
+  305  ls
+  306  cd lab4
+  307  code .
+  308  cd desktop
+  309  ls
+  310  cd fall-2020
+  311  ls
+  312  cd labs
+  313  ls
+  314  cd lab4
+  315  ls
+  316  code .
+  317  desktop
+  318  cd desktop
+  319  py --version
+  320  python --version
+  321  cd desktop
+  322  ls
+  323  code .
+  324  cd desktop
+  325  cd school
+  326  code .
+  327  cd desktop
+  328  ls
+  329  cd njmobley
+  330  ls
+  331  git add .
+  332  git commit -m "how about now"
+  333  git push
+  334  git status
+  335  ls
+  336  git add .
+  337  git commit -m "help"
+  338  cd desktop
+  339  cd fall-2020
+  340  git pull
+  341  git status
+  342  ls
+  343  cd assignments
+  344  ls
+  345  cd assignment3
+  346  code .
+  347  cd desktop
+  348  cd school
+  349  cd fall2020
+  350  ls
+  351  cd b461
+  352  psql -U postgres
+  353  code .
+  354  cd desktop
+  355  ls
+  356  cd fall-2020
+  357  ls
+  358  git pull
+  359  git pull
+  360  cd desktop
+  361  ls
+  362  cd fall-2020
+  363  git pull
+  364  cd desktop
+  365  cd fall-2020
+  366  ls
+  367  cd labs
+  368  ls
+  369  cd lab4
+  370  code .
+  371  cd desktop
+  372  ls
+  373  cd b351
+  374  ls
+  375  git pull
+  376  cd a3
+  377  ls
+  378  cd ..
+  379  ls
+  380  cd a3
+  381  ls
+  382  code .
+  383  cd desktop
+  384  cd b351
+  385  ls
+  386  cd a3
+  387  code .
+  388  cd desktop
+  389  cd b351
+  390  cd a3
+  391  code .
+  392  cd desktop
+  393  cd b351
+  394  cd a3
+  395  code .
+  396  cd desktop
+  397  cd b351
+  398  code .
+  399  cd desktop
+  400  py labPolicy.txt
+  401  cd desktop
+  402  code .
+  403  cd desktop
+  404  ls
+  405  cd Fall-2020
+  406  ls
+  407  cd labs
+  408  git pull
+  409  ls
+  410  cd desktop
+  411  ls
+  412  cd njmobley
+  413  cd ..
+  414  cd ..
+  415  cd desktop
+  416  cd njmobley
+  417  cd desktop
+  418  ls
+  419  rm -r njmobley
+  420  cd desktop
+  421  git clone https://github.iu.edu/csci-c200-fall-2020/njmobley.git
+  422  cd njmobley/
+  423  code .
+  424  ls
+  425  mkdir assignment1
+  426  mkdir assignment2
+  427  mkdir assingment3
+  428  ls
+  429  cd laboratory
+  430  ls
+  431  mkdir lab5
+  432  cd lab4
+  433  ls
+  434  cd ..
+  435  mkdir Debugger
+  436  rm -r lab5
+  437  mkdir Lab5
+  438  ls
+  439  cd Lab5
+  440  ls
+  441  cd desktop
+  442  ls
+  443  code .
+  444  cd desktop
+  445  cd school
+  446  cd b461
+  447  ls
+  448  cd fall2020
+  449  ls
+  450  cd b461
+  451  ls
+  452  mkdir Assignment4
+  453  code .
+  454  cd desktop
+  455  ls
+  456  cd fall-2020
+  457  git status
+  458  git add PairsAssingments/.
+  459  git status
+  460  git commit -m "added homework paiing"
+  461  git pull
+  462  git push
+  463  ls
+  464  cd desktop
+  465  ls
+  466  cd fall-2020
+  467  cd ..
+  468  cd school
+  469  ls
+  470  cd fall2020
+  471  ls
+  472  cd logistics
+  473  ls
+  474  code .
+  475  cd ..
+  476  cd ..
+  477  cd ..
+  478  cd fall-2020
+  479  ls
+  480  cd assingments
+  481  cd assingments
+  482  cd assingment5
+  483  ls
+  484  cd assignments
+  485  cd assignment5
+  486  ls
+  487  pdflatex homework5fall2020.tex
+  488  findtexmf droidmono.sty
+  489  ls
+  490  git status
+  491  git add homework5fall2020.tex
+  492  git commit -m "updated pair assingment"
+  493  git push
+  494  git pull
+  495  code .
+  496  cd desktop
+  497  ls
+  498  cd school
+  499  code .
+  500  cd desktop
+  501  history > history.txt

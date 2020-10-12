@@ -1,0 +1,145 @@
+    1  cd Documents/IU/B351
+    2  git clone https://github.iu.edu/csci-b351-sp20/distribution.git
+    3  git remote rename origin distribution
+    4  ls
+    5  cd distribution
+    6  lo
+    7  ls
+    8  git remote rename origin distribution
+    9  git remote -v
+   10  git remote add submission https://github.iu.edu/csci-b351-sp20/chmalex-submission.git
+   11  git remote -v
+   12  git add
+   13  git add .
+   14  git commit -m "First commmit"
+   15  git push submission master
+   16  git pull distribution
+   17  ls
+   18  git add .
+   19  git status
+   20  git commit -m "a0 commit"
+   21  git push submission master
+   22  ls
+   23  cd Documents
+   24  ls
+   25  cd IU
+   27  git clone "https://github.iu.edu/H343-Fall2020/chmalex-submission.git"
+   28  ls
+   29  cd chmalex-submission
+   30  ls
+   31  git remote -v
+   32  git remote rename origin submission
+   33  git remote -v
+   34  pwd
+   35  git remote add distribution "https://github.iu.edu/H343-Fall2020/distribution.git"
+   36  git remote -v
+   38  keytool -exportcert -alias androiddebugkey -keystore ~/.android/debug.keystore -list -v | grep SHA1
+   40  cd /Users/chris/AndroidStudioProjects/PlayaQueue
+   41  pwd
+   42  cd Documents
+   43  cd IU
+   44  cd chmalex-submission
+   45  git pull distribution master
+   46  git pull distribution master --allow-unrelated-histories
+   47  git add .
+   48  git push submission master
+   49  cd Documents
+   50  cd IU
+   51  cd chmalex-submission
+   52  git add .
+   53  git commit -m "Lab 2 submission"
+   54  git push submission master
+   55  cd Documents/IU
+   56  ls
+   57  cd chmalex-submission
+   58  git pull distribution master
+   59  cd Documents/IU/chmalex-submission
+   60  git add .
+   61  git commit -m "A2"
+   62  git push submission master
+   63  cd Documents/IU/chmalex-submission
+   64  git pull distribution master
+   65  cd Documents/IU/chmalex-submission
+   66  git add .
+   67  git commit -m "Lab 3"
+   68  git push submission master
+   69  cd Documents/IU/chmalex-submission
+   70  git pull
+   71  cd Documents/IU/chmalex-submission master
+   72  cd Documents/IU/chmalex-submission
+   73  git pull distribution master
+   74  git add .
+   75  git commit -m "L4"
+   76  git push submission master
+   77  cd Documents/IU/chmalex-chmalex
+   78  cd Documents/IU/chmalex-submission
+   79  git add .
+   80  git commit -m "A4"
+   81  git push submission master
+   82  cd Documents/IU/chmalex-submission
+   83  git add .
+   84  git commit -m "A4"
+   85  git push submission master
+   86  cd Documents/IU/chmalex-submission
+   87  git pull distribution master
+   88  cd Documents/IU/chmalex-submission
+   89  git add .
+   90  git commit -m "L5"
+   91  git push distribution master
+   92  git push submission master
+   93  ping https://agdapad.quasicoherent.io/#SocialistChangesCoordinateFlatly
+   94  ping https://agdapad.quasicoherent.io
+   95  ping agdapad.quasicoherent.io
+   96  cd Documents/IU/chmalex-submission
+   97  git add .
+   98  git commit -m "A5 in your face, Agda!"
+   99  git push submission master
+  100  nano test.py
+  101  py test.py
+  102  cd Documents/IU/chmalex-submission
+  103  git pull distribution master
+  104  git add .
+  105  git commit -m "L6 rough but working"
+  106  git push submission master
+  107  git add .
+  108  git commit -m "disregard last push... ran the wrong test"
+  109  git push submission master
+  110  git add .
+  111  git commit -m "L6 rough but working fr"
+  112  git push submission master
+  113  git add .
+  114  git commit -m "progress on really bad BU code"
+  115  git push submission master
+  116  git add .
+  117  git commit -m "All provided tests passgit add .git add ."
+  118  git push submission master
+  119  cd Documents/IU/chmalex-submission
+  120  git add .
+  121  git commit -m "one more test case added per algo"
+  122  git push submission master
+  123  git add .
+  124  git commit -m "much simpler bu"
+  125  git push submission master
+  126  git add .
+  127  git commit -m "error handle"
+  128  git push submission master
+  129  git add .
+  130  git commit -m "idk what im doing anymore"
+  131  git push submission master
+  132  nano test.txt
+  133  n
+  134  apt
+  135  pacman
+  136  cd Documents/IU/chmalex-submission
+  137  git add .
+  138  git commit -m "why is my memoization still not working?"
+  139  git push submission master
+  140  git add .
+  141  git commit -m "A6 submission before (possibly) cleaning up"
+  142  git push submission master
+  143  git add .
+  144  cd Documents/IU/chmalex-submission
+  145  git add .
+  146  git commit -m "A6 submission"
+  147  git push submission master
+  148  history > history.txt

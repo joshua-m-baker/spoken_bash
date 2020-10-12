@@ -1,0 +1,500 @@
+    3  git add .
+    4  git status
+    5  git commit -m "added ps01"
+    6  ls
+    7  cd ..
+    8  ls
+    9  git status
+   10  git add .
+   11  git status
+   12  git commit -m "added ps01"
+   13  git push
+   14  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   15  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   16  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   17  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   18  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   19  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   20  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   21  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   22  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   23  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   24  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   25  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   26  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   27  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   28  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   29  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   30  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   31  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   32  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   33  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   34  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   35  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   36  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   37  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   38  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   39  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   40  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   41  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   42  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   43  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   44  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   45  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   46  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   47  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   48  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   49  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   50  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   51  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   52  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   53  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   54  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   55  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   56  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   57  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   58  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   59  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   60  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   61  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   62  python3 /Users/bradyanderson/python_environments/distribution/a1/a1.py
+   63  ls
+   64  cd python_environments/
+   65  ls
+   66  cd distribution/
+   67  ls
+   68  git status
+   69  python
+   70  git status
+   71  git add .
+   72  git commit -m "progress on a1"
+   73  git push
+   74  git push 
+   75  git push submission master
+   76  ls
+   77  cd Desktop/
+   78  ls
+   79  cd C343brjoande/
+   80  ls
+   81  git status
+   82  git add .
+   83  git commit -m "file structure changes"
+   84  git push
+   85  ls
+   86  cd ../../../
+   87  ls
+   88  source bin/activate
+   89  ls
+   90  cd MooreBonds/MooreBonds/MooreBonds/
+   91  ls
+   92  python manage.py createsuperuser
+   93  git --version
+   94  ls
+   95  cd python_environments/
+   96  ls
+   97  git clone https://github.iu.edu/csci-b351-fa20/distribution.git
+   98  ls
+   99  cd distribution/
+  100  ls
+  101  git remote rename origin distribution
+  102  git remote -v
+  103  git remote add submission https://github.iu.edu/csci-b351-fa20/Brjoande-submission.git
+  104  git remote -v
+  105  git add .
+  106  git commit -m "first commit"
+  107  git push submission master
+  108  git pull distribution
+  109  ls
+  110  git add .
+  111  git status
+  112  git commit -m "a0 commit"
+  113  git push submission master
+  114  ls
+  115  python3
+  116  python3 /Users/bradyanderson/python_environments/distribution/a2/a2.py
+  117  ls
+  118  cd ../
+  119  ls
+  120  eb deploy
+  121  eb deploy
+  122  eb deploy
+  123  eb deploy
+  124  eb deploy
+  125  eb deploy
+  126  eb abort
+  127  eb deploy
+  128  eb deploy
+  129  eb deploy
+  130  eb config
+  131  eb config
+  132  eb console
+  133  eb deploy
+  134  tail -f /var/log/httpd/access_log
+  135  eb deploy
+  136  git 
+  137  ls
+  138  cd ../
+  139  ls
+  140  cd ../
+  141  ls
+  142  cd ../
+  143  ls
+  144  cd moorebondsve-heroku/
+  145  ls
+  146  cd MooreBonds/MooreBonds/MOo
+  147  cd MooreBonds/MooreBonds/MooreBonds/
+  148  ls
+  149  git config
+  150  heroku config
+  151  git status
+  152  git add .
+  153  git commit 
+  154  ls
+  155  cd ../../
+  156  ls
+  157  source bin/activate
+  158  ls
+  159  cd MooreBonds/MooreBonds/
+  160  ls
+  161  pip freeze > requirements.txt 
+  162  python --version
+  163  ls
+  164  python manage.py runserver
+  165  manage.py check
+  166  python manage.py check
+  167  python --version
+  168  python manage.py check --deploy
+  169  python --version
+  170  pip install whitenoise
+  171  pip freeze > requirements.txt 
+  172  ls
+  173  heroku login
+  174  git remote add heroku git@heroku.com:project.git
+  175  git remote add heroku git@heroku.com:myjailhelp-production.git
+  176  heroku create
+  177  git push heroku master
+  178  git remote -v
+  179  git config -l
+  180  heroku open
+  181  cd .git
+  182  vim config
+  183  heroku config
+  184  git config -l
+  185  git remote add heroku https://git.heroku.com/myjailhelp-production.git
+  186  heroku create MyJailHelp-production
+  187  heroku create myjailhelp-production
+  188  heroku create myjailhelp-live
+  189  git config -l
+  190  heroku open
+  191  git status
+  192  git 
+  193  ls
+  194  cd python_environments/
+  195  ls
+  196  cd myjailhelp-heroku-live/
+  197  ls
+  198  source bin/activate
+  199  ls
+  200  cd MooreBonds/MooreBonds/
+  201  ls
+  202  python manage.py createsuperuser
+  203  ls
+  204  pip install -r requirements.txt
+  205  python manage.py createsuperuser
+  206  git remote -v
+  207  rustup install nightly
+  208  rustup default nightly
+  209  rustup component add rls-preview --toolchain nightly
+  210  rustup component add rust-analysis --toolchain nightly
+  211  rustup component add rust-src --toolchain nightly
+  212  cargo install clippy rustfmt rustsym
+  213  cargo new test
+  214  cargo new test-app
+  215  ls
+  216  cd test-app/
+  217  LS
+  218  cd src
+  219  ls
+  220  open main.rs
+  221  cd ../
+  222  ls
+  223  cd ../../
+  224  ls
+  225  cd ../
+  226  ls 
+  227  nano .bash_profile
+  228  nano .bash_profile
+  229  LS
+  230  python manage.py createsuperuser
+  231  ls
+  232  cd python_environments/
+  233  ls
+  234  cd myjailhelp-heroku-live/
+  235  ls
+  236  cd MooreBonds/MooreBonds/
+  237  ls
+  238  git status
+  239  git add .
+  240  git commit -m "UI"
+  241  git push heroku master
+  242  git status
+  243  git add .
+  244  git commit -m "UI"
+  245  git push
+  246  git push heroku master
+  247  git status
+  248  git add .
+  249  git commit -m "update ui"
+  250  git push
+  251  git push heroku master
+  252  git add .
+  253  git commit -m "update ui
+  254  "
+  255  git push
+  256  git push heroku master
+  257  git add .
+  258  git commit -m "ui update"
+  259  git push 
+  260  git push heroku master
+  261  git push heroku master
+  262  git push
+  263  git status
+  264  git add .
+  265  git commit -m "ui update"
+  266  git push heroku master
+  267  git add .
+  268  git commit -m "ui update"
+  269  git push
+  270  git push heroku master
+  271  ls
+  272  python manage.py createsuperuser
+  273  nano .bash_profile
+  274  ls
+  275  cd Desktop/
+  276  ls
+  277  cd C343brjoande/
+  278  ls
+  279  git status
+  280  git add .
+  281  git commit -m "lab03 setup complete"
+  282  git push
+  283  ls
+  284  cd lab03
+  285  ls
+  286  cd src
+  287  ls
+  288  javac TweetClass.java 
+  289  javac TweetCollection.java 
+  290  java TweetCollection
+  291  git status
+  292  git add .
+  293  git commit -m "lab 03 complete"
+  294  git push
+  295  git status
+  296  git add .
+  297  git commit -m "updating readme"
+  298  ls
+  299  cd ../
+  300  ls
+  301  cd ../
+  302  ls
+  303  git status
+  304  git add .
+  305  git commit -m "updated readme"
+  306  git push
+  307  git status
+  308  git add .
+  309  git commit -m "fixed project structure"
+  310  git push
+  311  nmap -h
+  312  python3 /Users/bradyanderson/python_environments/distribution/a2/a2.py
+  313  python3 /Users/bradyanderson/python_environments/distribution/a2/a2.py
+  314  python3 /Users/bradyanderson/python_environments/distribution/a2/a2.py
+  315  python3 /Users/bradyanderson/python_environments/distribution/a2/a2.py
+  316  python3 /Users/bradyanderson/python_environments/distribution/a2/a2.py
+  317  python3 /Users/bradyanderson/python_environments/distribution/a2/a2.py
+  318  python3 /Users/bradyanderson/python_environments/distribution/a2/a2.py
+  319  python3 /Users/bradyanderson/python_environments/distribution/a2/a2.py
+  320  python3 /Users/bradyanderson/python_environments/distribution/a2/a2.py
+  321  python3 /Users/bradyanderson/python_environments/distribution/a2/test.py
+  322  python3 /Users/bradyanderson/python_environments/distribution/a2/test.py
+  323  python3 /Users/bradyanderson/python_environments/distribution/a2/test.py
+  324  python3 /Users/bradyanderson/python_environments/distribution/a2/test1.py
+  325  python3 /Users/bradyanderson/python_environments/distribution/a2/test.py
+  326  python3 /Users/bradyanderson/python_environments/distribution/a2/test.py
+  327  python3 /Users/bradyanderson/python_environments/distribution/a2/test1.py
+  328  python3 /Users/bradyanderson/python_environments/distribution/a2/test1.py
+  329  python3 /Users/bradyanderson/python_environments/distribution/a2/test.py
+  330  python3
+  331  pwd
+  332  python
+  333  python
+  334  ls
+  335  cd Desktop/
+  336  ls
+  337  cd C343brjoande/
+  338  ls
+  339  git staus
+  340  git status
+  341  git add .
+  342  git commit -m "lecture 10 tasks"
+  343  git push
+  344  ipconfig
+  345  ifconfig
+  346  python3 /Users/bradyanderson/python_environments/distribution/a2/a2.py
+  347  python3 /Users/bradyanderson/python_environments/distribution/a2/a2.py
+  348  ls
+  349  cd python_environments/mappedout/
+  350  ls
+  351  source bin/activate
+  352  ls
+  353  cd mappedout-live/
+  354  ls
+  355  git status
+  356  git add .
+  357  git commit -m "generic template change"
+  358  git push
+  359  git remote -v
+  360  git push heroku master
+  361  git status
+  362  git add .
+  363  git commit -m "update json object format"
+  364  git push heroku master
+  365  git status
+  366  git add .
+  367  git commit -m "working out generic template structure"
+  368  git push heroku
+  369  git push heroku master
+  370  ls
+  371  cd app
+  372  ls
+  373  python main.py
+  374  git status
+  375  cd ../
+  376  ls
+  377  git status
+  378  git add .
+  379  git status
+  380  git commit -m "testing out stuff"
+  381  git push
+  382  git push heroku master
+  383  pip install reportlab
+  384  pip install --upgrade --force-reinstall reportlab
+  385  ls
+  386  python3 /Users/bradyanderson/python_environments/moorebondsve/MooreBonds/MooreBonds/scripts/pdfWriter.py
+  387  pwd
+  388  ls
+  389  cd ../../
+  390  ls
+  391  source bin/activate
+  392  ls
+  393  cd MooreBonds/MooreBonds/
+  394  ls
+  395  cd Desktop/C343brjoande/
+  396  ls
+  397  git status
+  398  git ad d.
+  399  git add .
+  400  git status
+  401  git commit -m "lecture 12 notes"
+  402  git push
+  403  python3 /Users/bradyanderson/python_environments/distribution/a2/a2.py
+  404  ls
+  405  mkdir jsProjects
+  406  cd jsProjects/
+  407  ls
+  408  mkdir responsiveEmail
+  409  cd responsiveEmail/
+  410  ls
+  411  npm install create-react-native-app
+  412  npm audit fix
+  413  create-react-native-app responsive-email
+  414  ls
+  415  ls
+  416  ls -:
+  417  ls -;
+  418  ls -l
+  419  ls -a
+  420  python
+  421  msfconsole
+  422  msfconsole
+  423  ls
+  424  cd python_environments/
+  425  ls
+  426  cd ../
+  427  ls
+  428  cd Desktop/
+  429  ls
+  430  cd C343brjoande/
+  431  ls
+  432  git status
+  433  git add .
+  434  git commit -m "ps06 part 1 complete"
+  435  git push
+  436  git status
+  437  git add .
+  438  git commit -m "part B starter code"
+  439  git push
+  440  git status
+  441  git add .
+  442  git commit -m "part 2 completed"
+  443  git push
+  444  git status
+  445  git add .
+  446  git commit -m "setting up part 3"
+  447  git push
+  448  git status
+  449  git add .
+  450  git commit -m "changed file encoding"
+  451  git push
+  452  git status
+  453  git add .
+  454  git commit -m "edit distnce implemented"
+  455  git push
+  456  ls
+  457  cd ps
+  458  ls
+  459  cd ps06
+  460  ls
+  461  cd src
+  462  ls
+  463  javac Levenshtein.java 
+  464  ls
+  465  java Levenshtein
+  466  javac Levenshtein.java 
+  467  java Levenshtein
+  468  git status
+  469  git add .
+  470  git commit -m "finalized part 3"
+  471  git push
+  472  ls
+  473  cd ../
+  474  ls
+  475  cd ../
+  476  ls
+  477  cd ps05
+  478  ls
+  479  cd ProblemSet05/
+  480  ls
+  481  cd src/
+  482  ls
+  483  javac PS05Controller.java 
+  484  ls
+  485  java PS05Controller
+  486  ls
+  487  cd ../../
+  488  ls
+  489  cd ps04
+  490  ls
+  491  javac ProblemSet04/
+  492  javac ProblemSet04.java
+  493  ls
+  494  cd ProblemSet04/
+  495  ls
+  496  cd src
+  497  ls
+  498  javac Int2DArray.java
+  499  java Int2DArray
+  500  java Int2DArray
+  501  ls
+  502  history > history.txt

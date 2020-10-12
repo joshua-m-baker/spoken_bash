@@ -1,0 +1,1000 @@
+ 1007  cd dev/django_examples/
+ 1008  ls
+ 1009  cd taiga-back/
+ 1010  grep -ir "AuthData"
+ 1011  vim taiga/hooks/event_hooks.py 
+ 1012  vim taiga/events/backends/rabbitmq.py 
+ 1013  source ~/.envs/rent_prop/bin/activate
+ 1014  py manage.py startapp core
+ 1015  py manage.py migrate 
+ 1016  py manage.py migrate
+ 1017  py manage.py makemigrations auth0authorization/
+ 1018  py manage.py makemigrations auth0authorization
+ 1019  py manage.py migrate
+ 1020  py manage.py startapp core
+ 1021  py manage.py makemigrations core
+ 1022  history
+ 1023  cd taiga-back/
+ 1024  cd dev/django_examples/taiga-back/
+ 1025  ls
+ 1026  grep -ir "address"
+ 1027  cd ../django-realworld-example-app/
+ 1028  grep -ir "address"
+ 1029  mysql -uroot
+ 1030  mysql -uroot -p
+ 1031  git pull
+ 1032  git branch
+ 1033  git checkout temp
+ 1034  cd rentnoww-server/
+ 1035  source ~/.envs/rent_prop/bin/activate
+ 1036  ./exec.sh 
+ 1037  cd client/
+ 1038  npm start
+ 1039  ls
+ 1040  z /home/josh/Documents 
+ 1041  ls
+ 1042  cd linguistics/
+ 1043  ls
+ 1044  vim papers.txt
+ 1045  code /home/josh/dev/rent_noww/client/
+ 1046  cd 
+ 1047  cd dev
+ 1048  ls
+ 1049  code rent_noww/
+ 1050  ls
+ 1051  cd rent_noww/
+ 1052  ls
+ 1053  mv server ..
+ 1054  code .
+ 1055  cd -
+ 1056  z /home/josh/Documents/linguistics
+ 1057  ls
+ 1058  vim papers.txt 
+ 1059  scale
+ 1060  source ~/.envs/rent_prop/bin/activate
+ 1061  ./exec.sh 
+ 1062  z /home/josh/Documents/linguistics
+ 1063  ls
+ 1064  vim papers.txt 
+ 1065  cd 
+ 1066  cd dev/rent_noww/
+ 1067  cd rentnoww-server/
+ 1068  sl
+ 1069  git status
+ 1070  code .
+ 1071  cd 
+ 1072  ls
+ 1073  ls Downloads/
+ 1074  ls Downloads/*.gz
+ 1075  open Downloads/
+ 1076  snap install postman
+ 1077  postman
+ 1078  scale
+ 1079  mysql -uroot -p
+ 1080  vim workon
+ 1081  chmod +x workon
+ 1082  ./workon 
+ 1083  ls ~/.envs/rent_prop/bin/activate
+ 1084  vim workon
+ 1085  ./workon 
+ 1086  vim ./workon
+ 1087  source ~/.envs/rent_prop/bin/activate
+ 1088  py manage.py makemigrations auth0authorization
+ 1089  py manage.py makemigrations core
+ 1090  py manage.py makemigrations profiles
+ 1091  py manage.py migrate
+ 1092  py manage.py migrate 0
+ 1093  py manage.py migrate zero
+ 1094  py manage.py migrate
+ 1095  git checkout -b josh
+ 1096  git branch
+ 1097  git add .
+ 1098  git commit -m "change stuff around to accomodate users"
+ 1099  z music
+ 1100  ls
+ 1101  cd homework/
+ 1102  ls
+ 1103  mkdir a3
+ 1104  ls a2
+ 1105  cp a2/homework.tex a3/
+ 1106  cd a3
+ 1107  ls
+ 1108  scale
+ 1109  mv ~/Downloads/bass_oboe.wav Documents/music/homework/a3/
+ 1110  mv ~/Downloads/spectrum_movie.r Documents/music/homework/a3/
+ 1111  cd Documents/music/homework/a3/
+ 1112  ls
+ 1113  vim spectrum_movie.r 
+ 1114  ls
+ 1115  vim spectrum_movie.r 
+ 1116  R
+ 1117  ls
+ 1118  vim spectrum_movie.r 
+ 1119  cp spectrum_movie.r p2.r
+ 1120  vim p2.r 
+ 1121  vim ~/Downloads/sawtooth_fourier.r 
+ 1122  vim p2.r 
+ 1123  ls
+ 1124  vim spectrum_movie.r 
+ 1125  mv ~/Downloads/chrom.wav .
+ 1126  ls
+ 1127  vim p2.r 
+ 1128  vim ~/Downloads/arbitrary_sine_fft.r 
+ 1129  ls
+ 1130  vim p2.r 
+ 1131  vim ~/Downloads/arbitrary_sine_fft.r 
+ 1132  ls
+ 1133  vim spectrum_movie.r 
+ 1134  vim p2.r 
+ 1135  mv p2.r p2b.r
+ 1136  cp p2b.r p3.r
+ 1137  vim p3.r 
+ 1138  vim ~/vim-cheat-sheet.txt 
+ 1139  z /home/josh/Documents/m
+ 1140  zz a3
+ 1141  ls
+ 1142  R
+ 1143  z music
+ 1144  ls
+ 1145  z a3
+ 1146  ls
+ 1147  R
+ 1148  ls
+ 1149  ls ~/*.r
+ 1150  ls ~/*r
+ 1151  ls ~/Downloads/*.r
+ 1152  vim ~/Downloads/stability_test\(1\).r 
+ 1153  vim ~/Downloads/sawtooth_fourier.r 
+ 1154  vim ~/Downloads/arbitrary_sine_fft.r 
+ 1155  R
+ 1156  vim ~/Downloads/arbitrary_sine_fft.r 
+ 1157  R
+ 1158  ls
+ 1159  open p2b_window.png 
+ 1160  open p2b_no_window.png 
+ 1161  ls
+ 1162  vim p2b.r 
+ 1163  vim p3.r 
+ 1164  z /home/josh/Documents/se
+ 1165  ls
+ 1166  mkdir Assignment3
+ 1167  cd Assignment3
+ 1168  cp ../Assignment2/ .
+ 1169  cp ../Assignment2/assignment_2.odt .
+ 1170  open assignment_2.odt 
+ 1171  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4Test.py
+ 1172  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4.py
+ 1173  py
+ 1174  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4.py
+ 1175  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4Test.py
+ 1176  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4.py
+ 1177  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4Test.py
+ 1178  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4.py
+ 1179  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4Test.py
+ 1180  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4.py
+ 1181  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4Test.py
+ 1182  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4.py
+ 1183  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4Test.py
+ 1184  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4.py
+ 1185  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4Test.py
+ 1186  py
+ 1187  /usr/bin/python3.8 /home/josh/dev/C200-Assignments-13387/Laboratory/Lab4/Lab4Test.py
+ 1188  py
+ 1189  php artisan serve
+ 1190  php artisan make:model Item -m
+ 1191  php artisan make:model ItemSubtype -m
+ 1192  php artisan make:model Bibliography -m
+ 1193  php artisan make:controller ItemController --resource --model=Item
+ 1194  php artisan make:migration --table=items_items_subtype
+ 1195  php artisan make:migration create_items_subtype_piviot_table --table=items_items_subtype
+ 1196  php artisan migrate
+ 1197  npm run watch
+ 1198  ssh vader
+ 1199  git branch
+ 1200  npm run watch
+ 1201  php artisan serve
+ 1202  history | grep find
+ 1203  code ../client/
+ 1204  ls
+ 1205  history
+ 1206  ls
+ 1207  cd dev
+ 1208  ls
+ 1209  cd C200-Assignments-13387/
+ 1210  ls
+ 1211  cd Laboratory/
+ 1212  ls
+ 1213  cd ..
+ 1214  code .
+ 1215  cd
+ 1216  code dev/summer20/insula/
+ 1217  open ~/Downloads/_
+ 1218  open ~/Downloads/_Database_Entry_Template_Rome.xlsx 
+ 1219  mysql -uroot -p
+ 1220  ls
+ 1221  z /home/josh/Documents/linguistics
+ 1222  ls
+ 1223  vim papers.txt 
+ 1224  history | grep find
+ 1225  history | grep "iname"
+ 1226  man grep
+ 1227  man find
+ 1228  code /home/josh/dev/summer20/insula/
+ 1229  code /home/josh/dev/rent_noww/rentnoww-server/
+ 1230  z /home/josh/
+ 1231  cd dev/rent_noww/
+ 1232  ls
+ 1233  ls ..
+ 1234  cd ../server/
+ 1235  ls
+ 1236  vim README.md 
+ 1237  git branch
+ 1238  git push
+ 1239  git push --set-upstream origin josh
+ 1240  source ~/.envs/rent_prop/bin/activate
+ 1241  ls
+ 1242  py manage.py makemigrations profiles
+ 1243  git pull
+ 1244  git stash
+ 1245  git branch
+ 1246  git branch -a
+ 1247  git checkout temp
+ 1248  git pull
+ 1249  git stash pop
+ 1250  git checkout staging 
+ 1251  git pull
+ 1252  git branch
+ 1253  git checkout temp
+ 1254  git pull
+ 1255  npm start
+ 1256  npm install
+ 1257  npm start
+ 1258  z se
+ 1259  ls
+ 1260  cd ~/Documents/se
+ 1261  ls
+ 1262  cd project/
+ 1263  ls
+ 1264  vim test_plan.md
+ 1265  which pandoc
+ 1266  sudo vim /etc/sysctl.conf 
+ 1267  sudo sysctl -p
+ 1268  cd ../..
+ 1269  ls
+ 1270  mkdir jobs
+ 1271  cd jobs/
+ 1272  vim applied.md
+ 1273  open ~/Documents/resume/resume.pdf 
+ 1274  source ~/.envs/rent_prop/bin/activate
+ 1275  ./exec.sh 
+ 1276  py manage.py migrate
+ 1277  ./exec.sh 
+ 1278  git push
+ 1279  scale
+ 1280  py
+ 1281  git pull
+ 1282  git branch
+ 1283  git checkout staging
+ 1284  git status
+ 1285  git checkout staging
+ 1286  git pull
+ 1287  git statu
+ 1288  git pull
+ 1289  git checkout leo
+ 1290  git pull
+ 1291  git status
+ 1292  git pull
+ 1293  source ~/.envs/rent_prop/bin/activate
+ 1294  py manage.py migra
+ 1295  py manage.py migrate
+ 1296  py manage.py makemigration profiles
+ 1297  py manage.py makemigrations profiles
+ 1298  y
+ 1299  py manage.py migrate
+ 1300  py manage.py makemigrations
+ 1301  y
+ 1302  py manage.py migrate
+ 1303  py manage.py migrate zero
+ 1304  py manage.py migrate
+ 1305  git branch
+ 1306  git checkout josh
+ 1307  git stash
+ 1308  git checkout josh
+ 1309  git stash pop
+ 1310  git checkout leo
+ 1311  py manage.py startapp items
+ 1312  py manage.py makemigrations
+ 1313  py manage.py migrate
+ 1314  git stash
+ 1315  git merge leo
+ 1316  git stash pop
+ 1317  py manage.py makemigrations
+ 1318  py manage.py migrate
+ 1319  git branch
+ 1320  git push
+ 1321  py manage.py migrate
+ 1322  py manage.py makemigrations
+ 1323  code dev/summer20/insula/
+ 1324  code dev/rent_noww/
+ 1325  cd dev/rent_noww/
+ 1326  code client/
+ 1327  code rentnoww-server/
+ 1328  mysql -uroot -p
+ 1329  z
+ 1330  cd
+ 1331  z a3
+ 1332  ls
+ 1333  mv ~/Downloads/timbre_copy.r .
+ 1334  ls
+ 1335  vim timbre_copy.r 
+ 1336  cp timbre_copy.r p4a.r
+ 1337  vim p4a.r
+ 1338  ls
+ 1339  vim p4a.r
+ 1340  z /home/josh/dev/rent_noww/rentnoww-server 
+ 1341  git status
+ 1342  git checkout staging 
+ 1343  git merge josh
+ 1344  git push
+ 1345  git pull
+ 1346  git push
+ 1347  z a2
+ 1348  ls
+ 1349  c
+ 1350  cd
+ 1351  zz a2
+ 1352  ls
+ 1353  vim p4.r 
+ 1354  z a3
+ 1355  R
+ 1356  py scripts/remake_grade_csv.py 
+ 1357  /usr/bin/python3 /home/josh/dev/c200utils/scripts/lab2_check.py
+ 1358  /usr/bin/python3 /home/josh/dev/c200utils/scripts/lab2_check.py/usr/bin/python3 /home/josh/dev/c200utils/scripts/lab2_check.py
+ 1359  /usr/bin/python3 /home/josh/dev/c200utils/scripts/lab2_check.py
+ 1360  /usr/bin/python3 /home/josh/dev/c200utils/scripts/decorator_test.py
+ 1361  py
+ 1362  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/writers.py
+ 1363  /usr/bin/python3 /home/josh/dev/c200utils/scripts/lab2_check.py
+ 1364  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/data/constants.py
+ 1365  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/writers.py
+ 1366  /usr/bin/python3 /home/josh/dev/c200utils/scripts/lab2_check.py
+ 1367  /usr/bin/python3
+ 1368  /usr/bin/python3 /home/josh/dev/c200utils/scripts/lab2_check.py
+ 1369  ls
+ 1370  ls c200utils/
+ 1371  cd c200utils/
+ 1372  ls
+ 1373  ls cloner/
+ 1374  ls scoring/
+ 1375  cd scoring/
+ 1376  touch __init__.py
+ 1377  ls
+ 1378  ls ../cloner/
+ 1379  ls
+ 1380  /usr/bin/python3 /home/josh/dev/c200utils/scripts/lab1_check.py
+ 1381  ls
+ 1382  py
+ 1383  find -name "laboratory" tempdata
+ 1384  find -name tempdata "laboratory"
+ 1385  find tempdata -name "laboratory"
+ 1386  py
+ 1387  z /home/josh/dev/c200utils
+ 1388  touch styntax.txt
+ 1389  touch Syntax.txt
+ 1390  mv styntax.txt syntax.txt
+ 1391  ls
+ 1392  rm Syntax.txt
+ 1393  rm syntax.txt 
+ 1394  code dev/c200utils/
+ 1395  cd dev/grading_fall20/
+ 1396  ls
+ 1397  code .
+ 1398  php artisan serve
+ 1399  npm run dev
+ 1400  ls ~/.envs/rent_prop/
+ 1401  ls ~/.envs/rent_prop/bin/
+ 1402  ls ~/.envs/rent_prop/lib/python3.8
+ 1403  ls ~/.envs/rent_prop/
+ 1404  ls ~/.envs/rent_prop/include/
+ 1405  ls ~/.envs/rent_prop/bin
+ 1406  source ~/.envs/rent_prop/bin/activate
+ 1407  ./exec.sh 
+ 1408  py manage.py makemigrations
+ 1409  py manage.py migrate
+ 1410  py manage.py makemigrations
+ 1411  py manage.py migrate
+ 1412  py manage.py makemigrations
+ 1413  py manage.py migrate
+ 1414  git branch
+ 1415  git checkout josh
+ 1416  git merge staging
+ 1417  git push
+ 1418  git status
+ 1419  git diff
+ 1420  git pull
+ 1421  source ~/.envs/rent_prop/bin/activate
+ 1422  ./exec.sh 
+ 1423  git pull
+ 1424  git checkout temp
+ 1425  git pull
+ 1426  npm start
+ 1427  git pull
+ 1428  npm start
+ 1429  git pull
+ 1430  git diff
+ 1431  git stash
+ 1432  git pull
+ 1433  git stash pop
+ 1434  npm start
+ 1435  npm install
+ 1436  npm start
+ 1437  code dev/summer20/insula/
+ 1438  code dev/rent_noww/rentnoww-server/
+ 1439  code dev/rent_noww/client/
+ 1440  mysql -uroot -p
+ 1441  open ~/Downloads/360\ Peer\ Evaluation.docx 
+ 1442  ls
+ 1443  cd Documents/se/project/
+ 1444  ls
+ 1445  pandoc -o test_plan.pdf test_plan.md 
+ 1446  sudo apt install pandoc
+ 1447  pandoc -o test_plan.pdf test_plan.md 
+ 1448  open test_plan.pdf 
+ 1449  vim test_plan.md 
+ 1450  pandoc -o test_plan.pdf test_plan.md 
+ 1451  vim test_plan.md 
+ 1452  pandoc -o test_plan.pdf test_plan.md 
+ 1453  vim test_plan.md 
+ 1454  pandoc -o test_plan.pdf test_plan.md 
+ 1455  vim test_plan.md 
+ 1456  pandoc -o test_plan.pdf test_plan.md 
+ 1457  z project
+ 1458  ls
+ 1459  vim test_plan.
+ 1460  vim test_plan.md 
+ 1461  mv test_plan.md og_test_plan.md
+ 1462  vim test_plan.pdf 
+ 1463  vim test_plan.md 
+ 1464  cp og_test_plan.md test_plan.md
+ 1465  vim test_plan.md
+ 1466  ls
+ 1467  cd dev/rent_noww/
+ 1468  ls
+ 1469  cd rentnoww-server/
+ 1470  ls
+ 1471  git branch
+ 1472  cat profiles/urls.py 
+ 1473  ls
+ 1474  ls rentnoww/
+ 1475  less rentnoww/urls.py 
+ 1476  R
+ 1477  cd Downloads/
+ 1478  R
+ 1479  cd Downloads/
+ 1480  vim sine_id_1.r
+ 1481  vim sine_id_2.r 
+ 1482  rm sawtooth_fourier.r 
+ 1483  mv sawtooth_fourier\(1\).r sawtooth_fourier.r
+ 1484  vim sawtooth_fourier.r 
+ 1485  rm sine_id_1.r 
+ 1486  mv sine_id_1\(1\).r sine_id_1.r
+ 1487  vim sine_id_1.r
+ 1488  cp sine_id_1.r p1_test.r
+ 1489  vim p1_test.r 
+ 1490  open ~/Documents/
+ 1491  cd ~/Documents/music/homework/a
+ 1492  cd ~/Documents/music/homework/
+ 1493  ls
+ 1494  open ~/
+ 1495  z a3
+ 1496  ls
+ 1497  vim p2b
+ 1498  vim p2b.r 
+ 1499  cp p2b.r p2.r
+ 1500  rm p2.r 
+ 1501  cp spectrum_movie.r p2b.r 
+ 1502  git status
+ 1503  ls
+ 1504  vim p2b.r 
+ 1505  grep -i -a -B100 -A100 '#w = readWave("bass_oboe.wav")
+ 1506  grep -i -a -B100 -A100 'readWave("bass_oboe.wav")' /dev/sda1
+ 1507  grep -i -a -B100 -A100 'readWave' /dev/sda1
+ 1508  ls
+ 1509  vim p2b.r 
+ 1510  open p2b_no_window.png 
+ 1511  open p2b_window.png 
+ 1512  ls
+ 1513  cd ..
+ 1514  git status
+ 1515  ls
+ 1516  git init .
+ 1517  git add .
+ 1518  git status
+ 1519  ls
+ 1520  rm -rf .git
+ 1521  git status
+ 1522  cd a2
+ 1523  ls -al
+ 1524  git status
+ 1525  cd ../a
+ 1526  cd ..
+ 1527  ls
+ 1528  cd a3/
+ 1529  ls
+ 1530  git init .
+ 1531  git add .
+ 1532  git commit -m "working on a3"
+ 1533  ls
+ 1534  vim p3.r 
+ 1535  vim ~/Downloads/sawtooth_fourier.r 
+ 1536  vim p3.r 
+ 1537  cp p3.r p3_a.r
+ 1538  cp p3.r p3_b.r
+ 1539  vim p3_b.r 
+ 1540  ls
+ 1541  vim p4a.r 
+ 1542  vim timbre_copy.r 
+ 1543  ls
+ 1544  cp ~/Downloads/octaves.wav .
+ 1545  vim p4a.r 
+ 1546  cp p4a.r p4_b.r
+ 1547  vim p4_b.r 
+ 1548  ls
+ 1549  vim p6.r
+ 1550  vim p4a.r 
+ 1551  vim p6.r
+ 1552  vim homework.tex 
+ 1553  pdflatex homework.tex 
+ 1554  open homework.pdf 
+ 1555  vim homework.tex 
+ 1556  open homework.pdf 
+ 1557  pdflatex homework.tex 
+ 1558  z a3
+ 1559  ls
+ 1560  R
+ 1561  source ~/.envs/rent_prop/bin/activate
+ 1562  py manage.py makemigrations
+ 1563  ph manage.py migrate
+ 1564  py manage.py migrate
+ 1565  npm start
+ 1566  git pull
+ 1567  git status
+ 1568  git stash
+ 1569  git pul
+ 1570  git pull
+ 1571  git status
+ 1572  git stash
+ 1573  git pull
+ 1574  git stash pop
+ 1575  npm start
+ 1576  npm install
+ 1577  npm start
+ 1578  git status
+ 1579  git pull
+ 1580  git commit -m "Rename form fields for submit"
+ 1581  git push
+ 1582  z a2
+ 1583  ls
+ 1584  vim p6.r 
+ 1585  vim p4.r 
+ 1586  R
+ 1587  cd
+ 1588  cd Downloads/
+ 1589  vim timbre_copy.r 
+ 1590  R
+ 1591  vim timbre_copy.r 
+ 1592  z a3
+ 1593  cd ../a2
+ 1594  ls
+ 1595  vim p6.r 
+ 1596  R
+ 1597  ls
+ 1598  vim p6.r 
+ 1599  R
+ 1600  vim p6.r 
+ 1601  cd ../a3
+ 1602  ls
+ 1603  cp timbre_copy.r p5.r
+ 1604  vim p5.r 
+ 1605  ls
+ 1606  cd
+ 1607  code dev/rent_noww/rentnoww-server/
+ 1608  z a3
+ 1609  ls
+ 1610  R
+ 1611  code /home/josh/dev/rent_noww/client/
+ 1612  mysql -uroot -p
+ 1613  npm start
+ 1614  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/grading/testValues/assignment1.py
+ 1615  py
+ 1616  cd dev/rent_noww/
+ 1617  ls
+ 1618  cd rentnoww-server/
+ 1619  git status
+ 1620  code .
+ 1621  code ../client/
+ 1622  cd
+ 1623  cd dev
+ 1624  history > history.txt
+ 1625  vim history.txt
+ 1626  ls
+ 1627  cd ls
+ 1628  ls
+ 1629  git clone git@github.com:joshua-m-baker/spoken_bash.git
+ 1630  cd spoken_bash/
+ 1631  ls
+ 1632  vim README.md 
+ 1633  git status
+ 1634  git add .
+ 1635  git commit -m "initial commit" 
+ 1636  git push
+ 1637  cd ..
+ 1638  code grading_fall20/
+ 1639  scale
+ 1640  code dev/c200utils/
+ 1641  mysql -uroot -p
+ 1642  py
+ 1643  ls
+ 1644  cd c200utils/
+ 1645  ls
+ 1646  ls cloner/
+ 1647  ls data/
+ 1648  cd grading/
+ 1649  ls
+ 1650  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/data/constants.py
+ 1651  ls
+ 1652  ls /home/josh/dev/c200utils/c200utils/grading/testValues/Assignment1
+ 1653  ls /home/josh/dev/c200utils/c200utils/grading/testValues/Assignment1.py 
+ 1654  cd c200utils/grading/
+ 1655  cd testValues/
+ 1656  touch __init__.py
+ 1657  cd ../solutions/
+ 1658  touch __init__.py
+ 1659  py
+ 1660  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/data/constants.py
+ 1661  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1662  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/grading/solutions/Assignment1/assignment1_2.py
+ 1663  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1664  py
+ 1665  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1666  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/data/constants.py
+ 1667  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1668  git pull 
+ 1669  git checkout map
+ 1670  git checkout map_vue
+ 1671  git checkout -b map_vue
+ 1672  git merge josh
+ 1673  npm install vue2-leaflet --save
+ 1674  npm run dev
+ 1675  npm run watch
+ 1676  php artisan serve
+ 1677  code dev/c200utils/
+ 1678  scale
+ 1679  code dev/summer20/insula/
+ 1680  ssh vader
+ 1681  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/data/constants.py
+ 1682  code dev/c200utils/
+ 1683  cd dev/c200
+ 1684  cd dev/c200utils/
+ 1685  ls
+ 1686  cd c200utils/
+ 1687  ls
+ 1688  cd data/
+ 1689  ls
+ 1690  vim constants.py 
+ 1691  py constants.py 
+ 1692  vim constants.py 
+ 1693  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1694  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/data/constants.py
+ 1695  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1696  /usr/bin/python3 /home/josh/dev/c200utils/tempdata/C200-Assignments-aamccann/Assignment1/assignment1_1.py
+ 1697  /usr/bin/python3 /home/josh/dev/c200utils/tempdata/C200-Assignments-cabar/Assignment1/a1_test.py
+ 1698  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1699  py
+ 1700  py
+ 1701  /usr/bin/python3 /home/josh/dev/c200utils/scripts/testtest.py
+ 1702  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1703  source ~/.envs/rent_prop/bin/activate
+ 1704  py manage.py makemigrations
+ 1705  py manage.py migrate
+ 1706  git branch
+ 1707  git push
+ 1708  ./exec.sh 
+ 1709  scale
+ 1710  code dev/c200utils/
+ 1711  code dev/grading_fall20/
+ 1712  code dev/rent_noww/rentnoww-server/
+ 1713  code dev/rent_noww/client/
+ 1714  mysql -uroot -p
+ 1715  ssh vader
+ 1716  mysql -uroot -p
+ 1717  cd dev/spoken_bash/
+ 1718  ls
+ 1719  mkdir data
+ 1720  cd data
+ 1721  tldr wget
+ 1722  wget https://dpaste.com/CU7MEACNU.txt
+ 1723  ls
+ 1724  less CU7MEACNU.txt 
+ 1725  wget https://dpaste.com/586AC4KKQ.txt https://dpaste.com/4P8HWPCXV.txt https://dpaste.com/HEHNDF7HP.txt https://dpaste.com/2D5LDCQ7B.txt https://dpaste.com/FKUSU7EMJ.txt
+ 1726  ls
+ 1727  code ..
+ 1728  code dev/c200utils/
+ 1729  /usr/bin/python3.8 /home/josh/dev/spoken_bash/cleaner.py
+ 1730  battery-life
+ 1731  git status
+ 1732  /usr/bin/python3.8 /home/josh/dev/spoken_bash/pairs.py
+ 1733  which w3m
+ 1734  py cleaner.py < raw_data/2D5LDCQ7B.txt 
+ 1735  py cleaner.py < raw_data/586AC4KKQ.txt 
+ 1736  npm
+ 1737  npm start
+ 1738  git branch
+ 1739  git push
+ 1740  code dev/rent_noww/rentnoww-server/
+ 1741  code dev/summer20/insula/
+ 1742  z morph
+ 1743  ls
+ 1744  hfst-lexc grn.lexc -o grn.lexc.hfst
+ 1745  hfst-fst2strings grn.lexc.hfst 
+ 1746  ls
+ 1747  vim grn.lexc
+ 1748  ls
+ 1749  hfst-lexc grn.lexc -o grn.lexc.hfst 
+ 1750  hfst-fst2strings grn.lexc.hfst 
+ 1751  hfst-fst2txt grn.lexc.hfst | python3 att2dot.py  | dot -Tpng -o grn.lexc.png
+ 1752  sudo apt install graphviz
+ 1753  hfst-fst2txt grn.lexc.hfst | python3 att2dot.py  | dot -Tpng -o grn.lexc.png
+ 1754  open grn.lexc.png 
+ 1755  hfst-fst2strings grn.lexc.hfst 
+ 1756  hfst-lexc grn.lexc -o grn.lexc.hfst 
+ 1757  hfst-fst2strings grn.lexc.hfst 
+ 1758  xsel -b > grn.twol
+ 1759  cat .
+ 1760  cat grn.twol 
+ 1761  vim grn.twol
+ 1762  hfst-twolc grn.twol -o grn.twol.hfst
+ 1763  xsel -b > Makefile
+ 1764  less Makefile 
+ 1765  make
+ 1766  vim Makefile 
+ 1767  make
+ 1768  vim Makefile 
+ 1769  ls
+ 1770  hfst-fst2strings grn.gen.hfst 
+ 1771  ls
+ 1772  vim grn.twol
+ 1773  ls
+ 1774  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1775  /usr/bin/python3 /home/josh/dev/c200utils/tempdata/C200-Assignments-rjzvonar/Assignment1/assignment1_1.py
+ 1776  z ling
+ 1777  ls
+ 1778  cd ling-l545/
+ 1779  ls
+ 1780  cd 02_Morphology/
+ 1781  git clone sudo apt-get -f install apertium-all-dev
+ 1782  sudo apt -f install apertium-all-dev
+ 1783  ls
+ 1784  vim grn.lexc
+ 1785  hfst-lexc grn.lexc -o grn.lexc.hfst
+ 1786  ls
+ 1787  hfst-fst2strings grn.lexc.hfst 
+ 1788  hfst-fst2txt grn.lexc.hfst 
+ 1789  paste > att2dor.py
+ 1790  which xsel
+ 1791  sudo apt install xsel
+ 1792  xsel -b > att2dot.py
+ 1793  less .
+ 1794  less att2do
+ 1795  less att2dot.py 
+ 1796  rm att2dor.py 
+ 1797  less att2dot.py 
+ 1798  vim ~/notes.md 
+ 1799  which paste
+ 1800  man paste
+ 1801  hfst-fst2txt grn.lexc.hfst | py att2dot.py | dot -Tpng -ogrn.lexc.png
+ 1802  which xdot
+ 1803  hfst-fst2txt grn.lexc.hfst | py att2dot.py
+ 1804  ls 
+ 1805  vim grn.lexc
+ 1806  make
+ 1807  hfst-fst2strings grn.gen.hfst 
+ 1808  ls
+ 1809  vim grn.lexc
+ 1810  vim grn.twol
+ 1811  scale
+ 1812  cd
+ 1813  code dev/c200utils/
+ 1814  code dev/grading_fall20/
+ 1815  cd dev/grading_fall20/
+ 1816  grep "importlib"
+ 1817  grep -r "importlib"
+ 1818  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1819  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/grading/hwTestGenerator.py
+ 1820  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1821  source ~/.envs/rent_prop/bin/activate
+ 1822  ./exec.sh 
+ 1823  npm start
+ 1824  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/grading/hwTestGenerator.py
+ 1825  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1826  open results/hw_1_grade_results.csv 
+ 1827  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1828  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/grading/testValues/Assignment1.py
+ 1829  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1830  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/scoring/writers.py
+ 1831  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1832  py
+ 1833  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1834  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/scoring/writers.py
+ 1835  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1836  open a1.png 
+ 1837  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1838  open a1.png 
+ 1839  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_2_grade.py
+ 1840  open a1.png 
+ 1841  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1842  scale
+ 1843  code dev/c200utils/
+ 1844  code dev/rent_noww/rentnoww-server/
+ 1845  code dev/rent_noww/client/
+ 1846  code dev/c200utils/
+ 1847  code dev/grading_fall20/
+ 1848  code dev/c200utils/
+ 1849  code dev/grading_fall20/
+ 1850  which zoom 
+ 1851  cd tempdata/C200-Assignments-aamccann/
+ 1852  git status
+ 1853  git checkout HEAD
+ 1854  git status
+ 1855  git checkout master
+ 1856  git status
+ 1857  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1858  /usr/bin/python3 /home/josh/dev/c200utils/c200utils/grading/test.py
+ 1859  cd -
+ 1860  cd tempdata/C200-Assignments-benmunoz/
+ 1861  git status
+ 1862  git log
+ 1863  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1864  cd tempdata/C200-Assignments-ba13/
+ 1865  ls
+ 1866  git status
+ 1867  ls Assignment1/
+ 1868  git log
+ 1869  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1870  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_2_grade.py
+ 1871  cd tempdate
+ 1872  cd tempdata
+ 1873  grep -r "matplotlib"
+ 1874  /usr/bin/python3 /home/josh/dev/c200utils/tempdata/C200-Assignments-jaszhen/Assignment2/a2_assignment.py
+ 1875  grep -r ".show()
+ 1876  "
+ 1877  grep -r ".show()"
+ 1878  /usr/bin/python3
+ 1879  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_2_grade.py
+ 1880  cd tempdata/
+ 1881  cd C200-Assignments-griwall/
+ 1882  git status
+ 1883  open a2.p
+ 1884  cd ../..
+ 1885  open a2.png 
+ 1886  npm run dev
+ 1887  npm run watch
+ 1888  php artisan serve
+ 1889  git branch
+ 1890  source ~/.envs/rent_prop/bin/activate
+ 1891  ./exec.sh 
+ 1892  /usr/bin/python3 /home/josh/dev/c200utils/scripts/lab_reports_grade.py
+ 1893  py
+ 1894  /usr/bin/python3 /home/josh/dev/c200utils/scripts/lab_reports_grade.py
+ 1895  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1896  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_2_grade.py
+ 1897  cd tempdata/
+ 1898  find base_dir -mindepth 2 -maxdepth 2 -type d '!' -exec test -e "Assignment1/readme.md" ';' -print
+ 1899  find . -mindepth 2 -maxdepth 2 -type d '!' -exec test -e "Assignment1/readme.md" ';' -print
+ 1900  git stash
+ 1901  git pull
+ 1902  git merge leo
+ 1903  git merge origin/leo
+ 1904  git branch
+ 1905  git checkout lero
+ 1906  git checkout leo
+ 1907  git pull
+ 1908  git merge josh
+ 1909  git checkout josh
+ 1910  git merge leo
+ 1911  git push
+ 1912  git merge staging
+ 1913  git checkout staging
+ 1914  git merge josh
+ 1915  git push
+ 1916  /usr/bin/python3 /home/josh/dev/c200utils/scripts/readme_check.py
+ 1917  /usr/bin/python3 /home/josh/dev/c200utils/scripts/remake_grade_csv.py
+ 1918  /usr/bin/python3 /home/josh/dev/c200utils/scripts/readme_check.py
+ 1919  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_1_grade.py
+ 1920  cd tempdata/C200-Assignments-aamccann/
+ 1921  git status
+ 1922  cd ../C200-Assignments-jaszhen/
+ 1923  git status
+ 1924  cd tempdata/C200-Assignments-jmajoros/
+ 1925  git status
+ 1926  git diff
+ 1927  cd ../C200-Assignments-ankconra/
+ 1928  git status
+ 1929  git diff
+ 1930  git checkout head
+ 1931  git checkout master
+ 1932  /usr/bin/python3 /home/josh/dev/c200utils/scripts/readme_check.py
+ 1933  py
+ 1934  cd ../..
+ 1935  ls
+ 1936  py
+ 1937  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_2_grade.py
+ 1938  vim tempdata/C200-Assignments-brimore/Assignment2/readme.md 
+ 1939  /usr/bin/python3 /home/josh/dev/c200utils/scripts/push_all_repos.py
+ 1940  /usr/bin/python3 /home/josh/dev/c200utils/scripts/readme_check.py
+ 1941  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_2_grade.py
+ 1942  /usr/bin/python3 /home/josh/dev/c200utils/scripts/readme_check.py
+ 1943  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_2_grade.py
+ 1944  /usr/bin/python3 /home/josh/dev/c200utils/scripts/readme_check.py
+ 1945  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_2_grade.py
+ 1946  /usr/bin/python3 /home/josh/dev/c200utils/scripts/readme_check.py
+ 1947  /usr/bin/python3 /home/josh/dev/c200utils/scripts/hw_2_grade.py
+ 1948  /usr/bin/python3 /home/josh/dev/c200utils/scripts/push_all_repos.py
+ 1949  /usr/bin/python3.8 /home/josh/dev/spoken_bash/cleaner.py
+ 1950  /usr/bin/python3.8
+ 1951  /usr/bin/python3.8 /home/josh/dev/spoken_bash/cleaner.py
+ 1952  /usr/bin/python3.8 /home/josh/dev/spoken_bash/data/cd_commands.py
+ 1953  /usr/bin/python3.8 /home/josh/dev/spoken_bash/cd_commands.py
+ 1954  cp ~/Downloads/history.txt raw_data/history_nick.txt
+ 1955  cd raw_data/
+ 1956  grep "cd" history_nick.txt 
+ 1957  grep "cd" history_nick.txt > cds2.txt
+ 1958  tldr paste
+ 1959  paste -d '\n' cds.txt cds.txt 
+ 1960  paste -d '\n' cds.txt cds.txt > cd_full.txt
+ 1961  /usr/bin/python3.8 /home/josh/dev/spoken_bash/cd_commands.py
+ 1962  cd ..
+ 1963  /usr/bin/python3.8 /home/josh/dev/spoken_bash/cd_commands.py
+ 1964  ls
+ 1965  code dev/summer20/insula/
+ 1966  cd Documents/se/Assignment3/
+ 1967  ls
+ 1968  open assignment_2.odt 
+ 1969  mv assignment_2.odt assignment_3.odt 
+ 1970  open assignment_3.odt
+ 1971  cd
+ 1972  z /home/josh/Documents/linguistics
+ 1973  ls
+ 1974  cd ~/dev/spoken_bash/
+ 1975  ls
+ 1976  code .
+ 1977  cd ..
+ 1978  ls
+ 1979  cod rent_noww/rentnoww-server/
+ 1980  code rent_noww/rentnoww-server/
+ 1981  code c200utils/
+ 1982  code rent_noww/rentnoww-server/
+ 1983  code spoken_bash/
+ 1984  history | grep 'cd'
+ 1985  vim ~/.bashrc 
+ 1986  code c200utils/
+ 1987  man ln
+ 1988  man lc
+ 1989  history | grep -c "cd" 
+ 1990  cd spoken_bash/
+ 1991  cd raw_data/
+ 1992  rm cds.txt 
+ 1993  history | grep "cd" > cds.txt
+ 1994  history | grep "cd|git|grep"
+ 1995  history | grep -r "cd|git|grep"
+ 1996  history | grep -e "cd|git|grep"
+ 1997  which grep
+ 1998  man grep
+ 1999  history | grep -E "cd|git|grep"
+ 2000  history | grep 'cd'
+ 2001  vim ~/Downloads/history \(1\).txt
+ 2002  vim ~/Downloads/history\ \(1\).txt
+ 2003  mv ~/Downloads/history\ \(1\).txt raw_data/history_chris.txt 
+ 2004  mv ~/Downloads/history\ \(2\).txt raw_data/history_sub.txt 
+ 2005  cd raw_data/
+ 2006  history > history_josh.txt

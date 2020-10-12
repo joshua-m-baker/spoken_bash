@@ -1,0 +1,1 @@
+grep -h "\<cd\>" history_*.txt > cd_full.txt

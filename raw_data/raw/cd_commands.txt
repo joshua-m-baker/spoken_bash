@@ -1,0 +1,2327 @@
+    7  cd ..
+   64  cd python_environments/
+   66  cd distribution/
+   77  cd Desktop/
+   79  cd C343brjoande/
+   86  cd ../../../
+   90  cd MooreBonds/MooreBonds/MooreBonds/
+   95  cd python_environments/
+   99  cd distribution/
+  118  cd ../
+  138  cd ../
+  140  cd ../
+  142  cd ../
+  144  cd moorebondsve-heroku/
+  146  cd MooreBonds/MooreBonds/MOo
+  147  cd MooreBonds/MooreBonds/MooreBonds/
+  155  cd ../../
+  159  cd MooreBonds/MooreBonds/
+  181  cd .git
+  194  cd python_environments/
+  196  cd myjailhelp-heroku-live/
+  200  cd MooreBonds/MooreBonds/
+  216  cd test-app/
+  218  cd src
+  221  cd ../
+  223  cd ../../
+  225  cd ../
+  232  cd python_environments/
+  234  cd myjailhelp-heroku-live/
+  236  cd MooreBonds/MooreBonds/
+  275  cd Desktop/
+  277  cd C343brjoande/
+  284  cd lab03
+  286  cd src
+  299  cd ../
+  301  cd ../
+  335  cd Desktop/
+  337  cd C343brjoande/
+  349  cd python_environments/mappedout/
+  353  cd mappedout-live/
+  371  cd app
+  375  cd ../
+  389  cd ../../
+  393  cd MooreBonds/MooreBonds/
+  395  cd Desktop/C343brjoande/
+  406  cd jsProjects/
+  409  cd responsiveEmail/
+  424  cd python_environments/
+  426  cd ../
+  428  cd Desktop/
+  430  cd C343brjoande/
+  457  cd ps
+  459  cd ps06
+  461  cd src
+  473  cd ../
+  475  cd ../
+  477  cd ps05
+  479  cd ProblemSet05/
+  481  cd src/
+  487  cd ../../
+  489  cd ps04
+  494  cd ProblemSet04/
+  496  cd src
+    1  cd Documents/IU/B351
+    5  cd distribution
+   23  cd Documents
+   25  cd IU
+   29  cd chmalex-submission
+   40  cd /Users/chris/AndroidStudioProjects/PlayaQueue
+   42  cd Documents
+   43  cd IU
+   44  cd chmalex-submission
+   49  cd Documents
+   50  cd IU
+   51  cd chmalex-submission
+   55  cd Documents/IU
+   57  cd chmalex-submission
+   59  cd Documents/IU/chmalex-submission
+   63  cd Documents/IU/chmalex-submission
+   65  cd Documents/IU/chmalex-submission
+   69  cd Documents/IU/chmalex-submission
+   71  cd Documents/IU/chmalex-submission master
+   72  cd Documents/IU/chmalex-submission
+   77  cd Documents/IU/chmalex-chmalex
+   78  cd Documents/IU/chmalex-submission
+   82  cd Documents/IU/chmalex-submission
+   86  cd Documents/IU/chmalex-submission
+   88  cd Documents/IU/chmalex-submission
+   96  cd Documents/IU/chmalex-submission
+  102  cd Documents/IU/chmalex-submission
+  119  cd Documents/IU/chmalex-submission
+  136  cd Documents/IU/chmalex-submission
+  144  cd Documents/IU/chmalex-submission
+   10  cd desktop
+   13  cd fall2020
+   31  cd school
+   32  cd desktop
+   33  cd school
+   36  cd fall2020
+   41  cd desktop
+   43  cd b351
+   47  cd desktop
+   48  cd fall-2020
+   53  cd desktop
+   54  cd school
+   56  cd c200utils
+   58  cd desktop
+   60  cd school]
+   61  cd school
+   63  cd fall2020
+   64  cd teaching
+   65  cd ..
+   67  cd desktop
+   69  cd fall-2020
+   73  cd labs
+   75  cd lab2
+   77  cd desktop
+   78  cd fall-2020
+   79  cd labs
+   80  cd lab2
+   83  cd desktop
+   84  cd fall2020
+   86  cd school
+   87  cd fall20200
+   88  cd fall2020
+   90  cd b461
+   92  cd assingment2
+   95  cd desktop
+   98  cd b35`
+  103  cd b351
+  105  cd a2
+  116  cd desktop/fall2020/b461
+  117  cd desktop
+  118  cd fall2020
+  119  cd school
+  120  cd fall2020
+  121  cd b461
+  123  cd assingment2
+  125  cd ..
+  126  cd ..
+  128  cd logistics
+  130  cd teaching
+  133  cd ..
+  134   cd ..
+  135  cd ..
+  136  cd ..
+  138  cd fall-2020
+  152  cd desktop
+  153  cd fall-2020
+  154  cd pairsassingment
+  157  cd pairsassignments
+  158  cd pairsassingments
+  163  cd desktop
+  165  cd school
+  166  cd fall2020
+  167  cd b461
+  169  cd desktop
+  170  cd school
+  171  cd fall2020
+  173  cd desktop
+  174  cd school
+  175  cd fall2020
+  177  cd desktop
+  179  cd fall-2020
+  182  cd labs
+  184  cd lab3
+  191  cd desktop
+  193  cd fall-2020
+  195  cd ..
+  196  cd school
+  197  cd fall2020
+  200  cd desktop
+  201  cd school
+  203  cd fall2020
+  205  cd b461
+  208  cd desktop
+  209  cd school
+  211  cd fall2020
+  212  cd ..
+  213  cd ..
+  215  cd b351
+  217  cd desktop
+  219  cd school
+  221  cd fall2020
+  224  cd desktop
+  225  cd school
+  228  cd fall2020
+  230  cd b461
+  233  cd deskto
+  234  cd desktop
+  235  cd school
+  236  cd fall2020
+  238  cd b461
+  240  cd desktop
+  242  cd desktop
+  245  cd desktop
+  247  cd school
+  248  cd c200utils
+  251  cd desktop
+  252  cd school
+  257  cd fall2020
+  259  cd teaching
+  260  cd logistic
+  261  cd logistics
+  263  cd teaching
+  266  cd ..
+  267  cd ..
+  268  cd ..
+  269  cd ..
+  270  cd fall-2020
+  278  cd desktop
+  280  cd school
+  282  cd baseballanalytics
+  285  cd ..
+  287  cd fall2020
+  289  cd desktop
+  290  cd 
+  291  cd desktop
+  293  cd fall-2020
+  296  cd 
+  297  cd desktop
+  300  cd njmobley
+  302  cd desktop
+  303  cd fall-2020
+  304  cd labs
+  306  cd lab4
+  308  cd desktop
+  310  cd fall-2020
+  312  cd labs
+  314  cd lab4
+  318  cd desktop
+  321  cd desktop
+  324  cd desktop
+  325  cd school
+  327  cd desktop
+  329  cd njmobley
+  338  cd desktop
+  339  cd fall-2020
+  343  cd assignments
+  345  cd assignment3
+  347  cd desktop
+  348  cd school
+  349  cd fall2020
+  351  cd b461
+  354  cd desktop
+  356  cd fall-2020
+  360  cd desktop
+  362  cd fall-2020
+  364  cd desktop
+  365  cd fall-2020
+  367  cd labs
+  369  cd lab4
+  371  cd desktop
+  373  cd b351
+  376  cd a3
+  378  cd ..
+  380  cd a3
+  383  cd desktop
+  384  cd b351
+  386  cd a3
+  388  cd desktop
+  389  cd b351
+  390  cd a3
+  392  cd desktop
+  393  cd b351
+  394  cd a3
+  396  cd desktop
+  397  cd b351
+  399  cd desktop
+  401  cd desktop
+  403  cd desktop
+  405  cd Fall-2020
+  407  cd labs
+  410  cd desktop
+  412  cd njmobley
+  413  cd ..
+  414  cd ..
+  415  cd desktop
+  416  cd njmobley
+  417  cd desktop
+  420  cd desktop
+  422  cd njmobley/
+  429  cd laboratory
+  432  cd lab4
+  434  cd ..
+  439  cd Lab5
+  441  cd desktop
+  444  cd desktop
+  445  cd school
+  446  cd b461
+  448  cd fall2020
+  450  cd b461
+  454  cd desktop
+  456  cd fall-2020
+  464  cd desktop
+  466  cd fall-2020
+  467  cd ..
+  468  cd school
+  470  cd fall2020
+  472  cd logistics
+  475  cd ..
+  476  cd ..
+  477  cd ..
+  478  cd fall-2020
+  480  cd assingments
+  481  cd assingments
+  482  cd assingment5
+  484  cd assignments
+  485  cd assignment5
+  496  cd desktop
+  498  cd school
+  500  cd desktop
+ 1007  cd dev/django_examples/
+ 1009  cd taiga-back/
+ 1023  cd taiga-back/
+ 1024  cd dev/django_examples/taiga-back/
+ 1027  cd ../django-realworld-example-app/
+ 1034  cd rentnoww-server/
+ 1037  cd client/
+ 1042  cd linguistics/
+ 1046  cd 
+ 1047  cd dev
+ 1051  cd rent_noww/
+ 1055  cd -
+ 1065  cd 
+ 1066  cd dev/rent_noww/
+ 1067  cd rentnoww-server/
+ 1071  cd 
+ 1101  cd homework/
+ 1106  cd a3
+ 1111  cd Documents/music/homework/a3/
+ 1167  cd Assignment3
+ 1207  cd dev
+ 1209  cd C200-Assignments-13387/
+ 1211  cd Laboratory/
+ 1213  cd ..
+ 1215  cd
+ 1231  cd dev/rent_noww/
+ 1234  cd ../server/
+ 1260  cd ~/Documents/se
+ 1262  cd project/
+ 1268  cd ../..
+ 1271  cd jobs/
+ 1325  cd dev/rent_noww/
+ 1330  cd
+ 1350  cd
+ 1371  cd c200utils/
+ 1375  cd scoring/
+ 1395  cd dev/grading_fall20/
+ 1443  cd Documents/se/project/
+ 1467  cd dev/rent_noww/
+ 1469  cd rentnoww-server/
+ 1477  cd Downloads/
+ 1479  cd Downloads/
+ 1491  cd ~/Documents/music/homework/a
+ 1492  cd ~/Documents/music/homework/
+ 1513  cd ..
+ 1522  cd a2
+ 1525  cd ../a
+ 1526  cd ..
+ 1528  cd a3/
+ 1587  cd
+ 1588  cd Downloads/
+ 1593  cd ../a2
+ 1601  cd ../a3
+ 1606  cd
+ 1616  cd dev/rent_noww/
+ 1618  cd rentnoww-server/
+ 1622  cd
+ 1623  cd dev
+ 1627  cd ls
+ 1630  cd spoken_bash/
+ 1637  cd ..
+ 1644  cd c200utils/
+ 1648  cd grading/
+ 1654  cd c200utils/grading/
+ 1655  cd testValues/
+ 1657  cd ../solutions/
+ 1683  cd dev/c200
+ 1684  cd dev/c200utils/
+ 1686  cd c200utils/
+ 1688  cd data/
+ 1717  cd dev/spoken_bash/
+ 1720  cd data
+ 1778  cd ling-l545/
+ 1780  cd 02_Morphology/
+ 1812  cd
+ 1815  cd dev/grading_fall20/
+ 1851  cd tempdata/C200-Assignments-aamccann/
+ 1859  cd -
+ 1860  cd tempdata/C200-Assignments-benmunoz/
+ 1864  cd tempdata/C200-Assignments-ba13/
+ 1871  cd tempdate
+ 1872  cd tempdata
+ 1880  cd tempdata/
+ 1881  cd C200-Assignments-griwall/
+ 1884  cd ../..
+ 1897  cd tempdata/
+ 1920  cd tempdata/C200-Assignments-aamccann/
+ 1922  cd ../C200-Assignments-jaszhen/
+ 1924  cd tempdata/C200-Assignments-jmajoros/
+ 1927  cd ../C200-Assignments-ankconra/
+ 1934  cd ../..
+ 1955  cd raw_data/
+ 1956  grep "cd" history_nick.txt 
+ 1957  grep "cd" history_nick.txt > cds2.txt
+ 1962  cd ..
+ 1966  cd Documents/se/Assignment3/
+ 1971  cd
+ 1974  cd ~/dev/spoken_bash/
+ 1977  cd ..
+ 1984  history | grep 'cd'
+ 1989  history | grep -c "cd" 
+ 1990  cd spoken_bash/
+ 1991  cd raw_data/
+ 1993  history | grep "cd" > cds.txt
+ 1994  history | grep "cd|git|grep"
+ 1995  history | grep -r "cd|git|grep"
+ 1996  history | grep -e "cd|git|grep"
+ 1999  history | grep -E "cd|git|grep"
+ 2000  history | grep 'cd'
+ 2005  cd raw_data/
+    3  cd /tmp
+    5  cd yay/
+   23  cd .bin
+   34  cd /etc/fonts/
+   36  cd conf.d
+   45  cd ~
+   51  cd .config/
+   56  cd ~
+   64  cd .config/
+   78  cd /opt/android-sdk/platform-tools/
+  183  cd /opt
+  191  cd /usr/share/application
+  192  cd /usr/share/applications
+  195  cd /usr/share/application
+  196  cd /usr/share/applications
+  199  cd /usr/share/icons/hicolor/
+  201  cd 128x128/apps/
+  215  cd .totp
+  217  cd ..
+  236  cd .bin
+  245  cd ..
+  272  cd .mozilla/firefox/f7xlg2p6.default-nightly/
+  275  cd ../87ocle69.default/
+  326  cd .local/share/akonadi
+  329  cd ~/.cache/akonadi_i
+  331  cd ~
+  480  cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Battle.net/
+  485  cd ..
+  487  cd Overwatch/
+  496  cd ~
+  499  cd .ssh
+  510  cd ..
+  540  cd .lutris/
+  569  cd /proc/memi
+  570  cd /proc
+  573  cd ~/2Nextcloud/lts/linux/
+  575  cd colors/konsole/
+  688  cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
+  718  cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
+  721  cd ..
+  723  cd Battle.net/
+  727  cd .ow_wine/drive_c/Program\ Files\ \(x86\)/Overwatch/
+  738  cd tuxclocker/
+  745  cd /opt/tuxclocker/
+  747  cd bin/
+  750  cd ../..
+  757  cd /boot/loader/entries/
+  764  cd ~
+  776  cd ~
+  796  cd .bin
+  799  cd ..
+  817  cd 2Nextcloud/lts/linux/dotfiles/
+  821  cd ~
+  826  cd .vim
+  828  cd 2Nextcloud/lts/linux/dotfiles/
+  837  cd ~/.vim
+  846  cd ~
+  847  cd Nextcloud/
+  866  cd .local/share/
+  873  cd Ripcord/
+  876  cd ..
+  902  cd .bin
+  928  cd .bin
+  941  cd .bin
+  962  cd aom
+  984  cd gta5/
+ 1105  cd gta5/
+ 1130  cd .lutris/borderlands-3/
+ 1134  cd gta5/
+ 1137  cd .local/share/applications/
+ 1139  cd wine/
+ 1141  cd Programs/
+ 1145  cd ~
+ 1163  cd /boot
+ 1165  cd EFI/
+ 1167  cd Microsoft/
+ 1169  cd ..
+ 1173  cd ..
+ 1183  cd /
+ 1191  cd /boot
+ 1232  cd C292-FinalProject-Team2/
+ 1234  cd LuddytronAdvanced3D/Assets/Scenes/
+ 1246  cd ../..
+ 1262  cd
+ 1268  cd .config/autostart-scripts/
+ 1275  cd cm-burn/
+ 1277  cd cmburn/
+ 1279  cd pi/
+ 1314  cd cm-burn/
+ 1325  cd grading
+ 1332  cd grading/
+ 1336  cd grader/
+ 1342  cd ../gui/
+ 1361  cd ..
+ 1363  cd ..
+ 1364  cd grading/
+ 1368  cd cm-burn/
+ 1373  cd C292-FinalProject-Team2/
+ 1376  cd ~/C292-FinalProject-Team2/
+ 1386  cd C292-FinalProject-Team2/
+ 1393  cd LuddytronAdvanced3D/
+ 1395  cd Temp/
+ 1397  cd ..
+ 1406  cd ~
+ 1426  cd ..
+ 1461  cd grading
+ 1466  cd gui/
+ 1470  cd grading/
+ 1472  cd gui/
+ 1478  cd ../grader/repos/C200-Assignments-jhkonty/
+ 1483  cd ..
+ 1486  cd .. ../gui/example1.db 
+ 1488  cd ..
+ 1490  cd reports/
+ 1499  cd e399_p7/
+ 1501  cd src/
+ 1503  cd tester/
+ 1537  cd e399_p7/
+ 1539  cd src/
+ 1542  cd sub
+ 1578  cd ..
+ 1583  cd sub/
+ 1724  cd .ssh
+ 1727  cd ..
+ 1772  cd fa19-516-148/
+ 1774  cd project/
+ 1928  cd fa19-516-148/project/
+ 1991  cd e399_p7/
+ 1993  cd src/sub/
+ 2011  cd /
+ 2030  cd .vim
+ 2032  cd .mozilla/firefox/
+ 2034  cd f7xlg2p6.default-nightly/
+ 2036  cd ../87ocle69.default/
+ 2038  cd ~
+ 2098  cd /home/sub/3Nextcloud/lts/office_2010_pro-plus/
+ 2114  cd ~/.wine_msoffice/drive_c/Program\ Files/Microsoft\ Office/
+ 2116  cd Office14/
+ 2118  cd .local/share/win
+ 2119  cd .local/share/applications/
+ 2121  cd wine
+ 2123  cd Programs/
+ 2125  cd Microsoft\ Office/
+ 2126  cd ~
+ 2133  cd wine
+ 2135  cd Programs/
+ 2137  cd Microsoft\ Office/
+ 2139  cd ..
+ 2146  cd ~
+ 2148  cd 3Nextcloud/lts/office_2010_pro-plus/
+ 2177  cd 3Nextcloud/lts/office_2010_pro-plus/
+ 2200  cd /etc/fonts/conf.d/
+ 2207  cd /etc/fonts/conf.d
+ 2215  cd /boot/loader/entries/
+ 2256  cd old-grading/
+ 2261  cd ..
+ 2262  cd grading/
+ 2264  cd gui/
+ 2267  cd ..
+ 2270  cd gui/
+ 2273  cd ..
+ 2276  cd grader/
+ 2279  cd ..
+ 2283  cd gui/
+ 2285  cd ..
+ 2286  cd gui/
+ 2287  cd ..
+ 2289  cd gui/
+ 2291  cd ..
+ 2295  cd gui/
+ 2298  cd ..
+ 2305  cd gui/
+ 2313  cd ../grader
+ 2315  cd ../gui/
+ 2316  cd ..
+ 2334  cd grader/
+ 2337  cd ../gui/
+ 2342  cd ..
+ 2344  cd gui/
+ 2370  cd .bin
+ 2376  cd .bin
+ 2392  cd school/
+ 2394  cd iw/01-15/
+ 2407  cd grading/
+ 2434  cd school/iw/
+ 2437  cd .local/share/applications/
+ 2439  cd ~/.config/
+ 2441  cd ~/.local/share/applications/
+ 2468  cd arch/
+ 2572  cd school/iw/02-03/
+ 2599  cd /tmp
+ 2602  cd Te
+ 2604  cd Ted-2.23/
+ 2608  cd Ted/
+ 2611  cd ../..
+ 2635  cd ../../..
+ 2640  cd Program\ Files/windows\ nt/accessories/
+ 2666  cd .bin
+ 2724  cd school/re/
+ 2727  cd a2
+ 2749  cd school/re/a2/
+ 2764  cd school/re/a2/
+ 2784  cd box
+ 2789  cd .cache/yay/unity-editor/
+ 2797  cd school/
+ 2799  cd ..
+ 2803  cd B581sraizada/
+ 2805  cd ..
+ 2807  cd school/
+ 2809  cd cg
+ 2811  cd lab/
+ 2815  cd lab03
+ 2821  cd .cache/yay/unity-editor/
+ 2824  cd ~/school/cg_unity/
+ 2827  cd school/cg/lab/lab02
+ 2837  cd school/cg/lab/lab02
+ 2877  cd .vim/swap/
+ 2880  cd .cache/vim/swap/
+ 2890  cd hw/
+ 2892  cd ..
+ 2895  cd ..
+ 2897  cd ..
+ 2900  cd hw
+ 2902  cd hw01/
+ 2910  cd ..
+ 2912  cd ..
+ 2926  cd school/cg
+ 2974  cd grading/
+ 2977  cd grading/
+ 2980  cd grading
+ 2982  cd code/cloner/
+ 2991  cd grading/
+ 2994  cd grading/
+ 3000  cd config/
+ 3057  cd grading/
+ 3059  cd grading/
+ 3068  cd grading/
+ 3071  cd co
+ 3073  cd code/
+ 3075  cd report_writer/
+ 3078  cd ..
+ 3080  cd grader/
+ 3088  cd solutions/
+ 3090  cd Assignment1/
+ 3093  cd ../..
+ 3097  cd ..
+ 3099  cd scripts/
+ 3101  cd ..
+ 3104  cd ..
+ 3107  cd config/
+ 3113  cd ../gui/
+ 3119  cd ..
+ 3121  cd gui/
+ 3126  cd grading
+ 3128  cd config/
+ 3131  cd ../gui/
+ 3134  cd ../config/
+ 3138  cd ../gui/
+ 3157  cd ../..
+ 3165  cd newgrading/
+ 3170  cd config/
+ 3173  cd ../gui/
+ 3175  cd ../config/
+ 3177  cd ../gui/
+ 3179  cd .local/share/app
+ 3180  cd .local/share/applications/
+ 3196  cd ...
+ 3197  cd ..
+ 3200  cd newgrading/code/runners/
+ 3204  cd ..
+ 3215  cd ../..
+ 3218  cd runners/
+ 3222  cd ..
+ 3246  cd newgrading/tempdata/
+ 3272  cd runners/
+ 3277  cd ..
+ 3290  cd runners/
+ 3304  cd ../..
+ 3314  cd code/runners/
+ 3316  cd newgrading/data/fragments/
+ 3327  cd ../..
+ 3336  cd code/runners/
+ 3343  cd ../grader/
+ 3345  cd ../../gui/
+ 3352  cd newgrading/gui/
+ 3379  cd newgrading/gui/
+ 3395  cd newgrading/gui/
+ 3398  cd newgrading/gui/
+ 3414  cd ../data/fragments/
+ 3416  cd ../templates/
+ 3419  cd ../..
+ 3420  cd code/runners/
+ 3428  cd ..
+ 3431  cd ../gui/
+ 3434  cd newgrading/code/runners/
+ 3440  cd ../../data/templates/
+ 3448  cd newgrading/
+ 3451  cd ..
+ 3453  cd ..
+ 3460  cd ../data/
+ 3461  cd fragments/
+ 3465  cd ../..
+ 3472  cd gui/
+ 3479  cd ~
+ 3481  cd asdf
+ 3483  cd ~/newgrading/
+ 3485  cd data
+ 3489  cd ../gui/
+ 3495  cd ..
+ 3496  cd data/
+ 3499  cd ..
+ 3506  cd ~/asdf
+ 3511  cd gui/
+ 3513  cd ../config/
+ 3515  cd ../gui/
+ 3517  cd ../config/
+ 3519  cd ../gui/
+ 3523  cd ../config/
+ 3526  cd ../m
+ 3527  cd ../gui/
+ 3533  cd ../code/runners/
+ 3550  cd ../cloner/
+ 3555  cd ../runners/
+ 3557  cd ../cloner/
+ 3559  cd ../runners/
+ 3580  cd ../../gui/
+ 3583  cd ../code/runners/
+ 3585  cd ../../gui/
+ 3589  cd ../data/fragments/
+ 3591  cd ..
+ 3596  cd gui/
+ 3598  cd ../code/runners/
+ 3600  cd ../../gui/
+ 3605  cd ..
+ 3607  cd tempdata/
+ 3609  cd ..
+ 3612  cd code/runners/
+ 3614  cd ../..
+ 3617  cd gui/
+ 3640  cd ~
+ 3642  cd ghjk
+ 3644  cd gui/
+ 3646  cd ../config/
+ 3648  cd ../gui/
+ 3674  cd ..
+ 3687  cd ghjk/
+ 3695  cd ghjk/
+ 3706  cd ghjk/
+ 3710  cd code/cloner/
+ 3713  cd ../report_writer/
+ 3715  cd ..
+ 3717  cd ../data/fragments/
+ 3719  cd ../..
+ 3729  cd gui/
+ 3731  cd ../code/runners/
+ 3733  cd ../../gui/
+ 3736  cd ../data/
+ 3739  cd ../gui/
+ 3742  cd ../config/
+ 3744  cd ../gui/
+ 3746  cd ../code/runners/
+ 3748  cd ../../gui/
+ 3751  cd ../data/
+ 3754  cd ../gui/
+ 3757  cd ../data/
+ 3759  cd ../gui/
+ 3763  cd ../data/
+ 3766  cd ..
+ 3785  cd gui/
+ 3787  cd ../data/
+ 3790  cd ..
+ 3798  cd gui/
+ 3807  cd ../data/
+ 3810  cd ..
+ 3831  cd gui/
+ 3839  cd ../data/
+ 3842  cd ../gui/
+ 3847  cd ../config/
+ 3849  cd ../gui/
+ 3861  cd ../data/
+ 3863  cd ..
+ 3869  cd gui
+ 3877  cd .bin
+ 3888  cd school/re/
+ 3890  cd a2/
+ 3924  cd school/re/a2/
+ 3947  cd ~/.mozilla/firefox/f7xlg2p6.default-nightly/
+ 3951  cd chrome/
+ 3954  cd Nextcloud/lts/linux/firefox-extensions/
+ 3956  cd userscripts/
+ 3958  cd ..
+ 3960  cd dotfiles/
+ 3962  cd ..
+ 3964  cd chrome/
+ 3970  cd grading/
+ 3975  cd ../newgrading/
+ 3977  cd ../grading/
+ 3981  cd config/
+ 3983  cd ../gui/
+ 3994  cd school/cg/hw/
+ 3997  cd hw02/
+ 3998  cd .steam/steam/steamapps/common/dota\ 2\ beta/game/core/config/
+ 4000  cd ../cfg
+ 4002  cd ../
+ 4004  cd ../dota/
+ 4006  cd ..
+ 4009  cd ..
+ 4012  cd game/
+ 4016  cd dota/cfg
+ 4044  cd school/re/
+ 4047  cd a3
+ 4051  cd school/re/a3/
+ 4054  cd fwupd/
+ 4093  cd mnt/
+ 4112  cd ghjk/
+ 4119  cd gui/
+ 4140  cd ../code
+ 4142  cd grader/
+ 4144  cd ../../gui/
+ 4166  cd ~/grading/
+ 4170  cd gui/
+ 4180  cd ghjk/
+ 4183  cd gui/
+ 4185  cd ..
+ 4187  cd newgrading/
+ 4191  cd code/cloner/
+ 4194  cd ../grader
+ 4211  cd ../tempdata/repos/C200-Assignments-spaluszn/
+ 4213  cd Assignment1/
+ 4223  cd ../..
+ 4224  cd code/grader/testValues/
+ 4227  cd ..
+ 4229  cd solutions/
+ 4231  cd Assignment2/
+ 4233  cd ../..
+ 4234  cd ../../gui/
+ 4240  cd ../tempdata/repos/C200-Assignments-tbondura/Assignment2/
+ 4250  cd ../tempdata/repos/C200-Assignments-tbondura/Assignment2/
+ 4261  cd ../data/fragments/
+ 4270  cd ../../gui/
+ 4277  cd ../code/cloner/
+ 4281  cd ../../data/
+ 4284  cd ../code/grader/
+ 4286  cd testValues/
+ 4300  cd ../../gu
+ 4301  cd ../../../gui/
+ 4305  cd ../data/fragments/
+ 4309  cd ../..
+ 4313  cd gui
+ 4316  cd grading/
+ 4319  cd gui/
+ 4343  cd ..
+ 4345  cd ..
+ 4350  cd grading
+ 4352  cd gui/
+ 4354  cd ../config/
+ 4356  cd ../gui/
+ 4373  cd grading/
+ 4380  cd grading/
+ 4399  cd school/re/a3/
+ 4401  cd ~/
+ 4404  cd fwupd/
+ 4406  cd mnt/
+ 4408  cd sbin/
+ 4410  cd ..
+ 4413  cd usr/sbin/
+ 4416  cd ~
+ 4420  cd school/re/a3/
+ 4444  cd grading
+ 4446  cd code/runners/
+ 4448  cd ../../gui/
+ 4450  cd ../config/
+ 4452  cd ../gui/
+ 4464  cd ../data/fragments/
+ 4469  cd ../..
+ 4473  cd ..
+ 4476  cd grading/
+ 4478  cd config/
+ 4480  cd ../gui/
+ 4485  cd grading/
+ 4498  cd Nextcloud/lts/
+ 4500  cd linux/
+ 4508  cd grading/
+ 4512  cd code/runners/
+ 4515  cd grading/
+ 4516  cd code/runners/
+ 4523  cd ..
+ 4528  cd Nextcloud/lts/linux/
+ 4531  cd dotfiles/dot
+ 4532  cd dotfiles/dotbin/
+ 4537  cd .bi
+ 4538  cd .bin
+ 4546  cd ~/Nextcloud/lts/linux/
+ 4548  cd openvpn-client-configurations/
+ 4551  cd grading/
+ 4553  cd gui/
+ 4575  cd grading
+ 4576  cd gui/
+ 4590  cd grading
+ 4596  cd gui/
+ 4598  cd ..
+ 4607  cd grading/
+ 4615  cd ~/grader/gui
+ 4617  cd ~/grading/gui
+ 4666  cd grading
+ 4682  cd graidng
+ 4683  cd grading/gui
+ 4696  cd FasterThanLight/
+ 4734  cd nfs_hot_pursuit/
+ 4738  cd re
+ 4739  cd Redist/
+ 4741  cd ~
+ 4760  cd school/re/
+ 4763  cd a4
+ 4768  cd school/re/a4
+ 4786  cd newfuses/
+ 4794  cd ..
+ 4813  cd school/re/a4
+ 4829  cd 3fuse/
+ 4832  cd ..
+ 4834  cd 3fuse/
+ 4838  cd ..
+ 4841  cd 3fuse/
+ 4859  cd ..
+ 4873  cd ~
+ 4877  cd Nextcloud/lts/linux/android/
+ 4887  cd Nextcloud/lts/games/
+ 4889  cd ~
+ 4899  cd /var/log
+ 4911  cd .local/share/
+ 4914  cd xorg/
+ 4916  cd /etc/X11/xorg.conf.d/
+ 4984  cd .local/share/xorg/
+ 5014  cd ~/.config/mpv/
+ 5019  cd ~
+ 5057  cd ffmpeg/
+ 5070  cd ..
+ 5074  cd ffmpeg/
+ 5076  cd ..
+ 5162  cd /opt/unityhub/
+ 5167  cd ~
+ 5170  cd .cache/ya
+ 5172  cd .cache/yay
+ 5174  cd unityhub/
+ 5177  cd ~
+ 5181  cd school/cg_unity/
+ 5185  cd ../cg/lab/lab04/
+ 5189  cd ..
+ 5194  cd ../hw/hw02/
+ 5197  cd ..
+ 5201  cd hw02
+ 5227  cd school/cg
+ 5229  cd hw/
+ 5234  cd hw03
+ 5248  cd ..
+ 5250  cd hw04
+ 5265  cd ../..
+ 5267  cd ..
+ 5269  cd cg
+ 5320  cd ..
+ 5325  cd school/iw/
+ 5328  cd 03-04/
+ 5330  cd ../02-26
+ 5334  cd school/iw/
+ 5335  cd 03-04/
+ 5339  cd grading/
+ 5343  cd gui/
+ 5364  cd /opt/firefox-nightly/
+ 5370  cd school/cg
+ 5371  cd hw
+ 5401  cd grading/
+ 5403  cd gui/
+ 5426  cd school/re/
+ 5428  cd a4
+ 5458  cd school/re/a3/
+ 5459  cd ../a3
+ 5460  cd ../a4
+ 5502  cd .bin
+ 5504  cd ~/Nextcloud/lts/linux/
+ 5506  cd dotfiles/
+ 5508  cd dotb
+ 5509  cd dotbin/
+ 5516  cd office_2010_pro-plus/
+ 5527  cd Nextcloud/lts/
+ 5532  cd Nextcloud/lts/
+ 5550  cd grading/
+ 5552  cd gui/
+ 5570  cd ../config/
+ 5573  cd ../gui/
+ 5620  cd ../config/
+ 5631  cd ..
+ 5632  cd gui
+ 5681  cd ../config/
+ 5682  cd ../gui/
+ 5683  cd grading/config/
+ 5713  cd ../gui/
+ 5735  cd ..
+ 5738  cd gui/
+ 5742  cd ../data/
+ 5744  cd ..
+ 5746  cd ~
+ 5764  cd school/re/
+ 5766  cd a4
+ 5773  cd school/re/a4
+ 5846  cd grading/
+ 5851  cd gui/
+ 5854  cd ../tempdata/repos/tpu
+ 5855  cd ../tempdata/repos/C200-Assignments-tpullam/Assignment5
+ 5866  cd ../../..
+ 5867  cd ../gui/
+ 5871  cd ..
+ 5875  cd school/re/a4
+ 5885  cd .ssh
+ 5952  cd /etc/Ne
+ 5987  cd .bin
+ 6013  cd .bin
+ 6024  cd .bin
+ 6026  cd ..
+ 6034  cd .ssh
+ 6036  cd .mozilla/firefox/f7xlg2p6.default-nightly/
+ 6040  cd ~/Nextcloud/lts/linux/
+ 6046  cd .cache/ya
+ 6047  cd .cache/yay
+ 6062  cd .config/ri
+ 6064  cd .local/share/R
+ 6065  cd .local/share/Ripcord/
+ 6067  cd ~
+ 6070  cd school/re/a2
+ 6072  cd ..
+ 6073  cd a4
+ 6084  cd Nextcloud/lts/linux/
+ 6120  cd laptop_
+ 6121  cd laptop_new/
+ 6124  cd laptop-new
+ 6125  cd laptop_new/
+ 6147  cd /
+ 6173  cd qmk_firmware/keyboards/keebio/nyquist/
+ 6175  cd keymaps/
+ 6179  cd subraizada3/
+ 6182  cd ..
+ 6184  cd ba
+ 6185  cd bakingpy/
+ 6188  cd ..
+ 6190  cd ..
+ 6197  cd rev3
+ 6200  cd ..
+ 6202  cd keymaps/subraizada3/
+ 6209  cd ~/qmk_firmware/
+ 6220  cd ..
+ 6225  cd qmk_firmware/
+ 6236  cd qmk_firmware/keyboards/keebio/nyquist/
+ 6238  cd keymaps/
+ 6242  cd subraizada3/
+ 6276  cd ..
+ 6278  cd ..
+ 6282  cd keymaps/subraizada3/
+ 6284  cd keymaps/subraizada3/
+ 6295  cd ~/qmk_firmware/
+ 6305  cd split/
+ 6309  cd qmk_firmware/
+ 6316  cd ..
+ 6321  cd keyboards/keebio/nyquist/keymaps/
+ 6323  cd qmk_firmware/
+ 6324  cd keyboards/keebio/nyquist/keymaps/
+ 6330  cd ../../..
+ 6332  cd ..
+ 6339  cd ../../..
+ 6340  cd ..
+ 6341  cd ../../..
+ 6342  cd ~/qmk_firmware/
+ 6346  cd keyboards/keebio/nyquist/keymaps/subraizada3/
+ 6349  cd keyboards/keebio/nyquist/keymaps/subraizada3/
+ 6351  cd ~/split/qmk_firmware/
+ 6398  cd .cache/yay/warzone2100-sequences/
+ 6407  cd .cache/yay/warzone2100-sequences/
+ 6435  cd .config/0ad/
+ 6436  cd config/
+ 6476  cd games/ac-
+ 6477  cd games/ac-iii/
+ 6483  cd games/factorio/
+ 6496  cd ..
+ 6499  cd factorio/
+ 6504  cd _Redist/
+ 6511  cd ..
+ 6516  cd bin/x64/
+ 6519  cd ~/games/
+ 6520  cd factorio/bin/x64/
+ 6523  cd ../..
+ 6524  cd ..
+ 6526  cd starsector/
+ 6535  cd ..
+ 6536  cd ~/.local/share/applications/wine/
+ 6551  cd ~/.ac-iii_wine/drive_c/ac-iii/Assassins\ Creed\ III\ Remastered/
+ 6568  cd ~/.ac-iv_wine/drive_c/Program\ Files\ \(x86\)/Assassins\ Creed\ IV\ Black\ Flag/
+ 6580  cd .local/share/app
+ 6581  cd .local/share/applications/
+ 6631  cd school/re/
+ 6634  cd a6
+ 6642  cd ..a5
+ 6644  cd ../a5
+ 6662  cd asdf
+ 6668  cd /usr/local/bin
+ 6676  cd grading/
+ 6679  cd gui/
+ 6685  cd ..
+ 6694  cd gui/
+ 6744  cd laptop_backup/exapunks/exapunks/
+ 6748  cd ..
+ 6754  cd Nextcloud/lts/linux/
+ 6756  cd ..
+ 6762  cd ac-iv
+ 6769  cd ~/.ac-iv_wine/drive_c/ac
+ 6778  cd ~
+ 6780  cd ~/games/ac-iii-remastered/
+ 6786  cd ~
+ 6788  cd Nextcloud/bb/
+ 6796  cd ~
+ 6797  cd .local/share/applications/wine/
+ 6799  cd ..
+ 6801  cd wine/
+ 6803  cd Programs/
+ 6832  cd ~/.acs_wine/drive_c/ac/
+ 6834  cd Assassins\ Creed\ Syndicate/
+ 6840  cd .local/share/applications/
+ 6848  cd games/ac-i
+ 6849  cd games/ac-iv
+ 6856  cd ~/.aciv_wine/drive_c/ac
+ 6859  cd ~
+ 6861  cd ~/.local/share/app
+ 6862  cd ~/.local/share/applications/
+ 6874  cd /dev
+ 6880  cd Nextcloud/lts/linux/
+ 6883  cd Nextcloud/lts/linux/
+ 6893  cd Arduino/
+ 6895  cd ..
+ 6898  cd asdf
+ 6941  cd asdf
+ 7042  cd ash
+ 7043  cd asdf
+ 7063  cd ~/Arduino/asdf/
+ 7095  cd ESP8266/
+ 7096  cd ESP8266/
+ 7102  cd Examples/10.\ First\ web\ server/
+ 7105  cd ..
+ 7116  cd ../A\ Beginner\'s\ Guide\ to\ the\ ESP8266\ -\ article/
+ 7118  cd ..
+ 7121  cd ESP8266/
+ 7138  cd data/
+ 7150  cd ..
+ 7154  cd tools/
+ 7160  cd ..
+ 7209  cd Arduino/asdf/
+ 7218  cd ..
+ 7220  cd asdf/
+ 7222  cd ..
+ 7224  cd asdf/
+ 7230  cd ~
+ 7234  cd data/
+ 7240  cd Arduino/asdf/data/
+ 7249  cd Arduino/asdf/data/
+ 7253  cd Arduino/asdf/data/
+ 7296  cd Arduino/asdf/
+ 7298  cd data/
+ 7300  cd data/
+ 7329  cd ..
+ 7336  cd ..
+ 7345  cd ../pwm
+ 7351  cd ..
+ 7355  cd ..
+ 7357  cd /tmp/arduino_build_80743/
+ 7360  cd ..
+ 7364  cd ~/Arduino/
+ 7366  cd pwm/
+ 7402  cd ..
+ 7404  cd newpwm/
+ 7411  cd ..
+ 7413  cd threepwm/
+ 7418  cd ..
+ 7420  cd fourpwm/
+ 7422  cd ..
+ 7425  cd final/
+ 7434  cd data/
+ 7437  cd ..
+ 7444  cd fin
+ 7445  cd Arduino/final/
+ 7465  cd games/
+ 7468  cd ..
+ 7471  cd .local/share/applications/
+ 7473  cd wine/
+ 7477  cd .local/share/app
+ 7478  cd .local/share/applications/
+ 7482  cd grading
+ 7486  cd gui/
+ 7498  cd grading/config/
+ 7521  cd Nextcloud/lts/
+ 7541  cd .vbox
+ 7559  cd school/re/lecs/
+ 7564  cd ~/grading/
+ 7566  cd data/
+ 7569  cd ../gui/
+ 7581  cd .bin
+ 7603  cd grading/
+ 7606  cd gui/
+ 7617  cd ../code/cloner/
+ 7621  cd ../../gui/
+ 7639  cd grading/
+ 7649  cd grading/data/fragments/aakleem/
+ 7652  cd grading/gui/
+ 7654  cd ..
+ 7657  cd tempdata/
+ 7659  cd ../gui/
+ 7668  cd Nextcloud/lts/linux/android/
+ 7671  cd ..
+ 7674  cd hardware/seven/
+ 7695  cd Nextcloud/lts/linux/
+ 7699  cd ~
+ 7704  cd grading/gui/
+ 7731  cd /tmp
+ 7741  cd /tmp
+ 7753  cd ~
+ 7755  cd Arduino/final/
+ 7791  cd firefox/
+ 7793  cd trunk/
+ 7813  cd ../trunk/
+ 7815  cd ../repos/
+ 7818  cd extra-x86_64/
+ 7820  cd ../..
+ 7821  cd trunk/
+ 7838  cd firefox/trunk/
+ 7859  cd grading/
+ 7861  cd tempdata/
+ 7865  cd ..
+ 7869  cd code/runners/l
+ 7870  cd code/runners/
+ 7879  cd ../..
+ 7880  cd tempdata/repos/
+ 7891  cd .mozilla/firefox/
+ 7897  cd fwbvvjpr.default/
+ 7905  cd ..
+ 7907  cd ..
+ 7911  cd firefox-nightly-hg/
+ 7942  cd ~/.mozilla/firefox/
+ 7951  cd .bin
+ 7953  cd ~/.config/autostart
+ 7955  cd ~
+ 7968  cd adoc
+ 8004  cd adoc
+ 8061  cd firefox-nightly-hg/
+ 8071  cd .mozilla/firefox/
+ 8110  cd /usr/bin
+ 8117  cd ~/firefox-nightly-hg/
+ 8125  cd firefox-nightly-hg/
+ 8135  cd /opt/firefox-nightly/
+ 8137  cd ..
+ 8141  cd 
+ 8145  cd ~
+ 8146  cd /
+ 8152  cd ~
+ 8159  cd /
+ 8189  cd .mozilla/if
+ 8190  cd .mozilla/firefox/
+ 8196  cd grading
+ 8197  cd gui/
+ 8206  cd ../tempdata/repos/
+ 8208  cd ../../gui/
+ 8245  cd firefox-nightly-hg/
+ 8264  cd firefox-nightly-hg/
+ 8269  cd ~/.mozilla/firefox/
+ 8276  cd school/re/a4/
+ 8278  cd p4
+ 8319  cd aliases/
+ 8321  cd /
+ 8323  cd /usr/share/oh-my-bash/
+ 8326  cd lib
+ 8328  cd ..
+ 8335  cd school/re/a4/p4/
+ 8338  cd /usr/share/oh-my-bash/lib/
+ 8345  cd lib/
+ 8351  cd ..
+ 8380  cd Nextcloud/lts/linux/
+ 8384  cd ..
+ 8386  cd linux/dotfiles/
+ 8405  cd Nextcloud/lts/linux/dotfiles/
+ 8407  cd school/re/lecs/
+ 8408  cd ../a4/p4
+ 8411  cd ..
+ 8414  cd /tmp
+ 8424  cd /tmpo
+ 8425  cd /tmp
+ 8441  cd /tmp
+ 8454  cd /tmop
+ 8455  cd /tmp
+ 8460  cd ~/grading/
+ 8462  cd /tmp
+ 8467  cd ~/grading/
+ 8468  cd /tmp
+ 8475  cd ~/grading/
+ 8484  cd school/re/a4/p
+ 8485  cd school/re/a4/p4
+ 8489  cd school/re/a4/p4/
+ 8552  cd school/re/a4/p4/
+ 8823  cd school/re/a4/p4/
+ 8904  cd ..
+ 8911  cd p4
+ 8953  cd school/re/a4/
+ 8959  cd grading/gu
+ 8960  cd grading/gui/
+ 8962  cd grading/
+ 8966  cd grading/
+ 8968  cd grading/gui/
+ 8986  cd /boot
+ 8996  cd Arduino/
+ 8998  cd final/data/
+ 9014  cd Arduino/final/data/
+ 9015  cd Arduino/
+ 9017  cd final/
+ 9023  cd ..
+ 9047  cd .bin
+ 9058  cd sc
+ 9059  cd school/
+ 9060  cd ../.bin
+ 9083  cd .bin
+ 9172  cd ..
+ 9182  cd school/
+ 9187  cd school/
+ 9189  cd /usr/local/bin
+ 9207  cd .bin
+ 9226  cd school/
+ 9228  cd school/
+ 9233  cd ~/.bin
+ 9234  cd
+ 9235  cd school/
+ 9240  cd ~/.bin
+ 9243  cd
+ 9244  cd school/
+ 9247  cd ~/.bin
+ 9261  cd school/re/lecs/
+ 9264  cd ../a4/p4
+ 9267  cd ff
+ 9274  cd doof
+ 9277  cd firefox/
+ 9286  cd doof/firefox/repos/extra-x86_64/
+ 9287  cd firefox/trunk/
+ 9290  cd ../../firefox-nightly-hg/
+ 9292  cd ~/firefox/trunk/
+ 9296  cd src/firefox-75.0/
+ 9298  cd ..
+ 9301  cd ..
+ 9303  cd ~/firefox-nightly-hg/
+ 9305  cd mozilla-central/
+ 9307  cd ..
+ 9308  cd src/
+ 9310  cd moz
+ 9311  cd mozilla-central/
+ 9313  cd ..
+ 9315  cd ..
+ 9327  cd /usr/lib/firefox
+ 9330  cd /usr/bin
+ 9335  cd /usr/lib/firefox-nightly/
+ 9337  cd firefox/
+ 9339  cd /usr/lib/firefox-nightly/
+ 9341  cd firefox/
+ 9343  cd firefox/t
+ 9344  cd firefox/trunk/
+ 9351  cd src/firefox-75.0/
+ 9353  cd ..
+ 9358  cd ~/firefox-nightly-hg/
+ 9374  cd ff
+ 9377  cd ff
+ 9379  cd ..
+ 9380  cd adoc
+ 9382  cd ../ff/
+ 9424  cd ff
+ 9427  cd firefox/trunk/
+ 9430  cd ff
+ 9500  cd ff
+ 9508  cd print/
+ 9511  cd /tmp/mozilla_sub0/
+ 9524  cd print/
+ 9526  cd print/Marlin-2.0.x/Marlin/
+ 9528  cd led
+ 9529  cd lcd
+ 9534  cd src/lcd
+ 9537  cd menu/
+ 9559  cd print/
+ 9567  cd school/re/a4/
+ 9577  cd p
+ 9578  cd print/
+ 9591  cd Arduino/final/
+ 9597  cd ~
+ 9606  cd Arduino/final/
+ 9614  cd grading/gui/
+ 9640  cd Nextcloud/
+ 9650  cd school/
+ 9652  cd cg_unity/
+ 9654  cd GraphCubes/Assets/
+ 9663  cd school/cg
+ 9665  cd lab/
+ 9673  cd lab10
+ 9693  cd z
+ 9717  cd ..
+ 9719  cd school/re/a5/
+ 9866  cd ~/.local/share/applications/
+ 9869  cd ~/.bin
+ 9879  cd qmk_firmware/k
+ 9880  cd qmk_firmware/
+ 9889  cd qmk_firmware/keyboards/
+ 9892  cd keebio/nyquist/
+ 9894  cd keymaps/subraizada3/
+ 9904  cd qmk_firmware/keyboards/keebio/nyquist/keymaps/subraizada3/
+ 9926  cd things/mods/
+ 9932  cd ~/.mozilla/firefox/f7xlg2p6.default-nightly/
+ 9937  cd school/re/lecs/
+ 9981  cd Nextcloud/
+ 9984  cd ~/.config/plasma-workspace/env/use_egl.sh
+ 9992  cd grading/
+ 9995  cd grading/
+ 9999  cd ..
+10018  cd grading/gui/
+10022  cd grading/gui/
+10042  cd Nextcloud/lts/linux/
+10044  cd hardware/seven/
+10052  cd c200/
+10090  cd c200/
+10158  cd ~/grading/
+10163  cd grading/gui/
+10165  cd ..
+10167  cd code/cloner/
+10202  cd grading/gui/
+10205  cd grading/
+10213  cd school/re/a6/
+10222  cd school/re/a4
+10230  cd school/re/a6/
+10245  cd grading/gui/
+10250  cd ~
+10253  cd grading
+10255  cd config/
+10257  cd ../ma
+10258  cd ../gui/
+10269  cd grading/gui/
+10281  cd ../data/fragments/
+10283  cd ../../code/runners/
+10286  cd ../../data/fragments/
+10288  cd ..
+10291  cd fragments/
+10295  cd ../../gui/
+10298  cd ../data/fragments/
+10301  cd isiddeeq/
+10313  cd ../..
+10320  cd grading/gui/
+10352  cd dict/
+10355  cd dict/
+10361  cd dict
+10364  cd dict/
+10366  cd dict/
+10372  cd /usr/lib
+10375  cd aspell
+10378  cd ~
+10379  cd /etc
+10381  cd /usr/
+10383  cd share/
+10385  cd dict/
+10387  cd ..
+10388  cd dict/final/
+10406  cd dict/
+10459  cd ~/.bin
+10466  cd dict/
+10645  cd final/
+10707  cd
+10713  cd dict/final/
+10735  cd dict/final/
+11003  cd dict/final/
+11030  cd ~/.bin
+11036  cd ~/dict/final/
+11053  cd qmk_firmware/
+11054  cd keyboards/keebio/nyquist/
+11057  cd keymaps/subraizada3/
+11065  cd qmk_firmware/
+11066  cd keyboards/keebio/nyquist/
+11067  cd keymaps/subraizada3/
+11069  cd qmk_firmware/
+11084  cd grading/gui/
+11093  cd grading/gui/
+11108  cd .cache/yay/vcvrack/
+11119  cd ..
+11124  cd .Rack/
+11135  cd grading/gui/
+11144  cd grading/gui/
+11178  cd fw
+11220  cd grading/gui/
+11232  cd Nextcloud/lts/linux/se
+11233  cd Nextcloud/lts/linux/hardware/seven/
+11243  cd school/re/lecs/
+11266  cd school/cg
+11268  cd assignments/
+11271  cd a03/
+11310  cd grading/gui/
+11372  cd /tmp
+11376  cd ~
+11402  cd firefox-nightly-hg/
+11423  cd /tmp
+11425  cd ~
+11435  cd school/re/
+11439  cd slides/
+11442  cd ..
+11467  cd grading/gui/
+11487  cd grading/gui/
+11496  cd bell/frontend/
+11498  cd bell/frontend/
+11501  cd icon-themes/
+11502  cd ..
+11504  cd /usr/local/bin
+11507  cd /usr/share/applications
+11510  cd ~/.config/autostart
+11521  cd ~/.local/share/applications/
+11532  cd firefox-nightly-hg/
+11554  cd bell/xvisbell/
+11565  cd flashapp/
+11567  cd app/
+11597  cd bell/
+11601  cd ..
+11605  cd bell/
+11607  cd xvisbell/
+11673  cd ..
+11674  cd xvisbell/
+11858  cd bell/frontend/icon-themes/material-dark-icons/
+11864  cd ..
+11867  cd material-light-icons/
+11873  cd ../..
+11886  cd ..
+11892  cd app/
+11894  cd ..
+11897  cd autostart
+11899  cd autostart
+11900  cd ..
+11902  cd desktop/
+11908  cd ~
+11910  cd .bin
+11912  cd flashapp/
+11913  cd desktop/
+11924  cd ../..
+11928  cd ~
+11932  cd newflashapp/
+11934  cd app/
+12184  cd flashapp/xvisbell/
+12188  cd qmk_firmware/keyboards/keebio/nyquist/keymaps/subraizada3/
+12192  cd ~/qmk_firmware/
+12200  cd unity-editor/
+12202  cd ../Unity/
+12204  cd h
+12205  cd Hub/
+12207  cd Editor/
+12209  cd 2019.2.14f1/
+12211  cd Editor/
+12213  cd U
+12215  cd Uni
+12216  cd Unity
+12218  cd Unity
+12220  cd Unity/Hub/Editor/
+12222  cd 2019.2.14f1/
+12224  cd Editor/
+12236  cd firefox-nightly-hg/
+12238  cd bell/
+12357  cd frontend/
+12364  cd ..
+12366  cd xvisbell/
+12367  cd ../frontend/
+12411  cd ../app
+12418  cd school/cg/assignments/a05/
+12426  cd school/cg/assignments/a05/
+12443  cd /usr/share/plasma/wallpapers/com.github.zzag.wallpaper/
+12445  cd /usr/share/dynamicwallpapers/default/
+12448  cd school/cg_unity/Final-sraizada/
+12450  cd Temp/
+12470  cd school/cg/final/Final-sraizada/
+12472  cd ..
+12481  cd grading/gui/
+12486  cd grading/gui/
+12499  cd grading/gui/
+12502  cd ..
+12508  cd grading/gui/
+12510  cd ../tempdata/repos/sh19
+12512  cd ../tempdata/repos/C200-Assignments-sh
+12513  cd ../tempdata/repos/C200-Assignments-sh19/
+12515  cd cd assignment
+12518  cd ~/grading/gui/
+12529  cd .mozilla/firefox/f7xlg2p6.default-nightly/
+12538  cd flashapp/
+12540  cd app/
+12564  cd /etc/X11/xorg.conf.d/
+12572  cd Nextcloud/lts/linux/hardware/
+12575  cd Nextcloud/lts/linux/hardware/
+12618  cd school/re/a5/
+12631  cd .local/share/applications/
+12638  cd .mozilla/firefox/f7xlg2p6.default-nightly/
+12667  cd /
+12670  cd do
+12671  cd doom
+12733  cd .vbox
+12743  cd Nextcloud/lts/linux/
+12766  cd .cache/vim
+12768  cd swap/
+12771  cd ~
+12777  cd .cache/vim/
+12779  cd swap/
+12789  cd .bin/
+12792  cd ~/Nextcloud/lts/linux/hardware/
+12794  cd ..
+12807  cd .local/share/applications/
+12810  cd lmms
+12812  cd ..
+12815  cd lmmstut/
+12833  cd .ssh
+12837  cd ..
+12839  cd mv
+12840  cd mc
+12904  cd .gta5_wine/drive_c/gta/
+12911  cd ..
+12912  cd ~
+12973  cd dict/
+12994  cd minecraft-server-checker/
+12997  cd ..
+12999  cd ~
+13000  cd warner/
+13013  cd warner
+13093  cd captchaProviderIcons/
+13118  cd ..
+13187  cd icons/
+13190  cd ..
+13198  cd icons/
+13202  cd ..
+13233  cd ff
+13237  cd ~/warner/
+13259  cd warner/
+13267  cd Nextcloud/lts/linux/hardware/
+13269  cd esp8266/
+13271  cd firefox-nightly-hg/
+13276  cd qmk_firmware/keyboards/keebio/nyquist/keymaps/subraizada3/
+13282  cd Arduino/ht16k33
+13286  cd .arduino15/
+13289  cd .arduino15/
+13291  cd .arduino15/
+13293  cd .arduino15/
+13294  cd Arduino/ht16k33
+13307  cd .mozilla/firefox/f7xlg2p6.default-nightly/
+13309  cd .mozilla/firefox/f7xlg2p6.default-nightly/
+13314  cd weave/
+13326  cd ..
+13331  cd .mozilla/firefox/44pvv6kp.default-release/weave/
+13334  cd ..
+13372  cd Nextcloud/lts/linux/hardware/esp8266/
+13374  cd Nextcloud/lts/linux/hardware/esp8266/
+13384  cd Nextcloud/lts/linux/hardware/esp8266/
+13397  cd .arduino15/
+13399  cd packages/
+13401  cd ..
+13411  cd ..
+13413  cd /dev
+13447  cd Arduino/
+13449  cd midi/
+13628  cd Arduino/midi/
+13653  cd Arduino/display_test/
+13658  cd ..
+13659  cd doubleoled/
+13666  cd ff/
+13671  cd /usr/share/arduino/lib/
+13686  cd ~/ff
+13689  cd ~/firefox-nightly-hg/
+13704  cd ..
+13705  cd firefox-nightly-hg/
+13707  cd ..
+13710  cd firefox-nightly-hg/
+13714  cd ../fnh/
+13717  cd ../firefox-nightly-hg/
+13727  cd Arduino/luxmeter/
+13754  cd Nextcloud/lts/linux/hardware/esp8266/
+13766  cd Nextcloud/lts/linux/hardware/seven/
+13777  cd /boot/loader/entries/
+13794  cd bose
+13800  cd com.bose.bosemusic_v13004/
+13819  cd smali/com/bose/
+13827  cd ..
+13829  cd bose/bmap/
+13832  cd event/
+13834  cd ../interfaces/
+13837  cd ..
+13838  cd model/
+13842  cd ..
+13847  cd jadx
+13849  cd bose/
+13859  cd /etc/modprobe.d/
+13883  cd /etc/modprobe.d/
+13907  cd Nextcloud/lts/linux/hardware/esp8266/
+13939  cd Arduino/basicledtest/
+13945  cd Arduino/basicledtest/
+13950  cd firefox-nightly-hg/
+13958  cd ..
+13965  cd ~/.local/share/torbrowser/tbb/x86_64/tor-browser_en-US/
+13967  cd Browser/
+13969  cd TorBrowser/Data/Browser/
+13971  cd ../../..
+13973  cd /home/sub/.local/share/torbrowser/tbb/x86_64/tor-browser_en-US/Browser/TorBrowser/Data/Browser/profile.default
+13981  cd t
+13982  cd twitter/
+13984  cd .mozilla/firefox/
+13986  cd f7xlg2p6.default-nightly/
+13988  cd twitter/
+13992  cd twitter/
+13994  cd twitter/
+13999  cd twitter/
+14002  cd twitter/views/
+14009  cd Nextcloud/lts/linux/hardware/seven/
+14016  cd .local/share/applications/
+14018  cd wine/Programs/
+14026  cd _sources/
+14030  cd ..
+14034  cd twitter/
+14062  cd utildb/
+14065  cd .
+14066  cd ..
+14098  cd manualtools/
+14100  cd ..
+14102  cd manualtools/
+14114  cd ..
+14141  cd static/
+14144  cd ..
+14148  cd sim/
+14183  cd esr
+14189  cd root/gsi-images/
+14191  cd ..
+14194  cd root/
+14223  cd /srv/
+14225  cd http/
+14242  cd ..
+14246  cd ftp/
+14248  cd ..
+14249  cd http/
+14251  cd ..
+14273  cd /
+14290  cd Nextcloud/lts/linux/android/
+14294  cd ..
+14297  cd .totp
+14313  cd movies/
+14324  cd twitter/
+14328  cd twitter/
+14337  cd twitter/
+14340  cd manualtools/
+14343  cd ..
+14347  cd test
+14349  cd ..
+14351  cd ff
+14353  cd ../firefox-nightly-hg/
+14355  cd ff/
+14370  cd .mozilla/firefox/
+14416  cd Nextcloud/lts/linux/hardware/seven/
+14457  cd Nextcloud/lts/linux/hardware/seven/
+14464  cd Nextcloud/lts/linux/hardware/seven/
+14470  cd Nextcloud/lts/linux/hardware/seven/
+14472  cd ~
+14473  cd Nextcloud/lts/linux/hardware/seven/
+14494  cd ..
+14496  cd android/
+14517  cd ..
+14525  cd ..
+14536  cd twitter/
+14538  cd twitter/
+14576  cd tw
+14577  cd twitter/
+14581  cd sf
+14583  cd sf
+14585  cd sf
+14587  cd sf
+14620  cd .cache/yay/
+14627  cd linux-git/
+14633  cd /boot
+14635  cd loader/entries/
+14654  cd twitter/
+14656  cd .bin/
+14658  cd ..
+14663  cd /usr/share/
+14665  cd dict/
+14673  cd twitter/
+14676  cd twitter/
+14678  cd twitter/
+14699  cd .steam/steam/steamapps/common/dota\ 2\ beta/
+14701  cd game/
+14703  cd dota/panorama/videos/
+14706  cd ../pr
+14708  cd ..
+14710  cd ..
+14712  cd panorama/videos/promo/
+14722  cd Nextcloud/lts/linux/hardware/seven/
+14755  cd /etc/pulse/
+14824  cd ..
+14833  cd sn
+14896  cd bose
+14901  cd bo
+14902  cd src
+14905  cd sources
+14916  cd com/bose/bmap/ble/
+14920  cd ../..
+14926  cd bose
+14927  cd src
+14929  cd sources/
+14955  cd bose/src/sources/
+14963  cd bo
+14964  cd bose/
+15004  cd sn
+15025  cd sn
+15038  cd sn
+15063  cd Nextcloud/lts/linux/hardware/seven/
+15066  cd /boot
+15093  cd Nextcloud/lts/linux/android/
+15095  cd ../hardware/seven/
+15099  cd Nextcloud/lts/linux/hardware/esp8266/
+15107  cd Nextcloud/lts/linux/hardware/esp8266/
+15110  cd Nextcloud/lts/linux/hardware/esp8266/
+15132  cd firefox-nightly-hg/
+15151  cd Zettlr\ Tutorial/
+15174  cd Nextcloud/
+15176  cd ..
+15178  cd Nextcloud/
+15181  cd Nextcloud/zettlr/
+15183  cd Nextcloud/lts/linux/hardware/esp8266/
+15191  cd datasheets/
+15196  cd /tmp
+15198  cd zettlr-bin/
+15202  cd ~
+15207  cd .bin
+15218  cd twitter/
+15225  cd ..
+15233  cd datasheets/
+15254  cd Nextcloud/lts/linux/hardware/seven/
+15260  cd bose/
+15299  cd .bin
+15302  cd ..
+15321  cd firefox-nightly-hg/
+15345  cd firefox-nightly-hg/
+15347  cd ..
+15350  cd firefox-nightly-hg/
+15366  cd .cache/yay/kwin-lowlatency/
+15402  cd wallpapers/
+15407  cd wallpapers/
+15470  cd VRRTest-master/
+15491  cd VRRTest-master/
+15493  cd VRRTest-master/
+15501  cd VRRTest-master/
+15505  cd VRRTest-master/
+15625  cd .config/ri
+15629  cd .local/share/Ripcord/
+15642  cd .local/share/
+15682  cd /
+15689  cd .steam/steam/steamapps/common/dota\ 2\ beta/game/dota/
+15690  cd maps/backgrounds/
+15693  cd ../..
+15694  cd panorama/videos/
+15699  cd school/se
+15707  cd .local/share/yakuake/
+15708  cd ../yaya
+15709  cd ../yay
+15710  cd ~/.cache/yay
+15713  cd ~
+15724  cd Nextcloud/lts/linux/arch_packages_list/
+15734  cd Nextcloud/lts/linux/arch_packages_list/
+15737  cd Nextcloud/lts/linux/arch_packages_list/
+15759  cd linak/
+15785  cd ~
+15787  cd linak/idasen-controller/
+15800  cd linak/mine
+15870  cd linak/mine/
+15875  cd lin
+15877  cd linak
+15879  cd linak/mine/
+15912  cd ..
+15914  cd mine/
+15928  cd com.linak.deskcontrol_v132/
+15933  cd sources/com/linak/
+15944  cd linak/idasen-controller/
+16011  cd ..
+16012  cd idasen-controller/
+16020  cd ..
+16021  cd gatt-python/
+16023  cd ..
+16031  cd Nextcloud/music/
+16046  cd ..
+16065  cd ..
+16074  cd ..
+16092  cd .cache/yay/zettlr-bin/
+16096  cd ..
+16099  cd zettlr-bin/
+16105  cd .cache/yay/zettlr-bin/
+16255  cd Nextcloud/spotify_recorder/
+16305  cd /
+16330  cd .config/darktable/
+16333  cd ..
+16335  cd ~/.local/share/
+16337  cd ~/.cache/
+16351  cd do
+16352  cd doce/
+16354  cd qmk_firmware_spe/
+16362  cd util/
+16366  cd .
+16367  cd ..
+16370  cd lib/lufa/
+16374  cd ../..
+16383  cd ..
+16387  cd qmk_firmware_spe/
+16425  cd kernel/
+16428  cd linux
+16431  cd ..
+16432  cd linux-openrgb/
+16443  cd /boot/loader/entries/
+16461  cd kernel
+16466  cd linux/
+16484  cd kernel/linux-openrgb/
+16488  cd src/
+16490  cd ..
+16508  cd /boot/
+16512  cd loader/entries/
+16544  cd yoga/
+16549  cd yoga/
+16551  cd yoga/
+16555  cd yoga/
+16561  cd yoga/
+16563  cd yoga/
+16565  cd yoga/
+16584  cd Nextcloud/
+16590  cd mic
+16593  cd mic
+16595  cd mic
+16597  cd mic
+16599  cd mic
+16601  cd mic
+16610  cd om
+16616  cd Downloads/
+16619  cd ..
+16621  cd om/
+16624  cd om/
+16630  cd om/
+16633  cd om
+16643  cd om/
+16646  cd om/
+16649  cd om/
+16653  cd om/
+16656  cd om/
+16660  cd om
+16663  cd om/
+16666  cd om
+16668  cd om/
+16671  cd om/
+16677  cd om/
+16679  cd om/
+16681  cd om/
+16683  cd om/
+16686  cd om/
+16689  cd om/
+16700  cd om/
+16719  cd firefox-nightly-hg/
+16723  cd ..
+16729  cd falsiscan/
+16746  cd falsisign/
+16761  cd .mozilla/firefox/f7xlg2p6.default-nightly/
+16765  cd .mozilla/firefox/f7xlg2p6.default-nightly/
+16787  cd yoga/new/
+16791  cd yoga/
+16794  cd new/
+16802  cd yoga/new/
+16810  cd Nextcloud/lts/linux/arch_packages_list/
+16813  cd /boot/loader/
+16819  cd .vo
+16820  cd .vbox/
+16824  cd .vbox/
+16828  cd Nextcloud/lts/linux/arch_packages_list/
+16835  cd Nextcloud/lts/linux/arch_packages_list/
+16837  cd Nextcloud/lts/linux/arch_packages_list/
+16842  cd Nextcloud/lts/linux/arch_packages_list/
+16847  cd Nextcloud/lts/linux/arch_packages_list/
+16849  cd vm
+16855  cd sha
+16856  cd vm
+16864  cd yoga/new/
+16867  cd vm
+16883  cd .config/VirtualBox/
+16926  cd b401/
+16937  cd ~/Nextcloud/textbooks/
+16939  cd cs
+16942  cd /tmp/mozilla_sub0/
+16961  cd school/se
+16964  cd week01-part1/
+16967  cd school/se
+17025  cd school/b401/
+17042  cd brea
+17043  cd breakout/
+17045  cd ..
+17047  cd breakout/
+17050  cd .cache/yay/
+17053  cd eclipse/
+17058  cd breakout/
+17061  cd ..
+17063  cd breakout/
+17086  cd breakout/
+17092  cd src/
+17094  cd breakout/
+17096  cd ../..
+17097  cd test/breakout/
+17104  cd test/breakout/
+17115  cd test/breakout/
+17128  cd test/breakout/
+17152  cd school/b401/
+17155  cd test/breakout/
+17158  cd test/breakout/
+17161  cd test/breakout/
+17178  cd test/breakout/
+17182  cd test/breakout/
+17187  cd test/
+17191  cd breakout/
+17193  cd ../backup/
+17200  cd ..
+17205  cd breakout/
+17274  cd test/breakout/
+17300  cd test/breakout/
+17306  cd .bin
+17319  cd test/breakout/
+17326  cd test/breakout/
+17341  cd Nextcloud/lts/linux/android/
+17343  cd /
+17345  cd ~
+17349  cd /opt/android-s
+17352  cd /opt
+17366  cd /opt/android-sdk/tools/bin/
+17402  cd Nextcloud/ls
+17403  cd Nextcloud/
+17405  cd ~/.config/joplin-desktop/
+17407  cd ~
+17420  cd baresip-studio/
+17425  cd .bin
+17426  cd ..
+17427  cd Nextcloud/lts/linux/
+17429  cd Nextcloud/lts/linux/openvpn-client-configurations/
+17431  cd ..
+17433  cd ~/.bin
+17462  cd /var/cache/pacman/pkg/
+17465  cd /var/log/journal/
+17467  cd /var/log/journal/ee8d8e8fba674c5a9ab5e5f0932a1516/
+17471  cd /
+17497  cd school/b401/
+17501  cd t
+17502  cd test/
+17504  cd ..
+17507  cd breakout/
+17510  cd ..
+17528  cd Nextcloud/music/
+17533  cd ~
+17535  cd music/
+17547  cd school/b401/
+17550  cd breakout/
+17571  cd breakout/
+17624  cd breakout/
+17626  cd breakout/
+17629  cd breakout/
+17635  cd breakout/
+17638  cd breakout/
+17647  cd school/b401/
+17650  cd tax/cc/
+17663  cd /boot/
+17688  cd breakout/
+17701  cd breakout/
+17709  cd school/se
+17713  cd pep
+17719  cd ..
+17721  cd school/se
+17724  cd p1
+17726  cd school/se
+17728  cd p2
+17734  cd school/se
+17779  cd .local/share/mime/
+17782  cd ~
+17791  cd .config/micro/
+17792  cd ~/.local/share/mime/
+17799  cd ~/.local/share/app
+17801  cd ~/.local/share/applications/
+17804  cd ~/.config/micro/
+17805  cd ~/.local/share/mime/
+17811  cd ~/.bin
+17815  cd ~/.local/share/applications/
+17862  cd /usr/lib/firefox-nightly/
+17868  cd /
+17875  cd school/b401/
+17879  cd school/b401/
+17884  cd school/se
+17889  cd firefox-nightly-hg/
+17903  cd ups
+17918  cd .
+17919  cd ..
+17929  cd breakout/
+17970  cd breakout/
+17975  cd breakout/
+17977  cd .git
+17979  cd ..
+17990  cd breakout/
+17999  cd school/b401/
+18008  cd school/b401/
+18045  cd /run/media/sub/Death\ Stranding-FULL\ UNLOCKED\ RePack/
+18050  cd ~
+18053  cd gta/
+18058  cd ..
+18063  cd .gta_wine/drive_c/gta/Grand\ Theft\ Auto\ V/
+18077  cd "/run/media/sub/Death Stranding-FULL UNLOCKED RePack/"
+18079  cd ~
+18089  cd .cache/yay/
+18097  cd ~/Proton-5.9-GE-5-ST/
+18100  cd dist/
+18102  cd bin/
+18104  cd ../..
+18106  cd ~/.steam/root/
+18109  cd compatibilitydools.d/
+18111  cd Proton-5.9-GE-5-ST/
+18114  cd ..
+18116  cd ~
+18122  cd Proton-5.9-GE-5-ST/
+18126  cd ~/gtaa
+18127  cd ~/gta/
+18135  cd .gtav_proton/pfx/drive_c/gta/Grand\ Theft\ Auto\ V/
+18144  cd ds
+18150  cd ds
+18152  cd ~/.ds_proton/pfx/drive_c/ds/
+18154  cd ubuntu12_64/
+18156  cd steam-runtime-heavy/
+18158  cd ..
+18172  cd print/Marlin-2.0.x/
+18175  cd ..
+18176  cd wa
+18201  cd seproject/
+18218  cd src/
+18240  cd ..
+18241  cd src/
+18244  cd ..
+18267  cd seproject/
+18269  cd src/
+18282  cd school/se
+18296  cd twitter/
+18301  cd ~/school/
+18303  cd old/
+18308  cd ~
+18327  cd school/se
+18333  cd school/se
+18338  cd school/b401/
+18354  cd breakout/
+18359  cd ..
+18364  cd breakout/
+18377  cd warner/
+18382  cd Nextcloud/notable/
+18384  cd notes/
+18386  cd ../..
+18387  cd ..
+18393  cd .local/share/applications
+18406  cd breakout/
+18416  cd src/
+18418  cd gamemaker/
+18423  cd ../..
+18436  cd oldbreakout/
+18438  cd oldbreakout/
+18442  cd Nextcloud/c
+18443  cd Nextcloud/cs
+18445  cd not-bytepath/
+18447  cd core/
+18449  cd src/
+18451  cd com/subraizada/bytepath/
+18455  cd oldbreakout/
+18457  cd src/breakout/
+18462  cd breakout/
+18467  cd breakout/assets/
+18469  cd breakout/
+18489  cd breakout/assets/
+18493  cd oldbreakout/
+18496  cd src/breakout/
+18502  cd breakout/src/
+18504  cd gamemaker/
+18508  cd breakout/
+18512  cd breakout/src/as
+18513  cd breakout/as
+18515  cd breakout/assets/
+18520  cd breakout/
+18522  cd breakout/
+18528  cd breakout/
+18530  cd Nextcloud/cs/not-bytepath/core/src/com/subraizada/bytepath/ecsCore/
+18532  cd breakout/assets/
+18535  cd breakout/
+18537  cd breakout/assets/
+18550  cd breakout/
+18561  cd breakout/
+18564  cd breakout/
+18584  cd vm/
+18587  cd breakout/
+18589  cd brea
+18590  cd breakout/
+18593  cd breakout/
+18595  cd breakout/
+18596  cd ..
+18598  cd breakout
+18603  cd breakout
+18609  cd school/se
+18612  cd 06\ requirement\ based\ modeling\ -\ scenario\ based\ modeling/
+18614  cd ..
+18616  cd 06\ requirement\ modeling\ -\ class\ based\ modeling/
+18620  cd school/se
+18623  cd 06\ requirement\ modeling\ -\ uml\ diagrams/
+18625  cd ..
+18627  cd 06\ requirement\ modeling\ -\ 
+18628  cd 06\ requirement\ modeling\ -\ example\ case\ studies/
+18630  cd ..
+18632  cd 07\ requirement\ modeling\ -\ behaviour\ based\ modeling/
+18642  cd school/oop/
+18652  cd /etc/bluetooth/
+18671  cd firefox-nightly-hg/
+18673  cd ..
+18675  cd ff2
+18677  cd ..
+18681  cd firefox-nightly-hg/
+18702  cd .cache/yay/
+18705  cd ~
+18715  cd breakout
+18726  cd firefox-nightly-hg/
+18728  cd firefox-nightly-hg/
+18733  cd firefox-nightly-hg/
+18735  cd src/
+18742  cd ..
+18744  cd firefox-nightly-hg/
+18746  cd ff/
+18752  cd ../firefox-nightly-hg/
+18754  cd ../ff
+18764  cd ~/firefox-nightly-hg/
+18770  cd firefox-nightly-hg/
+18786  cd src/
+18789  cd ..
+18796  cd src/
+18798  cd ..
+18808  cd /tmp
+18811  cd firefox/
+18815  cd ..
+18817  cd firefox/
+18819  cd firefox-nightly-hg/
+18825  cd ~/firefox-nightly-hg/
+18832  cd tax
+18838  cd school/b401/
+18846  cd tax
+18850  cd school/b401/
+18854  cd breakoutks
+18855  cd breakout
+18860  cd vim
+18861  cd vm
+18863  cd school/b401/
+18868  cd ../sec
+18885  cd breakout
+18899  cd .local/share/
+18904  cd .local/share/
+18922  cd Nextcloud/
+18937  cd school/b401/
+18944  cd .config/zettlr/
+18952  cd breakout
+18962  cd vm
+18965  cd school/se
+18967  cd school/se
+18987  cd Nextcloud/lts/linux/android/
+18989  cd ..
+18990  cd hardware/
+18992  cd seven/
+19003  cd school/b401/
+19008  cd school/b401/
+19012  cd ~
+19014  cd .config/rip
+19016  cd .local/share/Ripcord/
+19040  cd trackday\ photos/
+19046  cd seproject/
+19048  cd src/
+19058  cd jn
+19066  cd Nextcloud/
+19073  cd 
+19075  cd P465-Project-UI/
+19082  cd public/
+19084  cd ../src
+19087  cd ..
+19089  cd seproject/
+19091  cd src/
+19145  cd serp
+19146  cd seproject/
+19148  cd src/
+19160  cd school/b401/
+19171  cd school/b401/
+19173  cd school/b401/
+19183  cd seproject/
+19185  cd src/
+19217  cd P465-Project-UI/
+19232  cd seproject/
+19234  cd src/
+19266  cd seproject/
+19268  cd src/
+19285  cd ~/P465-Project-UI/
+19292  cd git@github.iu.edu:P532Fall20/Team
+19294  cd Team1-Week6/
+19325  cd Team1-Week6/
+19337  cd Team1-Week6/
+19360  cd school/b401/
+19371  cd school/b401/
+19377  cd school/b401/
