@@ -1,7 +1,9 @@
 model_dir: run/
 
 data: 
-  train_features_file: ../data/src-cd-train.txt
-  train_labels_file: ../data/tgt-cd-train.txt
-  source_vocabulary: ../data/src-cd-vocab.txt
-  target_vocabulary: ../data/tgt-cd-vocab.txt
+  train_features_file: ../data/src-train.txt
+  train_labels_file: ../data/tgt-train.txt
+  eval_features_file: ../data/src-dev.txt
+  eval_labels_file: ../data/tgt-dev.txt
+  source_vocabulary: ../data/src-vocab.txt
+  target_vocabulary: ../data/tgt-vocab.txt
